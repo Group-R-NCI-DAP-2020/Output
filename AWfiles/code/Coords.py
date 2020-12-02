@@ -2,8 +2,8 @@
 #url = r"https://maps.googleapis.com/maps/api/geocode/json?address=" + item + r"&components = country:IE &key=" + key
 
 """
-Function Gogetter
-Take the full list of secondary schools extracted from education.ie website
+Function GoGetter
+Take the full list of Addresses
 and geocode these based on google maps geocoding API.
 Create augmented list with latitude and longitude information
 
@@ -184,4 +184,69 @@ def schPDF(file):
 
 #    BestSch.to_csv("testout.csv")
     return BestSch
+
+
+
+
+
+"""
+Functions to get distances between pairs of points.
+
+First function applies Haversine equation to get distance between two points
+
+Second sets this into a function that allows you to inout two dataframes and get the minimum pairwise distance 
+between a point in dataset 1 and every point in dataset 2 
+"""
+
+import math
+
+def distCalc(lat1, long1, lat2, long2):
+    """
+    Code calculates distance between 2 lat/long coordinates based on the use of the Haversine formula
+    """
+    REarth = 6371                   #Radius of the earth
+    Rlat1 = math.radians(lat1)
+    Rlong1 = math.radians(long1)
+    Rlat2 = math.radians(lat2)
+    Rlong2 = math.radians(long2)
+
+    latdiff = Rlat1 - Rlat2
+    longdiff = Rlong1 - Rlong2
+    #Apply Haversine formula
+    dist = 2 * REarth * math.asin(math.sqrt(math.sin(latdiff/2) ** 2 + math.cos(Rlat1) * math.cos(Rlat2) * math.sin(longdiff / 2) ** 2))
+    return dist
+
+
+dist = distCalc(Latitude1, Longitude1, Latitude2, Longitude2 )
+
+"""
+Create loop to allow two dataframes to be run together
+Check performance during run
+"""
+
+def LoopyMinD(data1, lat1, long1, data2, lat2, long2):
+    start = time.time()
+    mdist = []
+    for index, row1 in data1.iterrows():
+        dval = []
+        for index, row2 in data2.iterrows():
+            dist = distCalc(float(row1[lat1]), float(row1[long1]), float(row2[lat2]), float(row2[long2]))
+            dval.append(dist)
+        mx = max(dval)
+        mdist.append(mx)
+
+    end = time.time()
+    print("time taken was:", float(end - start), "  Records per second was:", float((len(data1)*len(data2))/(end - start)))
+    return mdist
+
+
+#example
+#k = LoopyMinD(totalSecondary, 'Latitude', 'Longitude', totalSecondary, 'Latitude', 'Longitude')
+
+
+
+
+
+
+
 
