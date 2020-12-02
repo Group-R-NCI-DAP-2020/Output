@@ -98,17 +98,20 @@ def schPDF(file):
 
 
     #strip out incorrect line breaks then a lot of regex to get data in a usable format
-    schooldata2 = schooldata.rstrip("\n")
+#    schooldata2 = schooldata.rstrip("\n")
 
     schooldata2 = re_new("\n", " ", schooldata)
     schnames = re_new( r"(?=[0-9][A-Z][a-z][a-z])", "\n ", schooldata2[5:-50])
     schnames = re_new(r"([0-9][,][0-9][0-9][0-9])", "1k+", schnames)
+    schnames = re_new( r"(?=O'C)", "\n ", schnames)
     schnames = re_new( r"(?=[0-9][\*][A-Z][a-z][a-z])", "\n ", schnames)
     schnames = re_new( r"(?=[0-9][S][t])", "\n ", schnames)
     schnames = re_new( r"(?=[0-9][D][e][' '])", "\n ", schnames)
     schnames = re_new( r"(?=[0-9][F][C])", "\n ", schnames)
     schnames = re_new( r"(?=[0-9][C][B])", "\n ", schnames)
-    schnames = re_new( r"((SD|CK|ND|M|C|U|L|M)[GBM])", ",", schnames)
+    schnames = re_new( r"((SD|CK|ND|M|U|L|M)[GBM])", ",", schnames)
+    schnames = re_new(r"5CBC", "CBC", schnames)
+
     schnames = re_new( r"(?=[-][A-Z][a-z][a-z])", "\n ", schnames)
     schnames = re_new( r"(?=[Œ][A-Z \*])", "\n ", schnames)
     schnames = re_new( r"(?=[Œ][,][A-Z][' '][A-Z])", "\n ", schnames)
@@ -116,6 +119,10 @@ def schPDF(file):
     schnames = re_new( r"\n -Ardan", "-Ardan", schnames)
     schnames = re_new( r"\n -Suir", "-Suir", schnames)
     schnames = re_new( r"\n -Shannon", "-Shannon", schnames)
+
+    schnames = re_new(r"\\xc3\\xa9", "é", schnames)
+    schnames = re_new(r"\\xc3\\xa1", "á", schnames)
+    schnames = re_new(r"\\xc3\\x8d", "Í", schnames)
 
 
     schlist =schnames.split("\n")
@@ -148,7 +155,7 @@ def schPDF(file):
         p1 = (s.find(','))
         p2 = (s.find(',', p1+1))
         p3 = (s.find(',', p2+1))
-        A1 = (s[2: p1])
+        A1 = (s[1: p1])
         A2 = (s[p1 + 1: p2])
         A3 = (s[p2 + 1:p3])
         if A1 == "" and A2 == "":
@@ -163,16 +170,18 @@ def schPDF(file):
             ad3.append(A3)
 
         adrank.append(count)
-        if count == 499:
+        if count == 500:
             break
 
     #Some additional Regexs now needed to clean
     for i in range(len(ad1)-1):
+        ad1[i] = re_new(r"^[0-9]", "", ad1[i])
         ad1[i] = re_new(r"\*", "", ad1[i])
         ad3[i] = re_new("\n", "", ad3[i])
 
     #Drop data into a dataframe
     BestSch = pd.DataFrame(list(zip(adrank, ad1, ad2, ad3)), columns = ['Ranking', 'Name', 'Address1', 'Address2'])
 
-    BestSch.to_csv("testout.csv")
+#    BestSch.to_csv("testout.csv")
     return BestSch
+

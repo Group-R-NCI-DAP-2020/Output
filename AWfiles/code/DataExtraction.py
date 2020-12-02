@@ -43,7 +43,7 @@ EDdata['CO_NAME'].replace('', np.nan, inplace=True)
 # combine the two datasets based on ED assigned to Pobal data
 pobaldf = pd.merge(pobaldf, EDdata[['WKT', 'NAME_TAG', 'AREA', 'LATITUDE', 'LONGITUDE', 'CO_NAME']], left_on = ['ED_Name', 'countyname'], right_on = ['NAME_TAG', 'CO_NAME'], how = 'left')
 
-pobaldf[200:201]
+pobaldf[290:300]
 
 pobaldf = pobaldf[pobaldf.ID06 > 0]
 
@@ -78,8 +78,9 @@ pd.DataFrame(GeoData).to_csv("SchoolGeo.csv")
 #Next we'll combine the co-ordinates information with the list of schools
 
 Secdf['School'] = Secdf['Official School Name'] + ', ' + Secdf['Address 1']+ ', ' + Secdf['Address 2']
-total = pd.merge(Secdf, sc, on = 'School')
-total.to_csv("SecondarySchoolDataset.csv")
+totalSecondary = pd.merge(Secdf, sc, on = 'School')
+totalSecondary.to_csv("SecondarySchoolDataset.csv")
+#totalSecondary = pd.read_csv("SecondarySchoolDataset.csv")
 
 
 
@@ -107,6 +108,7 @@ Primdf['School'] = Primdf['Official Name'] + ', ' + Primdf['Address (Line 1)']+ 
 totalPrimary = pd.merge(Primdf, pc, on = 'School')
 totalPrimary.to_csv("PrimarySchoolDataset.csv")
 
+#totalPrimary = pd.read_csv("PrimarySchoolDataset.csv", index_col = False)
 
 
 """
@@ -124,7 +126,11 @@ file = r'C:\Users\alber\OneDrive\Documents\Postgrad diploma in data analytics\Da
 
 BestSch = schPDF(file)
 
+
 BestSch.to_csv('BestSchools.csv')
+
+
+
 
 
 
