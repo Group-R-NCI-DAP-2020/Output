@@ -39,6 +39,10 @@ For 1NF we also atomise some fields
 
 """
 
+totalPrimary["Principal NameA"] = totalPrimary["Principal Name"].str.replace(
+    "Acting Principal,|UAS.|Ms|Ms.|MRS.|Mrs|Mr|MR.|DR.|Dr.|Dr|Sr.|SR.|REV.|MR.|Mrs.|MS.|FR.|MISS|", "")
+totalPrimary["Principal NameA1"] = totalPrimary["Principal NameA"].astype(str).str.replace("^ ", "")
+
 totalPrimary["Principal NameB"] = totalPrimary["Principal Name"].astype(str).str.replace("'", "''")
 totalPrimary[["Principal First Name", "Principal Last Name"]] = totalPrimary["Principal NameB"].str.split(" ", 1, expand = True,)
 totalPrimary['Male'].fillna(0, inplace = True)
@@ -144,6 +148,14 @@ try:
 
         dbCursor.execute(query)
 
+        query2 = """UPDATE primaryschools
+                    SET address3 = NULL 
+                    WHERE address3 = 'nan';
+                    UPDATE primaryschools
+                    SET address4 = NULL 
+                    WHERE address4 = 'nan';"""
+        dbCursor.execute(query2)
+
     dbCursor.close()
 
 except (Exception, psycopg2.Error) as dbError:
@@ -232,7 +244,10 @@ finally:
 
     """
 
-    totalSecondary["Principal NameB"] = totalSecondary["Principal Name"].astype(str).str.replace("'", "''")
+    totalSecondary["Principal NameA"] = totalSecondary["Principal Name"].str.replace("Acting Principal,|UAS.|Ms|Ms.|MRS.|Mrs|Mr|MR.|DR.|Dr.|SR.|REV.|MR.|Mrs.|MS.|FR.|MISS|", "")
+    totalSecondary["Principal NameA1"] = totalSecondary["Principal NameA"].astype(str).str.replace("^ ", "")
+
+    totalSecondary["Principal NameB"] = totalSecondary["Principal NameA1"].astype(str).str.replace("'", "''")
     totalSecondary[["Principal First Name", "Principal Last Name"]] = totalSecondary["Principal NameB"].str.split(" ", 1, expand=True, )
     totalSecondary['MALE'].fillna(0, inplace=True)
     totalSecondary['FEMALE'].fillna(0, inplace=True)
@@ -272,6 +287,16 @@ try:
             row['Latitude'], row['Longitude'])
 
         dbCursor.execute(query)
+
+
+        query2 = """UPDATE secondaryschools
+                    SET address3 = NULL 
+                    WHERE address3 = 'nan';
+                    UPDATE secondaryschools
+                    SET address4 = NULL 
+                    WHERE address4 = 'nan';"""
+        dbCursor.execute(query2)
+
 
     dbCursor.close()
 
@@ -351,7 +376,7 @@ differences etc.  To get around this we'll geocode and try to match on that
 
 BestSch['FullAddress'] = BestSch['NameB'] + ',' + BestSch['Address1c'] + ',' + BestSch['Address2d']
 
-rankingsCoord, GeoDataRankings = GoGetter(BestSch['FullAddress'], key = ******)
+rankingsCoord, GeoDataRankings = GoGetter(BestSch['FullAddress'], APIkey = key)
 
 pc = pd.DataFrame(rankingsCoord, columns = ['School', 'FullAddress', 'Latitude', 'Longitude'])
 #pc.drop(pc.tail(1).index,inplace=True)
@@ -386,3 +411,199 @@ except (Exception, psycopg2.Error) as dbError:
 finally:
     if (dbConnection):
         dbConnection.close()
+
+"""
+Create a table using CSO population stats data for each county
+"""
+
+    createString = """CREATE TABLE population(
+    county varchar(25) ,
+    pop2011 numeric(12, 4),
+    pop2016 numeric(12, 4) 
+    );"""
+
+    try:
+        dbConnection = psycopg2.connect(user="dap",
+                                        password="dap",
+                                        host="192.168.56.30",
+                                        port="5432",
+                                        database="schooldata")
+        dbConnection.set_isolation_level(0)  # AUTOCOMMIT
+        dbCursor = dbConnection.cursor()
+        dbCursor.execute(createString)
+        dbCursor.close()
+    except (Exception, psycopg2.Error) as dbError:
+        print("Error while connecting to postgresql: ", dbError)
+    else:
+        print("connection successful")
+    finally:
+        if (dbConnection):
+            dbConnection.close()
+
+        """
+        Populate table from dataframe
+        """
+
+    try:
+        dbConnection = psycopg2.connect(user="dap",
+                                        password="dap",
+                                        host="192.168.56.30",
+                                        port="5432",
+                                        database="schooldata")
+        dbConnection.set_isolation_level(0)  # AUTOCOMMIT
+        dbCursor = dbConnection.cursor()
+
+
+        for index, row in popdf.iterrows():
+            query = r"""INSERT INTO population VALUES ('{}','{}','{}');""" .format(row['county'], row['pop11'], row['pop16'])
+
+            dbCursor.execute(query)
+
+        dbCursor.close()
+
+    except (Exception, psycopg2.Error) as dbError:
+        print("Error:", dbError)
+    finally:
+        if (dbConnection):
+            dbConnection.close()
+
+
+
+"""
+Now we will work some more on getting normal form.  we aim to satisfy 3 conditions for each table:
+-must have a primary key
+-must not be atomisable
+-entries in a column must be of the same data type 
+
+Then we seek 2NF by removing transient dependencies on PKs
+
+script below will achieve 2NF and partial 3NF by creating new tables from the original datasets
+
+"""
+
+NFscript = """--Add primary key to population table
+ALTER TABLE population 
+ADD PRIMARY KEY (county);
+
+--list of all schools
+
+create table schoollisting
+as
+select roll_number, schoolname, address1, address2, address3, address4, county, local_auth, principalfirstname, principallastname, eircode, latitude, longitude,
+phone_no, email, schooltype as schooltype
+from secondaryschools
+UNION
+select roll_number, schoolname, address1, address2, address3, address4, county, local_auth, principalfirstname, principallastname, eircode, latitude, longitude, 
+cast(phone_no as varchar(25)), email, 'primary' as schooltype
+from primaryschools;
+
+Alter table schoollisting
+ADD PRIMARY KEY (roll_number);
+Alter table schoollisting
+ADD CONSTRAINT schoollisting_fk 
+FOREIGN KEY (county) 
+REFERENCES population (county);
+
+--table of student numbers
+UPDATE secondaryschools
+                    SET femalen = NULL 
+                    WHERE femalen = 0;
+					
+UPDATE primaryschools
+                    SET femalen = NULL 
+                    WHERE femalen = 0;
+UPDATE secondaryschools
+                    SET malen = NULL 
+                    WHERE malen = 0;
+					
+UPDATE primaryschools
+                    SET malen = NULL 
+                    WHERE malen = 0;					
+
+
+create table students 
+as
+select roll_number, femalen as studentn, 'F' as gender
+from secondaryschools
+UNION
+select Roll_Number, malen as studentn, 'M' as gender
+from secondaryschools
+UNION
+select roll_number, femalen as studentn, 'F' as gender
+from primaryschools
+UNION
+select Roll_Number, malen as studentn, 'M' as gender
+from primaryschools;
+
+ALTER TABLE students 
+ADD PRIMARY KEY (roll_number, gender);
+ALTER TABLE students 
+ADD CONSTRAINT students_fk 
+FOREIGN KEY (roll_number) 
+REFERENCES schoollisting (roll_number);
+
+--school demographic details
+
+create table schooldemographic
+as
+select roll_number, gaeltacht_Indicator, deis, island, irish_classification, ethos 
+from secondaryschools
+UNION
+select roll_number, gaeltacht_Indicator, deis, island, irish_classification, ethos 
+from primaryschools;
+
+ALTER TABLE schooldemographic 
+ADD PRIMARY KEY (roll_number);
+ALTER TABLE schooldemographic 
+ADD CONSTRAINT schooldemographic_fk 
+FOREIGN KEY (roll_number) 
+REFERENCES schoollisting (roll_number);
+
+
+--Update ranking table to include roll number where possible 
+ALTER TABLE ranking
+ADD COLUMN roll_number  varchar(20);
+ALTER TABLE ranking
+ADD id serial;
+UPDATE ranking
+SET roll_number = A.roll_number
+FROM secondaryschools as A
+where A.latitude = ranking.latitude
+and A.longitude = ranking.longitude;
+
+delete from ranking as A
+using ranking as B
+where A.id < b.id
+and A.roll_number = B.roll_number;
+
+ALTER TABLE ranking 
+ADD PRIMARY KEY (ranking);
+ALTER TABLE ranking
+ADD CONSTRAINT ranking_fk 
+FOREIGN KEY (roll_number) 
+REFERENCES schoollisting (roll_number)
+
+;
+
+"""
+
+
+try:
+    dbConnection = psycopg2.connect(user="dap",
+                                    password="dap",
+                                    host="192.168.56.30",
+                                    port="5432",
+                                    database="schooldata")
+    dbConnection.set_isolation_level(0)  # AUTOCOMMIT
+    dbCursor = dbConnection.cursor()
+    dbCursor.execute(NFscript)
+    dbCursor.close()
+
+except (Exception, psycopg2.Error) as dbError:
+    print("Error:", dbError)
+finally:
+    if (dbConnection):
+        dbConnection.close()
+
+
+

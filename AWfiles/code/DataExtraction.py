@@ -43,7 +43,7 @@ EDdata['CO_NAME'].replace('', np.nan, inplace=True)
 # combine the two datasets based on ED assigned to Pobal data
 pobaldf = pd.merge(pobaldf, EDdata[['WKT', 'NAME_TAG', 'AREA', 'LATITUDE', 'LONGITUDE', 'CO_NAME']], left_on = ['ED_Name', 'countyname'], right_on = ['NAME_TAG', 'CO_NAME'], how = 'left')
 
-pobaldf[290:300]
+#pobaldf[290:300]
 
 pobaldf = pobaldf[pobaldf.ID06 > 0]
 
@@ -129,8 +129,37 @@ BestSch = schPDF(file)
 
 BestSch.to_csv('BestSchools.csv')
 
+#BestSch = pd.read_csv('BestSchools.csv')
 
 
+"""
+
+Import population data by county from CSO
+
+"""
+
+pop = r'C:\Users\alber\PycharmProjects\ProgrammingAssignment\P-RSDGI2017TBL1.1.xlsx'
+popheader = ['county', 'pop11', 'pop16']
+popdf = pd.read_excel(pop, sheet_name='P-RSDGI2017TBL1.1',  header = None, names = popheader, skiprows = 4, usecols = "A:C", skipfooter = 3)
+popdf.head(5)
+total = popdf[popdf['county'].isin(['Galway City','Galway County'])].sum()
+total2 = popdf[popdf['county'].isin(['Cork City','Cork County'])].sum()
+
+popdf.set_index('county', inplace=True)
+
+
+total.name = 'Galway'
+total2.name = 'Cork'
+
+popdf = popdf.append(total.transpose())
+popdf = popdf.append(total2.transpose())
+
+popdf['county'] = popdf.index
+
+popdf = popdf[~popdf['county'].isin(['Cork City','Cork County','Galway City','Galway County', 'Border','Midland','West','Dublin City','Dún Laoghaire-Rathdown','Fingal','South Dublin','Mid-East','Mid-West','South-West','South-East',])]
+
+#total = df[popdf['county'].isin(['Galway City','Galway County'])].sum()
+#total.name = 'Galway'
 
 
 
