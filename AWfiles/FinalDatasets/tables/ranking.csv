@@ -1,0 +1,493 @@
+ranking,schoolname,address1,address2,latitude,longitude,roll_number,id
+19,Salerno Jesus and Mary Secondary School, Salthill,  Galway,53.2638001,-9.0895561,NULL,22
+29,St Michael's College, Ailesbury Road, Dublin 4,53.3193092,-6.2174102,NULL,32
+33,Rathdown School, Glenageary, Co Dublin (B),53.27728,-6.1307468,NULL,36
+37,Colaiste Ide, Dingle, Co Kerry (G) (B),52.1267255,-10.3048657,NULL,40
+38,Ursuline Secondary School, Thurles, Co Tipperary (B),52.6814189,-7.8070551,NULL,41
+42,Dominican College, Drumcondra, Dublin 9,53.373982,-6.2482794,NULL,45
+50,Colaiste Pobail Osrai, Ormonde Road, Kilkenny,52.6487452,-7.2530582,NULL,53
+51,Notre Dame School, Dundrum, Dublin 14,53.293852,-6.250994,NULL,54
+74,BC, Monkstown, Co Dublin,53.2853253,-6.1479872,NULL,77
+77,Scoil Mhuire gan Smal, Roscommon, 9Scoil Mhuire gan Smal,53.6280154,-8.1966823,NULL,80
+86,Loreto Secondary School, Granges Road, Kilkenny,52.6589505,-7.2606511,NULL,89
+88,East Glendalough School, Station Road, Wicklow,52.9875182,-6.0540988,NULL,91
+99,Dominican College, Taylor's Hill, Galway,53.2681461,-9.0760287,NULL,102
+112,Meanscoil Iognaid Ris, Naas, Co Kildare,53.2157141,-6.6614147,NULL,115
+118,St Aloysius' College, Carrigtwohill, Co Cork,51.9098686,-8.2593207,NULL,121
+119,Colaiste Chilliain, Clondalkin, Dublin 22,53.3231339,-6.4023791,NULL,122
+121,Mount Temple Comprehensive School, Clontarf, Dublin 3,53.3691594,-6.2224862,NULL,124
+125,Scoil Mhuire agus Ide, Newcastle West, Co Limerick,52.4464932,-9.0594866,NULL,128
+126,Our Lady's Grove, Goatstown Road, Dublin 14,53.3006942,-6.2338977,NULL,129
+135,Rice College, Ennis, Co Clare,52.8481363,-8.979207,NULL,138
+140,St Mary's High School, Midleton, Co Cork,51.9082072,-8.1696676,NULL,143
+141,Dundalk Grammar School, Dundalk, Co Louth (B),53.9976335,-6.4103045,NULL,144
+146,Mean Scoil Naomh Ioseph, Castleisland, Co Kerry,52.2300415,-9.4659594,NULL,149
+149,St Peter's College, Summerhill, Wexford,52.3350512,-6.4723007,NULL,152
+151,Presentation Secondary School, Thurles, Co Tipperary (B),52.6814189,-7.8070551,NULL,154
+152,FCJ Secondary School, Bunclody, Co Wexford,52.6563139,-6.6463816,NULL,155
+156,St Patrick's Classical School, Navan, Co Meath,53.6530425,-6.6983244,NULL,159
+165,Colaiste Daibheid, An t-Ardan Theas, Cork,51.8943,-8.4678638,NULL,168
+167,St Patrick's College, Cavan, ,54.0087921,-7.3532294,NULL,170
+168,Colaiste Einde, Threadneedle Road, Galway,53.2655875,-9.0896355,NULL,171
+178,Colaiste Bride, Enniscorthy, Co Wexford,52.5027873,-6.5589273,NULL,181
+182,Boherbue Comprehensive School, Mallow, Co Cork,52.1594364,-9.0618548,NULL,185
+183,St Mary's Secondary School, Newport, Co Tipperary,52.7108055,-8.4117531,NULL,186
+186,CBS, Mitchelstown, Co Cork,52.2637727,-8.2666108,NULL,189
+190,St Raphaela's Secondary School, Stillorgan, Co Dublin,53.2830554,-6.2056634,NULL,193
+193,Bandon Grammar School, Bandon, Co Cork (B),51.7336025,-8.7493985,NULL,196
+200,John Scottus Secondary School, Donnybrook, Dublin 4,53.3344637,-6.2373238,NULL,203
+204,The Intermediate School, Killorglin, Co Kerry,52.1070849,-9.795216,NULL,207
+209,St Joseph's Secondary School, Miltown Malbay, Co Clare,52.8531247,-9.4026556,NULL,212
+214,St Finian's College, Mullingar, Co Westmeath,53.5397016,-7.3551727,NULL,217
+223,Newtown School, Waterford (B), ,52.251899,-7.1010438,NULL,226
+227,Patrician Academy, Mallow, Co Cork,52.1392577,-8.6445507,NULL,230
+230,Scoil Mhuire, Ballinasloe, Co Galway,53.3280519,-8.2011777,NULL,233
+233,Ursuline College, Sligo, 5Ursuline College,54.276431,-8.4877887,NULL,236
+236,Loreto College, Swords, Co Dublin,53.454323,-6.2456039,NULL,239
+246,St Patrick's Cathedral GS, St Patrick's Close, Dublin 8,53.3395154,-6.2714767,NULL,249
+251,Carrick Vocational School, Carrick, Co Donegal,54.6553208,-8.6331113,NULL,254
+252,The Abbey School, Station Road, Tipperary,52.4716694,-8.1605921,NULL,255
+261,Gaelcholaiste Mhuire, North Monastery Road, Cork,51.9092245,-8.4806722,NULL,264
+266,Heywood Community School, Ballinakill, Co Laois,52.8854675,-7.2994619,NULL,269
+268,Gort Community School, Gort, Co Galway,53.0615103,-8.8112481,NULL,271
+276,Clifden Community School, Clifden, Co Galway,53.4784388,-10.0218035,NULL,279
+284,Sancta Maria College, Ballyroan, Dublin 16,53.2844396,-6.304447,NULL,287
+315,St Mary's Secondary School, Glasnevin, Dublin 11,53.3761994,-6.2726919,NULL,318
+316,Glenamaddy Community School, Glenamaddy, Co Galway,53.6074467,-8.5658524,NULL,319
+324,CBS Secondary School, Tralee, Co Kerry,52.2729968,-9.6994739,NULL,327
+325,Patrician High School, Carrickmacross, Co Monaghan,53.9826021,-6.7156605,NULL,328
+337,Castlecomer Community School, Castlecomer, Co Kilkenny,52.8036808,-7.2156799,NULL,340
+338,Dominican College Sion Hill, Blackrock, Co Dublin,53.3016723,-6.189702,NULL,341
+344,Colaiste Bhride, Carnew, Co Wicklow,52.709856,-6.5019658,NULL,347
+354,Colaiste Sheosaimh, Ballinasloe, Co Galway,53.3237275,-8.247847,NULL,357
+360,Colaiste Bhreanainn, Killarney, Co Kerry,52.0608288,-9.5159678,NULL,363
+361,Athlone Community College, Retreat Road, Co Westmeath,53.4242631,-7.9206865,NULL,364
+370,Castleisland Community College, Castleisland, Co Kerry,52.2272999,-9.4567093,NULL,373
+374,Colaiste na hInse, Bettystown, Co Meath,53.6927772,-6.2445807,NULL,377
+383,Presentation College, Bray, Co Wicklow,53.1928723,-6.1013037,NULL,386
+388,Hartstown Community School, Clonsilla, Dublin 15,53.3961378,-6.4160563,NULL,391
+402,St Mary's Diocesan School, Drogheda,  Co Louth,53.7082726,-6.3473201,NULL,405
+418,Colaiste Cholmcille, Ballyshannon, Co Donegal,54.5032433,-8.1842886,NULL,421
+423,St Joseph's Community College, Kilkee, Co Clare,52.6818076,-9.646753,NULL,426
+430,Holy Family Community School, Rathcoole,  Co Dublin,53.2801699,-6.4767635,NULL,433
+437,Gairmscoil na bPiarsach, Rosmuc, Co Galway (G)                                                    ,53.3868091,-9.6105291,NULL,440
+463,Fingal Community College, Swords, Co Dublin,53.460312,-6.217521,NULL,466
+464,St Clare's College, Ballyjamesduff, Co Cavan,53.8655449,-7.1973026,NULL,467
+466,Davis College, Summerhill, Co Cork,52.1250351,-8.6414357,NULL,469
+467,Crana College, Buncrana, Co Donegal,55.1349829,-7.4576821,NULL,470
+468,Ard Scoil Chiarain Naofa, Clara, Co Offaly ,53.3406303,-7.6124299,NULL,471
+470,Glanmire Community College, Glanmire, Co Cork,51.930853,-8.3843843,NULL,473
+472,St Mary's Holy Faith, Killester, Dublin 5,53.3792627,-6.2038294,NULL,475
+397,CBS, Midleton, Co Cork,51.9072005,-8.1703219,62360G,400
+473,Gairmscoil Mhuire, Athenry, Co Galway                                                          ,53.3013971,-8.7455249,NULL,476
+477,Adamstown Community College, Lucan, Co Dublin,53.3365342,-6.4622851,NULL,480
+2,Colaiste Iosagain, Booterstown, Co Dublin,53.3020994,-6.2063058,60042F,5
+3,Loreto College, St Stephen's Green, Dublin 2,53.3368283,-6.2563519,60820E,6
+4,Presentation Brothers College, Mardyke, Cork,51.8975894,-8.4850617,62570R,7
+5,Gonzaga College, Ranelagh, Dublin 6,53.3169236,-6.2492744,60530S,8
+6,The Teresian School, Donnybrook, Dublin 4,53.3149227,-6.2279599,60892G,9
+7,Scoil Mhuire, Sidney Place, Cork,51.9022221,-8.4679331,62690E,10
+8,Muckross Park College, Donnybrook, Dublin 4,53.321763,-6.2424904,60710U,11
+9,Mount Anville Secondary School, Goatstown, Dublin 14,53.2930822,-6.2231361,60140F,12
+10,Colaiste na Coiribe, Knocknacarra, Galway,53.2695159,-9.1236778,71330V,13
+11,Holy Child School Killiney, Co Dublin, ,53.2531446,-6.114055,60250M,14
+12,Blackrock College, Blackrock, Co Dublin (B),53.3032244,-6.191163,60030V,15
+13,Castleknock College, Castleknock, Dublin 15,53.3682815,-6.3683856,60100Q,16
+14,Sandford Park School, Ranelagh, Dublin 6,53.3228313,-6.2497797,60640C,17
+15,St Conleth's College, Ballsbridge, Dublin 4,53.3279611,-6.2403492,60590N,18
+16,Colaiste Eoin, Booterstown, Co Dublin,53.3025696,-6.2049226,60041D,19
+17,Christian Brothers College, Sidney Hill, Cork,51.9036375,-8.4681664,62520C,20
+18,Loreto High School Beaufort, Rathfarnham, Dublin 14,53.2921079,-6.2832087,60340N,21
+20,Belvedere College, Great Denmark Street, Dublin 1,53.355811,-6.262495,60520P,23
+21,Mount Sackville Secondary School, Chapelizod, Dublin 20,53.359926,-6.358112,60120W,24
+22,Colaiste Iognaid SJ, Sea Road, Galway,53.2693582,-9.0616526,62970K,25
+23,Loreto College, Foxrock, Dublin 18,53.2724078,-6.1753241,60240J,26
+24,St Andrew's College, Blackrock, Co Dublin,53.306436,-6.1976358,60650F,27
+25,Holy Faith Secondary School, Clontarf, Dublin 3,53.360006,-6.1978615,60750J,28
+26,Alexandra College, Milltown, Dublin 6 (B),53.3109345,-6.2483265,60910F,29
+27,Mount Mercy College, Model Farm Road, Cork,51.8900721,-8.5169905,62661U,30
+28,St Mary's College, Rathmines, Dublin 6,53.3274498,-6.2672497,60560E,31
+30,St Gerard's School, Bray, Co Wicklow,53.20457,-6.135569,61811I,33
+31,Clongowes Wood College, Clane, Co Kildare (B),53.3114357,-6.6841632,61720F,34
+32,St Joseph of Cluny, Killiney, Co Dublin,53.2708551,-6.1240119,60260P,35
+34,Glenstal Abbey School, Murroe, Co Limerick (B),52.6606116,-8.3889565,64150F,37
+35,St Kilian's Deutsche Schule, Clonskeagh, Dublin 14,53.3037622,-6.2295964,60630W,38
+36,Rosemont School, Sandyford, Dublin 18,53.2610648,-6.2287431,60930L,39
+39,The High School, Rathgar, Dublin 6,53.3059009,-6.2729587,60670L,42
+40,Crescent College Comprehensive, Dooradoyle, Limerick,52.6366286,-8.640789,81014R,43
+41,Gaelcholaiste Luimnigh, Limerick\n, ,52.6665912,-8.6201342,76101I,44
+43,Loreto Abbey Secondary School, Dalkey, Co Dublin,53.2795181,-6.0996002,60130C,46
+44,St Mary's Secondary School, Mallow, Co Cork,52.141404,-8.641123,62350D,47
+45,Gaelcholaiste na Mara, Arklow, Co Wicklow,52.8013701,-6.1669672,76106S,48
+46,Colaiste Cois Life, Lucan,  Co Dublin,53.3496817,-6.4356457,76065H,49
+47,St Wolstan's Community School, Celbridge, Co Kildare,53.3339478,-6.5612202,91505T,50
+48,Regina Mundi College, Douglas Road, Cork,51.8835043,-8.4437439,62691G,51
+49,Ardscoil Ris, North Circular Road, Limerick,52.665479,-8.6408913,64201T,52
+52,Catholic University School, Lower Leeson Street, Dublin 2,53.3352708,-6.2558832,60540V,55
+53,Newbridge College, Newbridge, Co Kildare,53.188628,-6.7934194,61680T,56
+54,Coláiste Naomh Mhuire, Naas, Co Kildare,53.2202205,-6.6637766,61730I,57
+55,Scoil Mhuire, Trim, Co Meath,53.5524517,-6.790107,64450R,58
+56,Ardscoil Ris, Griffith Avenue, Dublin 9,53.3692639,-6.228192,60420L,59
+57,St Joseph's College, Nun's Island, Galway,53.2725622,-9.0579615,62960H,60
+58,Maynooth Community College, Maynooth, Co Kildare,53.3843289,-6.5954684,76193Q,61
+59,Loreto Secondary School, St Michael's, Navan,53.6520087,-6.6762401,64370T,62
+60,Castleknock Community College, Castleknock, Dublin 15,53.371686,-6.390483,76062B,63
+61,Wesley College, Ballinteer, Dublin 16 (B),53.2785599,-6.2420009,61010U,64
+62,St Angela's College, St Patrick's Hill, Cork,51.9028905,-8.4701155,62640M,65
+63,Santa Sabina Dominican College, Sutton, Dublin 13,53.3874264,-6.1004037,60380C,66
+64,Cistercian College, Roscrea, Co Tipperary (B),52.9626356,-7.8548206,65410K,67
+65,Rockwell College, Cashel, Co Tipperary (B),52.4578294,-7.8927428,65300D,68
+66,Kilkenny College, Castlecomer Road, Kilkenny (B),52.6677089,-7.2475081,61570M,69
+67,Sutton Park School, Sutton, Dublin 13,53.3766884,-6.0931013,60381E,70
+68,The King's Hospital, Palmerstown, Dublin 20 (B),53.3588868,-6.387131,60272W,71
+69,Gaelcholaiste Chiarrai, Tralee, Co Kerry,52.2667396,-9.6989362,70560K,72
+70,St Mary's Secondary School, Macroom, Co Cork,51.9036256,-8.9579788,62320R,73
+71,St Francis Capuchin College, Rochestown, Co Cork,999,999,71020G,74
+72,St Joseph's Secondary School, Castlebar, Co Mayo,53.8558383,-9.2908054,64590K,75
+73,St Mary's Secondary School, Nenagh, Co Tipperary,52.8650613,-8.2017081,65380E,76
+75,Our Lady's School, Terenure, Dublin 6W,53.3004921,-6.2961531,60860Q,78
+76,Presentation Secondary School, Mitchelstown, Co Cork,52.2654128,-8.2653065,62421A,79
+78,Gaelcholaiste Cheatharlach, Askea, Co Carlow,52.8368409,-6.9108865,70440A,81
+79,Coláiste Ghobnait, Inis O\xc3\xadrr, Aran Islands,53.063474,-9.5225605,71370K,82
+80,Presentation College, Athenry, Co Galway,53.2990914,-8.7619332,62870G,83
+81,Loreto Secondary School, Spawell Road, Co Wexford,52.3226218,-6.4854942,63660A,84
+82,Scoil Chaitriona, Glasnevin, Dublin 9,53.3745441,-6.2623067,60700R,85
+83,Laurel Hill Secondary School FCJ, South Circular Road, Limerick,52.6549898,-8.6363918,64270P,86
+84,St Colmcille's Community School, Knocklyon, Dublin 16,53.2786269,-6.315072,91510M,87
+85,Colaiste Muire, Ennis, Co Clare,52.8469905,-8.9854667,61930Q,88
+87,Terenure College, Terenure, Dublin 6W,53.3038,-6.2942162,60570H,90
+89,St Peter's College, Dunboyne, Co Meath,53.4185002,-6.468379,71950F,92
+90,Loreto College, Cavan, ,54.0127666,-7.3737017,61070P,93
+91,Eureka Secondary School, Kells, Co Meath,53.7304775,-6.8860615,64410F,94
+92,Our Lady's Bower, Athlone, Co Westmeath,53.4225836,-7.9220011,63210P,95
+93,Colaiste Oiriall, Monaghan                           , ,54.2625795,-6.9504065,76091I,96
+94,Colaiste Na Toirbhirte, Bandon, Co Cork,51.740204,-8.731043,62061T,97
+95,St Joseph's College, Thurles, Co Tipperary,52.748946,-7.9599165,65241N,98
+96,Castletroy College, Newtown, Co Limerick,52.6631336,-8.5408984,76073G,99
+97,Calasanctius College, Oranmore, Co Galway,53.267645,-8.9332681,63100I,100
+98,St Joseph's College, Lucan, Co Dublin,53.3579268,-6.4409843,60263V,101
+100,Loreto Secondary School, Fermoy, Co Cork,52.135928,-8.2773,62270F,103
+101,Gaelcholaiste Reachrann, Donaghmede, Dublin 13,53.3993137,-6.1561837,76085N,104
+102,St Kieran's College Secondary School, College Road, Kilkenny,52.6475799,-7.2549442,61560J,105
+103,Presentation Secondary School, Listowel, Co Kerry,52.448081,-9.4937056,61380H,106
+104,Malahide Community School, Malahide, Co Dublin,53.438265,-6.1526534,91325R,107
+105,Ashton School, Blackrock Road, Cork,51.8925892,-8.4518135,81008W,108
+106,Mount St Michael, Claremorris, Co Mayo,53.732416,-9.0014401,64620Q,109
+107,Scoil Mhuire, Ballingeary, Co Cork (G),51.8479875,-9.235342,70931T,110
+108,Sacred Heart Secondary School, Clonakilty, Co Cork,51.6269542,-8.8799914,62170B,111
+109,St Gerald's College, Castlebar, Co Mayo,53.8574365,-9.3080468,64580H,112
+110,Salesian College, Celbridge, Co Kildare,53.3583155,-6.5523368,61661P,113
+111,Seamount College, Kinvara, Co Galway,53.1387045,-8.9352155,63050T,114
+114,Colaiste Choilm, Ballincollig, Co Cork,51.8897506,-8.580173,71103K,117
+115,Colaiste An Phiarsaigh, Glanmire, Co Cork (B),51.9180756,-8.398856,62301N,118
+116,Pobalscoil Chorca Dhuibhne, Bothar an Spa, Dingle,52.143275,-10.2672394,91511O,119
+117,Villiers Secondary School, North Circular Road, Limerick (B),52.6615983,-8.6584185,64310B,120
+120,De La Salle College, Macroom, Co Cork,51.9064068,-8.9643844,62310O,123
+122,Colaiste Eanna CBS, Ballyroan, Dublin 16,53.2859957,-6.2962697,60342R,125
+123,Gaelcholaiste Chill Dara, Loiste, Herbert,53.2158046,-6.6691701,68072I,126
+124,Scoil Phobail Mhic Dara, Carna, Co Galway (G),53.323963,-9.818426,91411K,127
+127,St Fintan's High School, Sutton, Dublin 13,53.3892178,-6.1179363,60370W,130
+128,Colaiste an Spioraid Naoimh, Bishopstown, Cork,51.8829286,-8.517108,62580U,131
+129,Mount St Michael, Rosscarbery, Co Cork,51.583032,-9.0257308,62470N,132
+130,Lucan Community College, Esker, Lucan,53.3476706,-6.4497507,70080T,133
+131,Tarbert Comprehensive School, Listowel, Co Kerry,52.5739636,-9.3837619,81006S,134
+132,Sacred Heart Secondary School, Drogheda, Co Louth,53.7112734,-6.343114,63860I,135
+133,Templeogue College, Templeville Road, Dublin 6W,53.3041375,-6.3119162,60562I,136
+134,Christ King Girls' Secondary School, South Douglas Road, Cork,51.8845041,-8.4624111,62692I,137
+136,Holy Rosary College, Mountbellew, Co Galway,53.4695915,-8.4974634,63090I,139
+137,Colaiste Chroi Mhuire, Spiddal, Co Galway (G),53.2437593,-9.3074602,63130R,140
+138,Scoil Mhuire, Ennistymon, Co Clare,52.9388548,-9.2986566,61950W,141
+139,St Vincent's Secondary School, Dundalk, Co Louth,54.005274,-6.391834,63900R,142
+142,Colaiste Raithin, Bray, Co Wicklow,53.2096484,-6.109433,70821M,145
+143,Colaiste an Eachréidh, Athenry, Co Galway,53.3011203,-8.7467822,76102K,146
+144,Scoil Chuimsitheach Chiarain, Carraroe, Co Galway (G),53.2622391,-9.5978179,81012N,147
+145,Maryfield College, Drumcondra, Dublin 9,53.3760038,-6.235165,60840K,148
+147,St Anne's Community College, Killaloe, Co Clare,52.8030727,-8.4402273,70901K,150
+148,Balla Secondary School, Balla, Co Mayo,53.8071689,-9.1375791,64500G,151
+150,St Benildus College, Kilmacud, Dublin 14,53.2846602,-6.2213697,60261R,153
+153,Ratoath College, Jamestown, Co Meath,53.499422,-6.4575933,76088T,156
+154,Meanscoil San Nioclas, Rinn O gCuanach, Co Waterford (G),52.0477152,-7.5755797,76066J,157
+155,Colaiste Ghobnatan, Ballymakeera, Co Cork (G),51.9392118,-9.1558049,70920O,158
+157,Our Lady's Secondary School, Belmullet, Co Mayo,54.2135644,-9.9824053,64570E,160
+158,St Mary's Secondary School, New Ross, Co Wexford,52.3995627,-6.9307021,63620L,161
+159,St Louis High School, Rathmines, Dublin 6,53.3215157,-6.2705757,60890C,162
+160,Loreto Secondary School, Balbriggan, Co Dublin,53.6125785,-6.1858034,60010P,163
+161,St Flannan's College, Ennis, Co Clare,52.8336549,-8.9835507,61920N,164
+162,Sacred Heart Secondary School, Tullamore, Co Offaly,53.2766602,-7.4851351,65620V,165
+163,Mercy College, Woodford, Co Galway,53.0488882,-8.3971015,63171I,166
+164,Scoil Dara, Kilcock, Co Kildare,53.4029847,-6.6704329,61691B,167
+166,Loreto Secondary School, Clonmel, Co Tipperary,52.3503221,-7.6941296,65330M,169
+170,Confey Community College, Leixlip, Co Kildare,53.3728402,-6.4983019,70691C,173
+171,Ardscoil Ui Urmoltaigh, Bandon, Co Cork,51.746973,-8.7442525,62050O,174
+172,Oatlands College, Stillorgan, Co Dublin,53.2926895,-6.2026421,60050E,175
+173,Presentation Secondary School, Loughboy, Kilkenny,52.638977,-7.2472105,61590S,176
+174,Community College, Dunshaughlin, Co Meath,53.5138304,-6.5497252,71960I,177
+175,St Louis Secondary School, Carrickmacross, Co Monaghan,53.9733154,-6.7184699,64760J,178
+176,St Mary's Knockbeg College, Knockbeg, Co Carlow,52.867315,-6.9377338,61130H,179
+177,Stratford College, Rathgar, Dublin 6,53.3097011,-6.2743134,61020A,180
+179,Loreto Secondary School, Bray, Co Wicklow,53.1968412,-6.1065022,61820J,182
+180,Sligo Grammar School, The Mall, Sligo (B),54.2729652,-8.463732,65190W,183
+181,Presentation College, Tuam, Co Galway,53.5179802,-8.8490486,63170G,184
+184,Sacred Heart School, Westport, Co Mayo,53.8012648,-9.5175595,64710R,187
+185,Presentation Secondary School, Tralee, Co Kerry,52.2660639,-9.7000182,61450C,188
+187,Our Lady's Secondary School, Castleblayney, Co Monaghan,54.1192092,-6.7432266,64770M,190
+188,St Mary's Secondary School, Ballina, Co Mayo,54.1158044,-9.1628981,64520M,191
+191,St Paul's Secondary School, Oughterard, Co Galway,53.4302059,-9.3291638,63101K,194
+192,Midleton College, Midleton, Co Cork (B),51.910309,-8.167486,71050P,195
+194,St David's Secondary School, Greystones, Co Wicklow,53.1467248,-6.0609531,61830M,197
+195,Mohill Community College, Co Leitrim, 2Mohill Community College,53.9228706,-7.8715063,76089V,198
+196,St Louis Secondary School, Monaghan, ,54.2449085,-6.9727512,64820B,199
+197,Colaiste Cholmain, Claremorris, Co Mayo,53.7351315,-8.9808415,64610N,200
+198,Meanscoil na mBraithre Criostai, James Street, Kilkenny,52.6530261,-7.2561542,61550G,201
+199,Rathmines College, Rathmines, Dublin 6,53.3240796,-6.2652375,70280E,202
+201,St Dominic's College, Cabra, Dublin 7,53.3714993,-6.3075605,60731F,204
+202,St Macartan's College, Monaghan, ,54.2639066,-6.9562484,64810V,205
+203,Portmarnock Community School, Portmarnock, Co Dublin,53.431772,-6.13749,91324P,206
+205,Drogheda Grammar School, Drogheda, Co Louth,53.7185462,-6.3035134,63870L,208
+206,Ballinamore Community School, Ballinamore, Co Leitrim,54.0582796,-7.7926755,91519H,209
+207,Pobalscoil Inbhear Sceine, Kenmare, Co Kerry,51.8821731,-9.5830017,91503P,210
+208,Franciscan College, Gormanston, Co Meath,53.6344819,-6.2358322,64420I,211
+210,St Mary's Secondary School, Charleville, Co Cork,52.3543921,-8.6866722,62450H,213
+211,St Mary's Secondary School, Edenderry, Co Offaly ,53.3398252,-7.0598529,65582Q,214
+212,Scoil Pol, Kilfinane, Co Limerick,52.3616468,-8.4720349,64130W,215
+213,St Brigid's School, Tuam, Co Galway,53.5128392,-8.8478484,63160D,216
+215,St Raphael's College, Loughrea, Co Galway,53.1999042,-8.5609795,63070C,218
+216,Meanscoil Na mBraithre, Ennistymon, Co Clare,52.941792,-9.2895743,61940T,219
+217,Skerries Community College, Skerries, Co Dublin,53.5792175,-6.1158609,76078Q,220
+218,Colaiste Pobail Setanta, Dublin 15, ,53.3977573,-6.4348173,76098W,221
+219,St Leo's College, Dublin Road, Carlow,52.839996,-6.9274908,61140K,222
+220,Colaiste Muire, Crosshaven, Co Cork,51.801271,-8.2981646,62200H,223
+221,Colaiste Ailigh, Letterkenny, Co Donegal,54.9627237,-7.7241272,76081F,224
+222,Newpark Comprehensive School, Blackrock, Co Dublin,53.2898876,-6.173119,81001I,225
+224,Ballincollig Community School, Ballincollig, Co Cork,51.890044,-8.6023365,91386O,227
+225,St Michael's College, Listowel, Co Kerry,52.4475421,-9.4760996,61370E,228
+226,Clonkeen College, Blackrock, Co Dublin,53.2698715,-6.1571744,60092U,229
+228,St Attracta's Community School, Tubbercurry, Co Sligo,54.0534113,-8.7604927,91512Q,231
+229,Scoil Mhuire Community School, Clane, Co Kildare,53.2918225,-6.6980338,91372D,232
+231,Loreto College, Mullingar, Co Westmeath,53.5297874,-7.346506,63290Q,234
+232,Our Lady's College, Drogheda, Co Louth,53.7202731,-6.3269481,63850F,235
+234,Assumption Secondary School, Walkinstown, Dublin 12,53.3225312,-6.3319853,60851P,237
+235,Ashbourne Community School, Deerpark, Co Meath ,53.5041275,-6.3881152,91495T,238
+237,St Joseph's Secondary School, Navan, Co Meath,53.6502756,-6.6881753,64360Q,240
+238,St Augustine's College, Dungarvan, Co Waterford,52.100178,-7.591896,64890W,241
+239,Mean Scoil Mhuire, Longford , ,53.7254726,-7.7956046,63760E,242
+240,Meanscoil Gharman, Enniscorthy, Co Wexford,52.4733379,-6.5580411,68080H,243
+241,St Kevin's Community College, Dunlavin, Co Wicklow,53.0543708,-6.6967596,70800E,244
+242,St Joseph's CBS, Nenagh, Co Tipperary,52.8665478,-8.1930194,65370B,245
+243,Manor House, Raheny, Dublin 5,53.3785542,-6.1729941,60300B,246
+244,Clonakilty Community College, Clonakilty, Co CorkCorkM46.785.65453211.5023-88338,51.6248108,-8.8870622,70950A,247
+245,St Angela's Ursuline Convent, Waterford, ,52.2459495,-7.1137591,64990D,248
+247,Colaiste na Sceilge, Caherciveen, Co Kerry,51.9401427,-10.2408435,76068N,250
+248,Royal School Cavan, Cavan (B), ,53.9844935,-7.3617566,61080S,251
+249,Scoil Chriost Ri, Portlaoise, Co Laois,53.0487946,-7.2801655,63451O,252
+250,Ursuline Secondary School, Blackrock, Cork,51.8955772,-8.4157559,62650P,253
+254,Colaiste Cholmain, Fermoy, Co Cork,52.1372158,-8.2790351,62260C,257
+255,Mercy Secondary School, Inchicore, Dublin 8,53.3373353,-6.3218796,60872A,258
+256,Luttrelstown Community College, Co Dublin, ,53.3753316,-6.4088352,76130P,259
+257,Scoil Mhuire, Strokestown, Co Roscommon,53.7774271,-8.1123617,65100S,260
+258,John The Baptist Community School, Hospital, Co Limerick ,52.4735323,-8.434838,91502N,261
+259,Davitt College, Castlebar, Co Mayo,53.8571589,-9.2903781,76060U,262
+260,St Aloysius' School, St Maries of the Isle, Cork,51.8957282,-8.4818746,62630J,263
+262,Colaiste Muire, Ballymote, Co Sligo,54.0939456,-8.5138488,65140H,265
+263,Community School, Carrick-on-Shannon, Co Leitrim,53.949038,-8.085044,91496V,266
+264,Beara Community School, Beara, Co Cork,51.6476511,-9.9135981,91387Q,267
+265,Scoil Mhuire, Kanturk, Co Cork,52.178266,-8.9116213,62290L,268
+267,Holy Family Secondary School, Newbridge, Co Kildare,53.1832238,-6.7899728,61682A,270
+269,St Aidan's CBS, Whitehall, Dublin 9,53.3846085,-6.2517664,60481I,272
+270,Colaiste Pobail Rath Cairn, Athboy, Co Meath (G),53.6200683,-6.860762,71991T,273
+271,Colaiste Chriost Ri, Capwell Road, Cork,51.8895847,-8.4646216,62560O,274
+272,Mercy Secondary School, Tralee, Co Kerry,52.2835862,-9.724129,68070E,275
+273,Mountrath Community School, Co Laois, ,52.995324,-7.4812815,91550B,276
+274,Boyne Community School, Trim, Co Meath ,53.550757,-6.784501,91508C,277
+275,Mary Immaculate Secondary School, Lisdoonvarna, Co Clare,53.0305019,-9.2898619,62000W,278
+277,St Mary's College, Arklow, Co Wicklow,52.7952681,-6.1579569,61780A,280
+278,St Anne's Secondary School, Rosanna Road, Tipperary,52.47842,-8.162647,65500L,281
+279,Moate Community School, Church Street, Co Westmeath,53.3967393,-7.7260493,91501L,282
+280,Our Lady of Lourdes Secondary School, New Ross, Co Wexford,52.3985154,-6.9530036,63630O,283
+281,Scoil Muire agus Padraig, Swinford, Co Mayo,53.9419276,-8.9522376,64690O,284
+282,Colaiste Phadraig CBS, Lucan, Co Dublin,53.3568794,-6.432607,60264A,285
+283,St Louis Secondary School, Dundalk, Co Louth,54.0170012,-6.4262564,63910U,286
+285,Donabate Community College, Donabate, Co Dublin,53.4899919,-6.1458709,76104O,288
+286,Scoil Mhuire, Carrick-on-Suir, Co Tipperary,52.3504642,-7.4014202,65280A,289
+287,St Declan's College, Cabra, Dublin 7,53.3665733,-6.3031375,60491L,290
+288,Wilson's Hospital School, Multyfarnham, Co Westmeath (B),53.6126153,-7.4186884,63300Q,291
+289,Mean Scoil an Chlochair, Kilbeggan, Co Westmeath,53.3675844,-7.4931893,63221U,292
+290,Presentation Secondary School, Ballingarry, Co Tipperary,52.5897416,-7.5655554,65240L,293
+291,Colaiste Bride, Clondalkin, Dublin 22,53.3204526,-6.3931241,60122D,294
+292,Cross And Passion College, Kilcullen, Co Kildare,53.1302052,-6.7467934,61690W,295
+293,St Michael's Community College, Kilmihill, Co Clare,52.7248033,-9.3211622,70860W,296
+294,Presentation Secondary School, Miltown, Killarney,52.0585011,-9.515911,61340S,297
+295,Scariff Community College, Scariff, Co Clare,52.9027336,-8.5359141,70900I,298
+296,Loreto Convent Secondary School, Letterkenny, Co Donegal,54.9496892,-7.7411439,62840U,299
+297,Gorey Community School, Esmonde Street, Gorey,52.6731779,-6.2876501,91492N,300
+298,Colaiste Mhuire, Dublin 7\n, ,53.3621764,-6.2979091,60450U,301
+299,Kinsale Community School, Kinsale, Co Cork,51.7044281,-8.5304429,91499E,302
+300,Colaiste Iosaef, Kilmallock, Co Limerick,52.4043212,-8.5781852,76070A,303
+301,Ennis Community College, Ennis, Co Clare,52.8470207,-8.9878814,70830N,304
+302,CBS Roscommon, Abbeytown, Roscommon,53.626567,-8.19538,65080P,305
+303,Coláiste Íde agus Iosef, Abbeyfeale, Co Limerick,52.3863935,-9.2961483,76093M,306
+304,St Caimin's Community School, Tullyvarraga, Co Clare,52.7053651,-8.8627477,91447I,307
+305,Colaiste Mhuire, Askeaton, Co Limerick,52.6001928,-8.969714,71700F,308
+306,Cashel Community School, Cashel, Co Tipperary,52.5190242,-7.8809957,91497A,309
+307,Carrigaline Community School, Carrigaline, Co Cork,51.8180177,-8.3865783,91388S,310
+308,Scoil Phobail Sliabh Luachra, Rathmore, Co Kerry,52.0797199,-9.2464518,91504R,311
+309,Gairmscoil Fheichin Naofa, Corr na Mona, Co Galway (G),53.5133372,-9.451209,71320S,312
+310,St Cuan's College, Castleblakeney, Ballinasloe,53.428941,-8.4729768,62930V,313
+311,Colaiste Mhuire, Buttevant, Co Cork,52.2362182,-8.6772107,76067L,314
+312,St Mary's CBS, Enniscorthy, Co Wexford,52.4973604,-6.5690937,63560T,315
+313,Colaiste Mhuire, Ballygar, Co Galway,53.5243338,-8.3215176,62900M,316
+314,Portumna Community School, Portumna, Co Galway,53.0940952,-8.2200886,91413O,317
+317,Rockbrook Park School, Rathfarnham, Dublin 16,53.262671,-6.300305,60321J,320
+318,Presentation College, Headford, Co Galway,53.4683378,-9.1110104,63040Q,321
+319,St Paul's Secondary School, Greenhills, Dublin 12,53.3089898,-6.3304914,60902G,322
+320,Marist College, Athlone, Co Westmeath,53.4250057,-7.9258939,63190M,323
+321,Salesian Secondary College, Pallaskenry, Co Limerick,52.6475376,-8.8577807,64180O,324
+322,Presentation Secondary School, Grogan's Road, Co Wexford,52.3358143,-6.4644837,63661C,325
+323,Colaiste Chiarain, Croom, Co Limerick,52.5208434,-8.7138012,71840V,326
+326,St Joseph's Secondary School, Tulla, Co Clare,52.863721,-8.761016,62020F,329
+327,Ardscoil na Trionoide, Athy, Co Kildare  ,52.9946645,-6.9841255,68077S,330
+328,Hazelwood College, Dromcollogher, Co Limerick,52.3433302,-8.9033912,71850B,331
+329,Summerhill College, Sligo, 6Summerhill College,54.2660018,-8.4795059,65170Q,332
+330,Coolmine Community School, Clonsilla, Dublin 15,53.3886899,-6.39567,91315O,333
+331,Colaiste Choilm, Tullamore, Co Offaly,53.2704352,-7.4904158,65610S,334
+332,Ardscoil Mhuire, Corbally, Limerick,52.6702789,-8.6145849,64290V,335
+333,Coachford College, Coachford, Co Cork,51.9121113,-8.7933017,70960D,336
+334,St Mary's CBS, Portlaoise, Co Laois,53.0499161,-7.279241,63430G,337
+335,Patrician Secondary School, Newbridge, Co Kildare,53.1845071,-6.7925469,61681V,338
+336,St Muredach's College, Ballina, Co Mayo,54.1151634,-9.1430837,64510J,339
+339,Abbey Vocational School, Donegal, ,54.648659,-8.112553,71180F,342
+340,St Mary's College, Ballysadare, Co Sligo,54.2100573,-8.5115243,65130E,343
+341,St Jarlath's College, Tuam, Co Galway,53.5153514,-8.8478015,68074M,344
+342,Ard Scoil na nDeise, Dungarvan, Co Waterford,52.0873907,-7.6183778,64900W,345
+343,Scoil na mBraithre Chriostai, Charleville, Co Cork,52.3537589,-8.6788997,62440E,346
+345,Clonaslee Vocational School, Clonaslee, Co Laois,53.1455966,-7.5139869,71470O,348
+346,Virginia College, Virginia, Co Cavan,53.8317736,-7.0845831,70390L,349
+347,Colaiste Mhuire, Tourmakeady, Co Mayo (G),53.6654081,-9.350634,64691Q,350
+348,Millstreet Community School, Millstreet, Co Cork,52.062277,-9.0690189,91390F,351
+349,Colaiste Mhuire, Mullingar, Co Westmeath,53.527257,-7.3468931,63270K,352
+350,Ballyhaunis Community School, Ballyhaunis, Co Mayo,53.7652628,-8.780729,91461C,353
+351,Presentation Community College, Terenure, Dublin 6W,53.3108882,-6.2863607,76092K,354
+352,St Joseph's Secondary School, Ballybunion, Co Kerry,52.5172998,-9.6738562,61220I,355
+353,St Mel's College, Longford, ,53.7289198,-7.7937244,63750B,356
+355,St Brigid's College, Callan, Co Kilkenny,52.5480079,-7.3889226,61520U,358
+356,St Brigid's Vocational School, Loughrea, Co Galway,53.1952867,-8.55951,71280J,359
+357,Colaiste Treasa, Kanturk, Co Cork,52.1779891,-8.9009388,71000A,360
+358,St Munchin's College, Corbally, Limerick,52.6820057,-8.6140658,64240G,361
+359,St Joseph's Secondary School, Rush, Co Dublin,53.5201959,-6.0910681,60343T,362
+362,Killina Presentation Secondary School, Tullamore, Co Offaly,53.2708404,-7.5961768,65630B,365
+363,St Joseph's Secondary School, Stanhope Street, Dublin 7,53.3526,-6.2819048,60843Q,366
+364,Colaiste Cholmcille, Inverin, Co Galway (G),53.2446698,-9.3904651,71250A,367
+365,St Brendan's College, Belmullet, Co Mayo,54.2148735,-9.9789984,72050U,368
+366,Carrigallen Vocational School, Carrigallen, Co Leitrim,53.9795381,-7.647758,71540J,369
+367,Blackwater Community School, Lismore, Co Waterford,52.1351178,-7.9402699,91509E,370
+368,Mercy College, Sligo, 5*Mercy College,54.267283,-8.4670677,65181V,371
+369,Colaiste na Trocaire, Rathkeale, Co Limerick,52.520051,-8.934068,76061W,372
+371,Coláiste Íosagáin, Portarlington, Co Laois,53.1620053,-7.2038984,68068R,374
+372,Kilrush Community School, Kilrush, Co Clare,52.6423229,-9.4836843,91448K,375
+373,St Joseph's Community School, Charlestown,  Co Mayo,53.960325,-8.801422,76334I,376
+375,Schull Community College, Schull, Co Cork,51.5224824,-9.5467039,71102I,378
+376,De La Salle Secondary School, Dundalk, Co Louth,54.0164969,-6.4277799,63891T,379
+377,Colaiste Ris, Dundalk, Co Louth,54.0074434,-6.4014756,63880O,380
+378,St Fergal's College, Rathdowney, Co Laois,52.854399,-7.5770925,71520D,381
+379,Blessington Community College, Naas Road, Co Wicklow,53.1695369,-6.5391134,70760S,382
+380,St Oliver Post Primary, Kells, Co Meath,53.7719608,-7.1625026,71990R,383
+381,St Aidan's Comprehensive School, Cootehill, Co Cavan,54.066793,-7.062664,81005Q,384
+382,Mercy Secondary School, Ballymahon, Co Longford,53.565993,-7.7673962,63710M,385
+384,St Joseph's Secondary School, Rochfortbridge, Co Westmeath,53.4140718,-7.3024653,63310T,387
+385,St Brendan's Community School, Birr, Co Offaly ,53.1050072,-7.9163197,91491L,388
+386,St Joseph's Secondary School, Co Mayo, 3St Joseph's Secondary School,53.9817013,-9.1113715,64640W,389
+387,St Mac Dara's Community College, Templeogue, Dublin 6W,53.2970834,-6.3268266,70260V,390
+389,Ardscoil na mBraithre, Clonmel, Co Tipperary,52.3569233,-7.6985544,65320J,392
+390,Scoil na Trionoide Naofa, Doon, Co Limerick,52.6008025,-8.2444812,68121S,393
+391,Our Lady's Secondary School, Templemore, Co Tipperary,52.7971606,-7.8294307,65440T,394
+392,Cnoc Mhuire, Granard, Co Longford,53.780259,-7.488388,63730S,395
+393,Firhouse Community College, Firhouse, Dublin 24,53.2762325,-6.3484937,70140L,396
+394,St Ciaran's Community School, Kells, Co Meath,53.724565,-6.871833,91456J,397
+395,Colaiste Chraobh Abhann, Creowen, Co Wicklow,53.1002438,-6.0653897,76076M,398
+396,Douglas Community School, Douglas, Cork,51.8788253,-8.4430259,91396R,399
+398,St Louis Community School, Kiltimagh, Co Mayo,53.8484098,-9.0020908,91494R,401
+399,CBS Thurles, O'Donovan Street, Co Tipperary,52.6811987,-7.8142163,65450W,402
+400,Scoil Mhuire Gan Smal, Blarney, Co Cork  ,51.9325413,-8.5598213,62090D,403
+401,St Columbas College, Lifford, Co Donegal,54.8040645,-7.7752411,62861F,404
+403,St Eunan's College, Letterkenny, Co Donegal,54.9517496,-7.7455758,62830R,406
+404,Mean Scoil Nua an Leith Triuigh, Castlegregory, Co Kerry,52.2550173,-10.0179768,68075O,407
+405,De La Salle College, Churchtown, Dublin 14,53.2966942,-6.2642198,60310E,408
+406,Pobailscoil na Trionoide, Youghal, Co Cork,51.95128,-7.8738631,91513S,409
+407,St Paul's College, Raheny, Dublin 5,53.3730167,-6.1934137,60290B,410
+408,Rice College, Westport, Co Mayo,53.8012134,-9.5125995,64700O,411
+409,Moyle Park College, Clondalkin,  Dublin 22,53.3202794,-6.3973506,60121B,412
+410,Ballinrobe Community School, Ballinrobe, Co Mayo,53.6231796,-9.2123198,91462E,413
+411,Maria Immaculata Community College, Dunmanway, Co Cork,51.7146221,-9.1153355,76086P,414
+412,Good Counsel College, New Ross, Co Wexford,52.3960173,-6.9313993,63610I,415
+413,Abbey Community College, Ferrybank, Co Kilkenny,52.264237,-7.101846,76082H,416
+414,St Clement's College, South Circular Road, Limerick,52.6557094,-8.6382446,64220A,417
+415,Colaiste an Chroi Naofa, Carrignavar, Co Cork,51.9847831,-8.4699168,62130M,418
+416,Colaiste Pobail Acla, Achill, Co Mayo,53.932702,-9.9136906,76150V,419
+417,Colaiste Pobail Bheanntrai, Bantry, Co Cork,51.6739835,-9.4463403,76090G,420
+419,St Nathy's College, Ballaghaderreen, Co Roscommon,53.90419,-8.581288,68067P,422
+420,Borrisokane Community College, Borrisokane, Co Tipperary,53.0010665,-8.1181204,72370P,423
+421,Pobalscoil Chloich Cheannfhaola, Letterkenny, Co Donegal,55.1418815,-8.099637,91408V,424
+422,Wexford CBS Secondary School, Thomas Street, Wexford,52.333357,-6.4650908,63640R,425
+424,St John Bosco Community College, Kildysart, Co Clare,52.6726705,-9.1046003,76075K,427
+425,Ardscoil Rath Iomghain, Rathangan, Co Kildare,53.2183382,-6.9941143,70730J,428
+426,Coola Post Primary School, Riverstown, Co Sligo,54.1538951,-8.3759378,72310U,429
+427,Piper's Hill College, Naas, Co Kildare,53.1954453,-6.669876,70710D,430
+428,Ballybay Community College, Ballybay, Co Monaghan,54.123694,-6.901818,72170H,431
+429,Colaiste Mhuire, Johnstown, Co Kilkenny,52.7443664,-7.5596697,70600T,432
+431,Rockford Manor Secondary School, Blackrock, Co Dublin,53.287178,-6.162801,60081P,434
+432,St Mogue's College, Belturbet, Co Cavan,54.122559,-7.6775437,70360C,435
+433,Saint Dominic's College, Ballyfermot, Dublin 10,53.3445522,-6.3472355,60720A,436
+434,Colaiste Na Sionna, Banagher, Co Offaly                                                         ,53.1868093,-7.9863692,76105Q,437
+435,Scoil na mBraithre, Dungarvan, Co Waterford,52.0878205,-7.6227649,64880T,438
+436,Dunmore Community School, Co Galway, 2Dunmore Community School,53.616655,-8.7400639,91414Q,439
+438,St Kevin's CBS, Arklow, Co Wicklow,52.7975306,-6.1660971,61770U,441
+439,Presentation Secondary School, Clonmel, Co Tipperary,52.3487105,-7.717249,65340P,442
+440,Monaghan Collegiate School, Corlatt, Monaghan,54.2412459,-6.9395153,64830E,443
+441,Avondale Community College, Rathdrum, Co Wicklow,52.9343558,-6.2361008,70810H,444
+442,Kildare Town Community School, Co Kildare, ,53.169971,-6.9140788,91530S,445
+443,St Mary's Secondary School, Baldoyle, Dublin 13,53.3969916,-6.126854,60021U,446
+444,Gairm Scoil Chilleain Naofa (St Killian's College), Ballinasloe, Co Galway,53.3009438,-8.4881895,71310P,447
+445,Colaiste Muire, Cobh, Co Cork,51.8547853,-8.2937925,62180E,448
+446,Meanscoil Phadraig Naofa, Castleisland, Co Kerry,52.2345409,-9.4578999,61250R,449
+447,Borris Vocational School, Borris, Co Carlow,52.5972716,-6.9178413,70400L,450
+448,St Patrick's College, Gardiner's Hill, Cork,51.9083252,-8.4549533,62730N,451
+449,Colaiste Lorcain, Castledermot, Co Kildare,52.9092191,-6.8388259,70670R,452
+450,Colaiste Phobal Ros Cre, Roscrea, Co Tipperary,52.9538002,-7.7907329,76069P,453
+451,Causeway Comprehensive School, Tralee, Co Kerry,52.4118438,-9.7360539,70540E,454
+452,Largy College, Clones, Co Monaghan,54.1791884,-7.2247265,72171J,455
+453,Athboy Community School, Athboy, Co Meath ,53.6260616,-6.9134088,91517D,456
+454,Loreto College, Crumlin Road, Dublin 12,53.329421,-6.297683,60800V,457
+455,Presentation / De La Salle College, Bagenalstown, Co Carlow,52.7009046,-6.9701113,61150N,458
+456,Mount Carmel Secondary School, Kings Inn Street, Dublin 1,53.3520287,-6.2687145,60853T,459
+457,Colaiste an Chraoibhin, Fermoy, Co Cork,52.1352332,-8.2855797,70990M,460
+458,Oaklands Community College, Edenderry, Co Offaly,53.3368454,-7.0634784,72540O,461
+459,Bailieborough Community School, Bailieborough, Co Cavan,53.9135139,-6.9735109,91351S,462
+460,Abbey Community College, Boyle, Co Roscommon,53.969034,-8.29916,76072E,463
+461,Presentation Secondary School, Ballyphehane, Cork,51.8838438,-8.4784426,62693K,464
+462,Nagle Rice Secondary School, Doneraile, Co Cork,52.2215313,-8.5838574,62210K,465
+465,St Columba's Comprehensive School, Glenties, Co Donegal,54.7994626,-8.2861285,81010J,468
+469,Pobalscoil Iosolde, Palmerstown, Dublin 20,53.3488913,-6.3768632,91302F,472
+471,Moyne Community School, Moyne, Co Longford,53.9087849,-7.6473655,91436D,474
+474,Tullamore College, Tullamore, Co Offaly ,53.2756368,-7.4873,72560U,477
+475,Sancta Maria College, Louisburgh, Co Mayo,53.76469,-9.8057109,64660F,478
+476,Old Bawn Community School, Tallaght, Dublin 24,53.2832867,-6.3711983,91336W,479
+479,Rosmini Community School, Drumcondra, Dublin 9,53.3710821,-6.2450121,91344V,482
+480,St Kevin's College, Finglas, Dublin 11,53.3853781,-6.2778091,60581M,483
+481,St Fintinas Post Primary School, Enfield, Co Meath,53.4523753,-6.9161616,71970L,484
+482,St Patrick's College, Killala, Co Mayo,54.2294299,-9.2879252,72130S,485
+483,Loreto Community School, Milford, Co Donegal,55.0889377,-7.7090087,91500J,486
+484,Central Technical Institute, Clonmel, Co Tipperary,52.3537524,-7.695879,72420E,487
+485,St Clare's Comprehensive School, Manorhamilton, Co Leitrim,54.3019209,-8.1769719,81013P,488
+486,Caritas College, Ballyfermot, Dublin 10,53.348866,-6.358627,60732H,489
+487,St Mary's Academy CBS, Station Road, Carlow,52.8411987,-6.9234051,61120E,490
+488,Gallen Community School, Ferbane, Co Offaly ,53.269388,-7.8285363,91515W,491
+489,Jesus & Mary Secondary School, Enniscrone, Co Sligo,37.2467307,-95.7122751,63001G,492
+490,De La Salle College, Newtown, Waterford,52.253541,-7.102575,64950O,493
+491,Marian College, Ballsbridge, Dublin 4,53.3330343,-6.2270398,60500J,494
+492,Mountmellick Community School, Mountmellick, Co Laois,53.1176082,-7.3271745,91426A,495
+493,Grennan College, Thomastown, Co Kilkenny,52.5284997,-7.1433941,70640I,496
+494,Drumshanbo Vocational School, Drumshanbo, Co Leitrim,54.0485338,-8.0464014,71570S,497
+495,St Paul's Secondary School, Monasterevin, Co Kildare,53.1425507,-7.0665546,61702D,498
+496,Ardgillan College, Balbriggan, Co Dublin,53.6006598,-6.1805202,76129H,499
+497,Elphin Community College, Castlerea, Co Roscommon,53.7656374,-8.4837213,91493P,500
+498,Scoil Mhuire, Buncrana, Co Donegal,55.131219,-7.4582273,62770C,501
