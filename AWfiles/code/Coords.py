@@ -210,14 +210,34 @@ def distCalc(lat1, long1, lat2, long2):
     Rlat2 = math.radians(lat2)
     Rlong2 = math.radians(long2)
 
-    latdiff = Rlat1 - Rlat2
-    longdiff = Rlong1 - Rlong2
+    latdiff = Rlat2 - Rlat1
+    longdiff = Rlong2 - Rlong1
     #Apply Haversine formula
-    dist = 2 * REarth * math.asin(math.sqrt(math.sin(latdiff/2) ** 2 + math.cos(Rlat1) * math.cos(Rlat2) * math.sin(longdiff / 2) ** 2))
-    return dist
+    dist = 2 * REarth * math.asin(math.sqrt((math.sin(latdiff/2) ** 2) + (math.cos(Rlat1) * math.cos(Rlat2)) * math.sin(longdiff / 2) ** 2))
+
+    f = 1/298.257
+    latr1 = math.atan((1 - f) * math.tan(Rlat1))
+    latr2 = math.atan((1 - f) * math.tan(Rlat2))
+    P = (latr1 + latr2)/2
+    Q = (latr2 - latr1)/2
+    c=dist/REarth
+    X = (c - math.sin(c)) * math.sin(P) ** 2 * math.cos(Q) ** 2 / math.cos(c/2) ** 2
+    Y = (c + math.sin(c)) * math.sin(Q) ** 2 * math.cos(P) ** 2 / math.sin(c/2) ** 2
+    Lambertdist = REarth * (c - f * (X + Y)/2)
+
+    return dist, Lambertdist
 
 
-dist = distCalc(Latitude1, Longitude1, Latitude2, Longitude2 )
+#dist = distCalc(Latitude1, Longitude1, Latitude2, Longitude2 )
+#distCalc(53.4933598, -6.1498710999999995, 59.4899919, -2.1458709)
+#test difference between Haversine and Lambert calc- impact is very small
+set = []
+for index, row in HPricedata1.iterrows():
+    hav, lam = distCalc(row['lat'], row['lng'], row['SecSchlat'], row['SecSchLong'])
+    diff = format(1000*(hav - lam), ".4f")
+    reldiff = format(100*(1-(hav/lam)), ".4f")
+    set.append([hav, lam, diff, reldiff])
+
 
 """
 Create loop to allow two dataframes to be run together
@@ -229,11 +249,16 @@ def LoopyMinD(data1, lat1, long1, data2, lat2, long2):
     mdist = []
     for index, row1 in data1.iterrows():
         dval = []
+        dist1 = 999999999999
         for index, row2 in data2.iterrows():
-            dist = distCalc(float(row1[lat1]), float(row1[long1]), float(row2[lat2]), float(row2[long2]))
-            dval.append(dist)
-        mx = max(dval)
-        mdist.append(mx)
+            dist, lambertdist = distCalc(float(row1[lat1]), float(row1[long1]), float(row2[lat2]), float(row2[long2]))
+            if dist < dist1:
+                dist1 = dist
+                set = [dist1, row2[lat2], row2[long2]]
+
+       # mx = min(dval)
+        mdist.append([row1[0], row1[lat1],row1[long1], set[0], set[1], set[2]])
+    mdist = pd.DataFrame(mdist, columns=['indexrow', 'file1Lat', 'file1Long', 'minDistance', 'file2Lat', 'file2Long'])
 
     end = time.time()
     print("time taken was:", float(end - start), "  Records per second was:", float((len(data1)*len(data2))/(end - start)))
@@ -244,7 +269,41 @@ def LoopyMinD(data1, lat1, long1, data2, lat2, long2):
 #k = LoopyMinD(totalSecondary, 'Latitude', 'Longitude', totalSecondary, 'Latitude', 'Longitude')
 
 
+"""
+ Function to assign a scholl to an electora division based on lat, long co-ordinates and a shapefile of the ED's
+"""
 
+zipfile = r"D:\Shape2\c578ea0c-404e-4a58-9c6a-b2367344377f2020329-1-1tqhsy4.d3d5.shp"
+iremap = geopandas.read_file(zipfile)
+#latlong1['pointset'] = [Point(lon, lat) for lon, lat in latlong1[['longitude','latitude']].values]
+
+
+
+def ED_locate(dataframename, lat = 'latitude', long = 'longitude'):
+    import time
+    start = time.time()
+    testset = []
+    counter = 0
+    for index, rows in dataframename.iterrows():
+        for index, rows2 in iremap.iterrows():
+            counter += 1
+            if rows.pointset.within(rows2.geometry):
+               # testset.append([rows['roll_number'], rows['latitude'], rows['longitude'], rows2.ED_ENGLISH, rows2.ED_ID])
+                testset.append([rows[0], rows[lat], rows[long], rows2.ED_ENGLISH, rows2.ED_ID])
+
+                break
+            else:
+                continue
+    end = time.time()
+    print(end - start)
+    print(counter, " iterations")
+
+    print(str(len(dataframename) * len(iremap)), " potential iterations")
+    print(str((len(dataframename) * len(iremap)) / (end - start)), " rows per second")
+
+    column_names = ['roll_number', 'latitude', 'longitude', 'ED_ENGLISH', 'ED_ID']
+    schoolED = pd.DataFrame(testset, columns=column_names)
+    return schoolED
 
 
 
