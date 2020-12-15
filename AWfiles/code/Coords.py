@@ -67,7 +67,8 @@ def GoGetter(list, APIkey = 'None'):
         end = time.time()
         print(end - start)
 
-
+##example:
+## GoGetter(dataframe['listcol'], APIKEYfromGoogle)
 
 """ 
 Function schPDF:  uses PyPDF to extract data about best performing schools in Ireland
@@ -186,7 +187,9 @@ def schPDF(file):
     return BestSch
 
 
-
+##Example
+##schPDF('testfile.csv')
+## note this code is bespoke to a particular csv file(school ranking data)
 
 
 """
@@ -227,20 +230,21 @@ def distCalc(lat1, long1, lat2, long2):
 
     return dist, Lambertdist
 
-
+#example
 #dist = distCalc(Latitude1, Longitude1, Latitude2, Longitude2 )
 #distCalc(53.4933598, -6.1498710999999995, 59.4899919, -2.1458709)
-#test difference between Haversine and Lambert calc- impact is very small
-set = []
-for index, row in HPricedata1.iterrows():
-    hav, lam = distCalc(row['lat'], row['lng'], row['SecSchlat'], row['SecSchLong'])
-    diff = format(1000*(hav - lam), ".4f")
-    reldiff = format(100*(1-(hav/lam)), ".4f")
-    set.append([hav, lam, diff, reldiff])
+#tested difference between Haversine and Lambert calc below- impact is very small, approx0.01%-.01%
+#set = []
+#for index, row in HPricedata1.iterrows():
+#    hav, lam = distCalc(row['lat'], row['lng'], row['SecSchlat'], row['SecSchLong'])
+#    diff = format(1000*(hav - lam), ".4f")
+#    reldiff = format(100*(1-(hav/lam)), ".4f")
+#    set.append([hav, lam, diff, reldiff])
 
 
 """
-Create loop to allow two dataframes to be run together
+Create loop to allow two dataframes to be run together for pairwise distance cal
+outputs the min distance between a point in data 1 and every point on data 2
 Check performance during run
 """
 
@@ -270,10 +274,10 @@ def LoopyMinD(data1, lat1, long1, data2, lat2, long2):
 
 
 """
- Function to assign a scholl to an electora division based on lat, long co-ordinates and a shapefile of the ED's
+ Function to assign a school or other location to an electoral division based on lat, long co-ordinates and a shapefile of the ED's
 """
 
-zipfile = r"D:\Shape2\c578ea0c-404e-4a58-9c6a-b2367344377f2020329-1-1tqhsy4.d3d5.shp"
+zipfile = r"D:\Shape2\c578ea0c-404e-4a58-9c6a-b2367344377f2020329-1-1tqhsy4.d3d5.shp" #obtained from OSI
 iremap = geopandas.read_file(zipfile)
 #latlong1['pointset'] = [Point(lon, lat) for lon, lat in latlong1[['longitude','latitude']].values]
 
