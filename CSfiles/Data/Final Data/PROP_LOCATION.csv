@@ -1,4 +1,4 @@
-P-ID,Lat (WGS84 GPS),Long (WGS84 GPS),Address,Eircode,Routing Key
+P-ID,Lat_(WGS84_GPS),Long_(WGS84_GPS),Address,Eircode,Routing_Key
 4432540,52.4473539,-6.346930299999999,"   blackwater, blackwater, wexford",,Y35
 4454727,52.59939749999999,-8.806099099999997,"  'cois na coille',curraghchase,, kilcornan, limerick",V94 DCN4,V94
 4432817,51.59762,-9.568404,"  'janest' dunbeacon, durrus, west cork",P75NR74,P75
