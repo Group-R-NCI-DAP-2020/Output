@@ -1,0 +1,724 @@
+,School,FullAddress,Latitude,Longitude
+0,"Loreto Secondary School, Brick Lane, Balbriggan","Brick Lane, Tankardstown, Balbriggan, Co. Dublin, Ireland",53.6125785,-6.185803399999999
+1,"St Marys Secondary School, Baldoyle, D13 W208","13 Main St, Baldoyle, Dublin, Ireland",53.3969916,-6.126854
+2,"Blackrock College, Blackrock College, Co Dublin","Rock Rd, Williamstown, Dublin, Ireland",53.3032244,-6.191163
+3,"Willow Park School, Rock Road, Blackrock","Rock Rd, Williamstown, Blackrock, Co. Dublin, Ireland",53.30602930000001,-6.195331299999999
+4,"Coláiste Eoin, Baile an Bhóthair, Bóthair Stigh Lorgan","Stillorgan Rd, Booterstown, Blackrock, Co. Dublin, Ireland",53.3025696,-6.2049226
+5,"Coláiste Íosagáin, Bóthar Stigh Lorgan, Baile an Bhóthair","Stillorgan Rd, Booterstown, Co. Dublin, Ireland",53.3020994,-6.2063058
+6,"Oatlands College, Mount Merrion, Co Dublin","Mount Merrion, Dublin, Ireland",53.29268949999999,-6.202642099999999
+7,"Dominican College, Dominican College Sion Hill, Cross Avenue","Cross Ave, Blackrock, Dublin, A94 TP97, Ireland",53.3013306,-6.1892508
+8,"Rockford Manor Secondary School, Stradbrook Rd, Blackrock","Rockford Manor secondary school, Stradbrook Rd, Blackrock, Dublin, Ireland",53.287178,-6.162801
+9,"Rathdown School, Upper Glenageary Road, Glenageary","Glenageary Rd Upper, Glenageary, Dublin, A96 H5N3, Ireland",53.2773709,-6.1305882
+10,"Clonkeen College, Clonkeen Road, Blackrock","Clonkeen Rd, Deansgrange, Blackrock, Co. Dublin, Ireland",53.2698715,-6.1571744
+11,"Castleknock College, College Rd, Castleknock","College Rd, Castleknock, Dublin, Co. Dublin, D15 PD95, Ireland",53.36828149999999,-6.3683856
+12,"Mount Sackville Secondary School, Tower Road, Chapelizod,","Sisters of St. Joseph of Cluny, Chapelizod, Castleknock, Dublin 20, Co. Dublin, Ireland",53.35992599999999,-6.358111999999999
+13,"Moyle Park College, Clondalkin, Dublin 22","Convent Rd, Clondalkin, Dublin 22, Ireland",53.3202794,-6.397350599999999
+14,"Coláiste Bríde, New Road, Clondalkin","22 New Rd, Bushelloaf, Clondalkin, Co. Dublin, Ireland",53.3204526,-6.3931241
+15,"Loreto Abbey Secondary School, Dalkey, Co Dublin","Loreto Ave, Harbour Rd, Dalkey, Co. Dublin, A96 YC81, Ireland",53.2795181,-6.099600199999999
+16,"Mount Anville Secondary School, Mount Anville Road, Dublin 14","14 Mount Anville Rd, Mountanville, Dublin, Ireland",53.2930822,-6.2231361
+17,"Christian Brothers College, Monkstown Park, Dun Laoghaire","Mounttown Road Upper, Dún Laoghaire, Dublin, Ireland",53.2899387,-6.1482453
+18,"Loreto College Foxrock, Springfield Park, Foxrock","Springfield Park, Deansgrange, Dublin 18, D18 FT21, Ireland",53.2724078,-6.1753241
+19,"Holy Child Secondary School, Military Road, Killiney","Military Rd, Killiney, Co. Dublin, Ireland",53.2531446,-6.114055
+20,"St Joseph Of Cluny Secondary School, Ballinclea Road, Killiney","Avondale Rd, Ballinclea, Killiney, Co. Dublin, Ireland",53.2708551,-6.124011899999999
+21,"St Benildus College, Upper Kilmacud Rd, Stillorgan","Kilmacud Rd Upper, Stillorgan, Dublin, Ireland",53.2846602,-6.221369699999999
+22,"St Laurence College, Loughlinstown, Dublin 18","Wyattville Rd, Glenageary, Loughlinstown, Co. Dublin, Ireland",53.2510054,-6.1383621
+23,"St Josephs College, Lucan, Co Dublin","Lucan Rd, Esker North, Lucan, Co. Dublin, Ireland",53.35792679999999,-6.440984299999999
+24,"Coláiste Phádraig CBS, Roselawn, Lucan","Roselawn, Ballydowd, Lucan, Co. Dublin, Ireland",53.3568794,-6.432607
+25,"The Kings Hospital, Palmerstown, Dublin 20","Old Lucan Road, Brooklawn, Palmerstown, Co. Dublin, D20 V256, Ireland",53.3588868,-6.387131
+26,"St Pauls College, Sybil Hill, Raheny","Sybil Hill Ave, Clontarf, Dublin 5, D05 W314, Ireland",53.3730167,-6.1934137
+27,"Árdscoil La Salle, Raheny Road, Raheny","Raheny Rd, Donaghmede, Raheny, Co. Dublin, D05 Y132, Ireland",53.388932,-6.169582000000001
+28,"Manor House School, Watermill Road, Raheny","Watermill Rd, Raheny - St. Assam, Dublin, Ireland",53.3785542,-6.1729941
+29,"De La Salle College, Upper Churchtown Road, Churchtown","Churchtown Rd Upper, Churchtown Upper, Dublin, Ireland",53.2966942,-6.264219799999999
+30,"St Columba's College, Whitechurch, Dublin 16","Kilmashogue Ln, Whitechurch, Dublin 16, D16 CH92, Ireland",53.2665156,-6.268810600000001
+31,"Rockbrook Park School, Edmondstown Road, Rathfarnham","16 Edmondstown Rd, Rathfarnham, Dublin 16, Ireland",53.262671,-6.300305
+32,"Loreto High School, Beaufort, Grange Rd","Grange Rd, Rathfarnham, Dublin, Ireland",53.2921079,-6.283208699999999
+33,"Sancta Maria College, Ballyroan Crescent, Rathfarnham","Sancta Maria College, Ballyroan Cres, Templeogue, Dublin 16, Ireland",53.2848024,-6.3028515
+34,"Coláiste Éanna, Hillside Park, Ballyroan Road","Hillside Park, Ballyroan Road, Ballyroan, Rathfarnham, Dublin 16, D16 E248, Ireland",53.2859957,-6.2962697
+35,"St Joseph's Secondary School, Convent Lane, Rush","Convent Ln, Rush, Co. Dublin, Ireland",53.5201959,-6.0910681
+36,"St Raphaela's Secondary School, St. Raphaela's Road, Stillorgan","St Raphaela's Rd, Kilmacud, Dublin, Ireland",53.2819004,-6.2092985
+37,"St. Fintan's High School, Dublin Road, Sutton","13 Dublin Rd, Burrow, Sutton, Co. Dublin, D13 HN59, Ireland",53.3892178,-6.117936299999999
+38,"Santa Sabina Dominican College, Greenfield Road, Sutton","Santa Sabina, Greenfield Rd, Howth Demesne, Dublin, Ireland",53.3874264,-6.100403699999999
+39,"Sutton Park School, St Fintans Road, Sutton","St Fintan's Road, Sutton, Dublin 13, D13 PY92, Ireland",53.3766884,-6.0931013
+40,"Coláiste Choilm, Dublin Road, Swords","Dublin Rd Dublin Rd, Miltonsfields, Swords, Co. Dublin, K67 CX99, Ireland",53.45253109999999,-6.2249102
+41,"St Josephs C.B.S., Merville Ave, Fairview","Merville Ave, Fairview, Dublin 3, D03 H524, Ireland",53.36393899999999,-6.233694
+42,"St Vincents C.B.S. Glasnevin, Finglas Road, Glasnevin","Finglas Rd, Glasnevin, Dublin 11, D11 PA00, Ireland",53.3682916,-6.2749443
+43,"C.B.S. James Street, James's Street, Dublin 8","8 Basin View, Saint Catherine's, Dublin 8, D08 H2H9, Ireland",53.340441,-6.289313399999999
+44,"Árdscoil Rís, Griffith Avenue, Marino","Griffith Ave, Grace Park, Dublin 09, Ireland",53.3692639,-6.228192
+45,"St Pauls C.B.S., Christian Brothers, Nth Brunswick Street","Saint Paul's Christian Brother's School Secondary School, Brunswick St N, Smithfield, Dublin 7, Ireland",53.3505534,-6.275816799999999
+46,"O'Connell School, North Richmond Street, Dublin 1","13 Richmond St N, Drumcondra, Dublin, D01 V1K2, Ireland",53.3584422,-6.2502078
+47,"Coláiste Mhuire, Bothar Rath Tó, Cabrach","7 Ratoath Rd, Cabra West, Dublin, D07 CY97, Ireland",53.3621764,-6.2979091
+48,"Christian Brothers, Synge St., Synge Street CBS Secondary School, Synge Street","Synge St, Saint Kevin's, Dublin, Ireland",53.3336353,-6.2675154
+49,"St. David's C.B.S., Artane, Dublin 5","St David's, Beaumont, Dublin 5, D05 Y0X3, Ireland",53.38141359999999,-6.2170366
+50,"Meanscoil Iognáid Rís, Long Mile Road, Walkinstown","Long Mile Rd, Walkinstown, Dublin 12, Ireland",53.3243324,-6.3309735
+51,"St. Aidan's C.B.S., Collins Avenue Ext, Whitehall","Collins Ave, Whitehall, Dublin, Ireland",53.3846085,-6.251766399999999
+52,"C.B.S. Westland Row, Westland Row, Dublin 2","South Cumberland St, Dublin 2, Ireland",53.342825,-6.248949
+53,"St Declan's College, Nephin Road, Cabra","Nephin Rd, Cabra West, Dublin 7, Ireland",53.3665733,-6.3031375
+54,"Marian College, Ballsbridge, Dublin 4","4 Lansdowne Rd, Dublin Southside, Co. Dublin, Ireland",53.33303429999999,-6.2270398
+55,"St Johns College De La Salle, Le Fanu Rd, Ballyfermot","10 Le Fanu Rd, Drumfinn, Dublin, Ireland",53.3446958,-6.3542329
+56,"Beneavin De La Salle College, Beneavin Road, Finglas","11 Beneavin Rd, Finglas East, Dublin, Co. Dublin, 11, Ireland",53.3894011,-6.286722999999999
+57,"Belvedere College S.J, 6 Great Denmark Street, Dublin 1","6 Great Denmark Street, Rotunda, Dublin 1, Ireland",53.355811,-6.262494999999999
+58,"Gonzaga College, Sandford Road, Ranelagh","Gonzaga College SJ, Sandford Road, (via Sandford Close or Park Lane), Ranelagh, Dublin, D06 KF95, Ireland",53.3169236,-6.2492744
+59,"Catholic University School, 89 Lower Leeson Street, Dublin 2","89 Leeson Street Lower, Saint Peter's, Dublin 2, D02 KC81, Ireland",53.3352708,-6.2558832
+60,"Chanel College, Coolock Village, Malahide Road","Coolock Village, Malahide Rd, Kilmore, Dublin, D05 EY86, Ireland",53.38784399999999,-6.204044
+61,"St Marys College, 73-79 Lower Rathmines Road, Dublin 6","73-79 Rathmines Rd Lower, Rathmines, Dublin 6, D06 CH79, Ireland",53.3274498,-6.2672497
+62,"St Michaels College, Ailesbury Road, Dublin 4","Ailesbury Rd, Dublin 4, D04 A373, Ireland",53.32000189999999,-6.2167167
+63,"Templeogue College, Templeville Road, Dublin 6W","Templeville Rd, Dublin, Ireland",53.3041375,-6.3119162
+64,"Terenure College, Templeogue Road, Terenure","Templeogue Rd, Terenure, Dublin, D6W DK72, Ireland",53.3038,-6.2942162
+65,"St Kevins College, Ballygall Rd East, Finglas","Ballygall Rd E, Ballygall, Dublin 11, Ireland",53.3853781,-6.2778091
+66,"St Conleths College, 28 Clyde Road, Ballsbridge","28 Clyde Rd, Dublin, D04 FT98, Ireland",53.3279611,-6.2403492
+67,"St Kilian's Deutsche Schule, Roebuck Road, Clonskeagh","14 Roebuck Rd, Roebuck, Dublin, D14 P7F2, Ireland",53.30376219999999,-6.2295964
+68,"Sandford Park School Ltd, Sandford Road, Ranelagh","Ranelagh, Dublin 6, Ireland",53.3228313,-6.249779699999999
+69,"St Andrews College, Booterstown Ave, Blackrock","55 Booterstown Ave, Williamstown, Dublin, A94 P2N7, Ireland",53.306436,-6.1976358
+70,"St Patricks Cathedral Grammar School, St Patricks Close, Dublin 8","St Patrick's Close, Dublin, Ireland",53.3390348,-6.271552499999999
+71,"The High School, Danum, Zion Road","Danum, Zion Rd, Rathgar, Dublin 6, D06 YR68, Ireland",53.3059009,-6.272958699999999
+72,"Dominican College, 204, Griffith Ave, Drumcondra","204 Griffith Ave, Drumcondra, Dublin 9, Ireland",53.3743641,-6.249518
+73,"Scoil Chaitriona, Bóthar Mobhí, Glasnaíon","St Mobhi Rd, Glasnevin, Drumcondra, Dublin 9, D09 TW99, Ireland",53.37454409999999,-6.262306700000001
+74,"Muckross Park College, Donnybrook, Dublin 4","Marlborough Road, Donnybrook, Dublin 4, Ireland",53.321763,-6.242490399999999
+75,"Saint Dominic's Secondary School, Ballyfermot, Dublin 10","10 Kylemore Rd, Chapelizod, Ballyfermot, Co. Dublin, Ireland",53.3445522,-6.3472355
+76,"St Dominics College, Cabra, Dublin 7","Ratoath Rd, Ashtown, Dublin 7, D07 NX47, Ireland",53.3714993,-6.3075605
+77,"Caritas College, Drumfinn Road, Ballyfermot","10 Drumfinn Rd, Drumfinn, Dublin 10, Ireland",53.348866,-6.358626999999999
+78,"St Michaels Secondary School, Wellmount Road, Finglas","Wellmount Rd, Finglas West, Dublin, D11 K2C3, Ireland",53.3868506,-6.3014674
+79,"Holy Faith Secondary School, 1 Belgrove Road, Clontarf","178-180 Clontarf Rd, Clontarf, Dublin, D03 VP04, Ireland",53.360006,-6.1978615
+80,"St Mary's Secondary School, St. Mary's Secondary School, Holy Faith Convent","75 Frederick St, Port of Spain, Trinidad and Tobago",10.6588353,-61.5104862
+81,"St Marys Secondary School, Brookwood Meadow, Killester","Brookwood Meadow, Clontarf West, Dublin 5, Co. Dublin, D05 K588, Ireland",53.3790414,-6.201694799999999
+82,"Presentation College, Presentation Secondary School, Clarence Mangan Road","Clarence Mangan Rd, Warrenmount, Dublin 8, D08 W0X7, Ireland",53.33597719999999,-6.2778127
+83,"Loreto College, Crumlin Road, Dublin 12","12 Crumlin Rd, Crumlin, Dublin 12, Ireland",53.329421,-6.297683
+84,"Loreto College, Swords, Rivervalley","River Valley, Swords, Co. Dublin, Ireland",53.4543605,-6.2450791
+85,"Loreto College, 53 St Stephens Green, Dublin 2","53 St Stephen's Green, Saint Peter's, Dublin 2, D02 XE79, Ireland",53.33682830000001,-6.256351899999999
+86,"Maryfield College, Glandore Road, Drumcondra","Sion Hill Rd, Grace Park, Dublin, Ireland",53.3760038,-6.235164999999999
+87,"Rosary College, Armagh Road, Crumlin","Armagh Rd, Crumlin, Dublin, D12 V6RK, Ireland",53.3187376,-6.3074433
+88,"St Josephs Secondary School, Stanhope Street, off Manor Street","7 Stanhope St, Stoneybatter, Dublin 7, Ireland",53.3526,-6.2819048
+89,"Assumption Secondary School, Walkinstown, Dublin 12","62 Walkinstown Rd, Walkinstown, Dublin 12, D12 P3F6, Ireland",53.3225312,-6.331985299999999
+90,"Mount Carmel Secondary School, King's Inns Street, Dublin 1","King's Inns St, Rotunda, Dublin 1, D01 W657, Ireland",53.3520287,-6.2687145
+91,"Our Ladys School, Templeogue Road, Terenure","Templeogue Rd, Templeogue Village, Ballyboden, Co. Dublin, D6W, Ireland",53.3004921,-6.2961531
+92,"Our Lady Of Mercy College, Beaumont, Dublin 9","Beaumont Rd, Beaumont, Dublin 9, Ireland",53.38567920000001,-6.230495899999999
+93,"Mercy College Coolock, St Brendan's Drive, Malahide Road","St Brendan's Dr, Donaghmede, Dublin, Ireland",53.3862514,-6.199621899999999
+94,"Mercy Secondary School, Thomas Davis Street West, Inchicore","Thomas Davis St W, Inchicore, Dublin, Ireland",53.3373353,-6.3218796
+95,"St Louis High School, Charleville Road, Rathmines","6 Charleville Rd, Rathmines, Dublin, Ireland",53.3215157,-6.270575699999999
+96,"Our Lady's Grove Secondary School, Our Lady's Grove, Goatstown Road","Goatstown Rd, Friarland, Dublin 14, D14 AK75, Ireland",53.3007165,-6.235068399999999
+97,"The Teresian School, 12 Stillorgan Road, Donnybrook","12 Stillorgan Rd, Dublin 4, D04 E9X5, Ireland",53.3149227,-6.2279599
+98,"St Pauls Secondary School, Greenhills, Dublin 12","Limekiln Ln, Greenhills, Dublin, D12 E544, Ireland",53.3089898,-6.3304914
+99,"Alexandra College, Milltown, Dublin 6","Milltown Rd, Rathmines, Milltown, Co. Dublin, Ireland",53.31093449999999,-6.2483265
+100,"Rosemont School, Enniskerry Road, Sandyford","Enniskerry Rd, Sandyford, Dublin, Ireland",53.2610648,-6.2287431
+101,"Our Lady Of Mercy Secondary School, Mourne Road, Drimnagh","12 Mourne Rd, Drimnagh, Dublin, Ireland",53.3307204,-6.3195953
+102,"Wesley College, Ballinteer, Dublin 16","36 R826, Sandyford, Dublin, Ireland",53.2785599,-6.2420009
+103,"Stratford College, 1 Zion Road, Rathgar","1 Zion Rd, Rathfarnham, Dublin 6, D06 T9V3, Ireland",53.3097011,-6.2743134
+104,"St Clare's College, Ballyjamesduff, Co. Cavan","Virginia Rd, Kilmore, Ballyjamesduff, Co. Cavan, Ireland",53.8653275,-7.197610999999999
+105,"St Patrick's College, Cullies, Cavan","Cullies, Co. Cavan, Ireland",54.0097605,-7.3516469
+106,"Loreto College, Cavan, Co. Cavan","Loreto College, Drumlark, Cavan, H12 WV60, Ireland",54.0127666,-7.373701700000001
+107,"Royal School Cavan, College Street, Cavan","College St, Tullymongan Upper, Cavan, Ireland",53.9844935,-7.361756600000001
+108,"St Mary's Academy CBS, Railway Rd, Carlow","Railway Rd, Rathnapish, Carlow, Ireland",52.8411987,-6.9234051
+109,"St Mary's Knockbeg College, Knockbeg, Co. Carlow","Knockbeg, Carlow, Ireland",52.867315,-6.937733799999999
+110,"St. Leo's College, Dublin Road, Carlow","Old Dublin Rd, Graigue, Carlow, R93 R5X5, Ireland",52.839996,-6.9274908
+111,"Presentation College, Askea, Carlow","Askea, Carlow, R93 F298, Ireland",52.8370177,-6.9086865
+112,"Presentation / De La Salle College, Royal Oak Road, Muine Bheag","Presentation De La Salle College, Royal Oak Rd, Muine Bheag, Co. Carlow, Ireland",52.70090459999999,-6.9701113
+113,"St. Joseph's Secondary School, Doon Road, Ballybunion","R551, Doon West, Co. Kerry, Ireland",52.5172998,-9.6738562
+114,"Meanscoil Phadraig Naofa, College Road, Castleisland","College Rd, Knockananlig, Castleisland, Co. Kerry, Ireland",52.2345409,-9.4578999
+115,"Mean Scoil Naomh Ioseph, Presentation Secondary School, Castleisland","Church St, Chapel Quarter, Castleisland, Co. Kerry, Ireland",52.2302027,-9.4624887
+116,"Coláiste Íde, Baile an Ghóilín, Daingean Uí Chúis","Coláiste Íde, Burnham West, Dingle, Co. Kerry, Ireland",52.1271115,-10.3052475
+117,"St. Brendan's College, Cill Airne, Co Chiarraí","New Rd, Inch, Killarney, Co. Kerry, Ireland",52.06101169999999,-9.5169263
+118,"St. Brigid's Secondary School, New Street, Killarney","New St, Monearmore, Killarney, Co. Kerry, Ireland",52.0585011,-9.515911
+119,"The Intermediate School, Laharn, Killorglin","Killorglin Intermediate School, Iveragh Rd, Castleconway, Killorglin, Co. Kerry, Ireland",52.1071452,-9.7953003
+120,"St. Michael's College, Listowel, Co. Kerry","St. Michael's College, Listowel, Co. Kerry, N69, Ballygowloge, Co. Kerry, Ireland",52.4475421,-9.4760996
+121,"Presentation Secondary School, Listowel, Co Kerry","106 Feale Dr, Listowel, Co. Kerry, V31 AH76, Ireland",52.44808099999999,-9.4937056
+122,"Presentation Secondary School, Milltown, Killarney","Miltown, Milltown, Killarney, Co. Kerry, Ireland",52.1443087,-9.7140816
+123,"C.B.S. Secondary School, The Green, Tralee","The Green Tralee, Cloon Beg, Tralee, Co. Kerry, Ireland",52.2645913,-9.7048124
+124,"Presentation Secondary School, Ballymullen, Tralee","Cloonbeg, Cloon Beg, Tralee, Co. Kerry, Ireland",52.2660639,-9.700018199999999
+125,"Coláiste Éamann Rís, Kilkenny Rd, Clashacollaire","Kilkenny Rd, Blackstaff, Callan, Co. Kilkenny, Ireland",52.54937779999999,-7.385970099999999
+126,"St. Brigid's College, St. Brigid's College, Callan,","3 Flaggy Ln, Callan North, Callan, Co. Kilkenny, R95 E0H7, Ireland",52.54800789999999,-7.388922599999999
+127,"Meánscoil na mBráithre Criostaí, Sráid Shéamais, Cill Channaigh","James's St, Gardens, Kilkenny, Ireland",52.6530261,-7.256154199999999
+128,"St Kieran's College, Secondary School, College Rd","College Rd, Kilkenny, Ireland",52.6475799,-7.254944200000001
+129,"Kilkenny College, Castlecomer Road, Kilkenny","Castlecomer Rd, Seixeslough, Kilkenny, Ireland",52.6677089,-7.2475081
+130,"Loreto Secondary School, Granges Road, Kilkenny","Granges Rd, Kilkenny, Co. Kilkenny, R95 W2NV, Ireland",52.6589207,-7.2615104
+131,"Presentation Secondary School, Loughboy, Kilkenny","Loughboy, Kilkenny, R95 RR90, Ireland",52.638977,-7.2472105
+132,"Salesian College, Celbridge, Co Kildare","Maynooth Rd, Crodaun, Celbridge, Co. Kildare, Ireland",53.3583155,-6.5523368
+133,"Newbridge College, Newbridge, Co. Kildare","Common, Newbridge, Co. Kildare, Ireland",53.18862799999999,-6.793419399999999
+134,"Patrician Secondary School, Newbridge, Co Kildare","Naas Rd, Piercetown, Newbridge, Co. Kildare, Ireland",53.1845071,-6.7925469
+135,"Holy Family Secondary School, Naas Road, Newbridge","Naas Rd, Littleconnell, Newbridge, Co. Kildare, W12 YD71, Ireland",53.18322380000001,-6.789972799999999
+136,"Cross And Passion College, Kilcullen, Co Kildare","Kilcullen, Kilcullenbridge, Kilcullen, Co. Kildare, Ireland",53.1302052,-6.7467934
+137,"Scoil Dara, Church St,, Kilcock,","Church St, Kilcock, Co. Kildare, Ireland",53.4029847,-6.6704329
+138,"St Pauls Secondary School, Monasterevin, Co Kildare","Hopkin's Lane, Monasterevin, Co. Kildare, Ireland",53.1425507,-7.0665546
+139,"Meánscoil Iognáid Ris, Naas, Co Kildare","Corban's Ln, Naas East, Naas, Co. Kildare, Ireland",53.2162084,-6.6621638
+140,"Clongowes Wood College, Clongowes Wood College SJ, Clane","Kilcock Road, Castlebrown, Clane, Co. Kildare, W91 DN40, Ireland",53.3114357,-6.6841632
+141,"Coláiste Naomh Mhuire, Colaiste Naomh Mhuire, Sallins Road","Sallins Rd, Naas West, Naas, Co. Kildare, Ireland",53.2202205,-6.6637766
+142,"Arklow CBS, Coolgreaney Road, Arklow","Coolgreaney Rd, Sheephouse, Arklow, Co. Wicklow, Ireland",52.79753059999999,-6.1660971
+143,"St Marys College, St Mary's Rd, Arklow","St Mary's Rd, Abbeylands, Arklow, Co. Wicklow, Ireland",52.79526809999999,-6.157956899999999
+144,"Woodbrook College, Dublin Road, Woodbrook","Dublin Rd, Woodbrook Glen, Bray, Co. Wicklow, Ireland",53.2159155,-6.1208981
+145,"Presentation College, Putland Road, Bray","Headlands, Newcourt, Bray, Co. Wicklow, Ireland",53.1923006,-6.1020267
+146,"St. Gerard's School, Thornhill Road, Bray","Thornhill Rd, Oldconnaught, Bray, Co. Dublin, Ireland",53.20457,-6.135568999999999
+147,"Loreto Secondary School, Vevay Rd, Bray","Loreto Secondary School, Vevay Rd, Bray, Co. Wicklow, Ireland",53.19684119999999,-6.1065022
+148,"St David's Holy Faith Secondary, Co-Educational School, Greystones","Kimberley Rd, Rathdown Lower, Greystones, Co. Wicklow, Ireland",53.14672479999999,-6.0609531
+149,"Dominican College, Wicklow Town, Co. Wicklow","Corporation Lands, Wicklow, Ireland",52.9771426,-6.0395438
+150,"Rice College, New Road, Ennis","Rice College, New Rd, Lifford, Ennis, Co. Clare, Ireland",52.8478248,-8.9795321
+151,"St Flannan's College, Ennis, Co Clare","Clonroad More, Ennis, Co. Clare, Ireland",52.8336549,-8.9835507
+152,"Coláiste Mhuire, College Road, Ennis","Coláiste Muire, Rae an Chairdis, Lifford, Inis, Co. Contae an Chláir, Ireland",52.8469905,-8.9854667
+153,"Meánscoil Na mBráithre, Ennistymon, Co. Clare","Saint Joseph's Christian Brother's School, Monastery Ln, Deerpark Middle, V95 W880, Co. Clare, Ireland",52.941792,-9.2895743
+154,"Scoil Mhuire, Ennistymon, Co Clare","Scoil Mhuire, Lahinch Rd, Ennistimon, Co. Clare, Ireland",52.93885479999999,-9.2986566
+155,"Mary Immaculate Secondary School, Lisdoonvarna, Co Clare","Lisdoonvarna, Rathbaun, Lisdoonvarna, Co. Clare, Ireland",53.0305019,-9.2898619
+156,"St. Joseph's Secondary School, Spanish Point, Miltown Malbay","Breaffy South, Spanish Point, Co. Clare, Ireland",52.8466428,-9.4397015
+157,"St. Joseph's Secondary School, Tulla, Ennis","Tulla, Co. Clare, Ireland",52.863721,-8.761016
+158,"Árdscoil Uí Urmoltaigh, Bandon, Co Cork","Allen Square, Coolfadda, Bandon, Co. Cork, Ireland",51.746973,-8.7442525
+159,"Bandon Grammar School, Bandon, Co Cork","Clancool More, Bandon, Co. Cork, Ireland",51.7337153,-8.7480502
+160,"Coláiste Na Toirbhirte, Árd Aoibhinn, Bandon","Ard Aoibhinn, Bandon, Co. Cork, P72 FW28, Ireland",51.740204,-8.731043
+161,"Scoil Mhuire gan Smal, Blarney, Co Cork","Blarney, Shean Lower, Blarney, Co. Cork, Ireland",51.9325413,-8.5598213
+162,"Coláiste An Chroí Naofa, Carraig na bhFear, Co Chorcaí","College Rd, Carrignavar, Co. Cork, Ireland",51.98478309999999,-8.4699168
+163,"St Aloysius College, Main Street, Carrigtwohill","Carrigtohill, Co. Cork, Ireland",51.9100172,-8.2593248
+164,"Sacred Heart Secondary School, Convent of Mercy, Clonakilty","10 Convent Ct, Scartagh, Clonakilty, Co. Cork, P85 KW28 Convent Ct, Scartagh, Clonakilty, Co. Cork, P85 KW28, Ireland",51.6269542,-8.8799914
+165,"Coláiste Muire, Bishop's Street, Cobh","Bishop St, Kilgarvan, Cobh, Co. Cork, Ireland",51.8547853,-8.2937925
+166,"Colaiste Muire, Crosshaven, Co. Cork","Coláiste Muire, Crosshaven, Co. Cork, Ireland",51.801271,-8.2981646
+167,"Nagle Rice Secondary School, Doneraile, Co. Cork","Doneraile, Horseclose, Doneraile, Co. Cork, Ireland",52.2215313,-8.5838574
+168,"Coláiste Cholmáin, Fermoy, Co. Cork","Fermoy, Co. Cork, Ireland",52.1372158,-8.2790351
+169,"Loreto Secondary School, Fermoy, Co Cork","College Rd, Fermoy, Co. Cork, Ireland",52.135928,-8.2773
+170,"Scoil Mhuire, Kanturk, Co Cork","Greenfield Rd, Kanturk, Co. Cork, Ireland",52.178266,-8.9116213
+171,"Colaiste An Phiarsaigh, Gleann Maghair, Corcaigh","Poulacurry South, Glanmire, Co. Cork, Ireland",51.9180756,-8.398856
+172,"De La Salle College, Macroom, Co Cork","Barrack Ln, Maghereen, Co. Cork, Ireland",51.9064068,-8.9643844
+173,"St Mary'S Secondary School, St. Marys Secondary School, Macroom","New Road, Macroom, Co. Cork, Ireland",51.9036256,-8.9579788
+174,"Patrician Academy, Mallow, Co Cork","The Bowling Green, White St, Mallow Road, Mallow, Co. Cork, Ireland",52.1388367,-8.6449705
+175,"St Mary's Secondary School, Bathview, Mallow","Mallow, Co. Cork, Ireland",52.14140399999999,-8.641123
+176,"Christian Brothers Secondary School, Castleredmond, Midleton","Castleredmond, Midleton, Co. Cork, P25 C951, Ireland",51.90720049999999,-8.1703219
+177,"Midleton College, Connolly Street, Midleton","Connolly St, Midleton, Co. Cork, Ireland",51.9148487,-8.171150899999999
+178,"St Mary's High School, Castleredmond,, Midleton,","Castleredmond, Midleton, Co. Cork, Ireland",51.9084043,-8.1692552
+179,"Christian Brothers Secondary School, Mitchelstown, Co Cork","Mitchelstown, Ballinwillin, Mitchelstown, Co. Cork, Ireland",52.2662127,-8.2698863
+180,"Presentation Secondary School, Brigown, Mitchelstown","Presentation Secondary School, Church Rd, Brigown, Mitchelstown, Co. Cork, Ireland",52.2654128,-8.2653065
+181,"Scoil na mBráithre Chríostaí, Bakers Road, Charleville","Bakers Rd, Ballysallagh, Charleville, Co. Cork, Ireland",52.3537589,-8.678899699999999
+182,"St. Mary's Secondary School, Smiths Road, Charleville","St Mary's Secondary School, Rathgoggan Middle, Co. Cork, Ireland",52.3543921,-8.6866722
+183,"St Francis Capuchin College, Rochestown, Co Cork",.,.,.
+184,"Mount St Michael, Rosscarbery, Co Cork","Mount Saint Michael's Secondary School, Ardagh East, Rosscarbery, Co. Cork, Ireland",51.583032,-9.0257308
+185,"Christian Brothers College, Sidney Hill, Wellington Road","10a Wellington Rd, Cork, Ireland",51.90363749999999,-8.4681664
+186,"North Monastery Secondary School, Our Lady's Mount, North Monastery Rd.","North Monastery Road, Cork, T23 P825, Ireland",51.9082336,-8.4800141
+187,"Gaelcholáiste Mhuire, An Mhainistir Thuaidh, Corcaigh","Cork City, Cork, Ireland",51.9092254,-8.480668
+188,"Coláiste Éamann Rís, St Patrick's Road, Cork","Deerpark CBS, St Patrick's Rd, Ballyphehane, Cork, T12 K83R, Ireland",51.8898683,-8.4738335
+189,"Coláiste Chríost Rí, Capwell Road,, Turners Cross,","Capwell Rd, Turners Cross, Cork, Ireland",51.88958470000001,-8.4646216
+190,"Presentation Brothers College, The Mardyke, Cork","Mardyke Walk, Mardyke, Cork, Ireland",51.8975894,-8.4850617
+191,"Coláiste An Spioraid Naoimh, Bishopstown, Cork","Bishopstown, Cork, Co. Cork, Ireland",51.8829286,-8.517108
+192,"St Vincent's Secondary School, St Mary's Road, Cork","St Mary's Rd, Cork, Ireland",51.9065755,-8.478372199999999
+193,"North Presentation Secondary School, Farranree, Cork","Knockpogue Ave, Farranree, Cork, Ireland",51.9119485,-8.485547799999999
+194,"St Aloysius School, Sharman Crawford Street, Cork","9 Sharman Crawford St, The Lough, Cork, Co. Cork, T12 RK03, Ireland",51.8957282,-8.4818746
+195,"St. Angela's College, St. Patrick's Hill, Cork","St Patrick's Hill, Cork, T23 FXY8, Ireland",51.9028905,-8.4701155
+196,"Ursuline Secondary School, Blackrock, Cork","Blackrock, Cork, Ireland",51.8955772,-8.415755899999999
+197,"Mount Mercy College, Model Farm Road, Cork","Model Farm Rd, Cork, Ireland",51.8900721,-8.5169905
+198,"Scoil Mhuire, 1-3 Sidney Place, Wellington Road","2 Sidney Pl, Wellington Rd, Victorian Quarter, Cork, Ireland",51.9022221,-8.4679331
+199,"Regina Mundi College, Douglas Road, Cork","Ballinlough, Cork, Ireland",51.8835043,-8.4437439
+200,"Christ King Girls' Secondary School, Half Moon Lane, South Douglas Road","Half Moon Ln, South Douglas Road, Cork, Co. Cork, T12 R22C, Ireland",51.8845041,-8.462411099999999
+201,"Presentation Secondary School, Joe Murphy Road, Ballyphehane","Joe Murphy Rd, Ballyphehane, Cork, Ireland",51.88384380000001,-8.4784426
+202,"St Patricks College, Gardiner's Hill, Cork","Gardiner's Hill, Montenotte, Cork, Ireland",51.9083252,-8.454953300000001
+203,"Scoil Mhuire Secondary School, St. Oran's Road, Buncrana","Ardaravan, Buncrana, Co. Donegal, Ireland",55.13121899999999,-7.4582273
+204,"St Eunan's College, Letterkenny, Co Donegal","Letterkenny, Co. Donegal, Ireland",54.9517496,-7.7455758
+205,"Loreto Secondary School, Letterkenny, Co Donegal","Church Ln, Letterkenny, Co. Donegal, Ireland",54.94968919999999,-7.7411439
+206,"St Columbas College, Stranorlar, Co. Donegal","Drumboe Ave, Stranorlar, Co. Donegal, Ireland",54.8040645,-7.7752411
+207,"Presentation College, Ballygarraun South,, Athenry,","L3103, Prospect, Athenry, Co. Galway, Ireland",53.29909139999999,-8.7619332
+208,"Colaiste Sheosaimh, Gearrbhaile, Beál Átha na Slua","Ballinasloe, Co. Galway, Ireland",53.3287621,-8.2269467
+209,"Ardscoil Mhuire, Mackney, Ballinasloe","Mackney, Ballinasloe, Co. Galway, H53 CP40, Ireland",53.32230389999999,-8.2467489
+210,"Coláiste Mhuire, Ballygar, Co. Galway","Lower Main St, Tullyroe, Ballygar, Co. Galway, Ireland",53.5243338,-8.3215176
+211,"St. Cuan's College, Castleblakeney, Ballinasloe","Castleblakeney National School, Ballinasloe, Castleblakeney, Co. Galway, Ireland",53.42894099999999,-8.4729768
+212,"St Joseph's College, Nun's Island, Galway","Nun's Island, Galway, Ireland",53.2725622,-9.0579615
+213,"Coláiste Iognáid S.J., Br. Na Mara, Gaillimh","Sea Rd, Galway, Ireland",53.2693582,-9.0616526
+214,"St. Mary's College, St. Mary's Road, Galway","SAINT MARY'S COLLEGE, St Mary's Rd, Galway, Co. Galway, H91 H7F8, Ireland",53.2709827,-9.067082899999999
+215,"Coláiste Einde, Threadneedle Road, Galway","Dr Mannix Road, Salthill, Co. Galway, H91 Y725, Ireland",53.2646873,-9.0830859
+216,"Dominican College, Taylors Hill, Galway","Taylor's Hill Rd, Rosary Ln, Galway, Ireland",53.2687305,-9.075493699999999
+217,"Jesus & Mary Secondary School, Threadneedle Road, Salthill","507 Mulberry St, Independence, KS 67301, USA",37.2467307,-95.7122751
+218,"Presentation College, Headford, Co. Galway","Headford, Co. Galway, Ireland",53.4683378,-9.1110104
+219,"Seamount College, Kinvara, Co Galway","Kinvarra, Dungory West, Kinvara, Co. Galway, Ireland",53.1387045,-8.9352155
+220,"St Raphaels College, Loughrea, Co Galway","Cross St, Farranalynch, Loughrea, Co. Galway, Ireland",53.19990420000001,-8.5609795
+221,"Holy Rosary College, Mountbellew, Co Galway","Mountbellew, Co. Galway, Ireland",53.4695915,-8.4974634
+222,"Calasanctius College, Oranmore, Co Galway","Oranmore, Innplot, Oranmore, Co. Galway, Ireland",53.26764499999999,-8.9332681
+223,"St Pauls, Oughterard, Co Galway","Carrowmanagh, Co. Galway, Ireland",53.4302059,-9.3291638
+224,"Colaiste Chroi Mhuire, An Spideal, Co Na Gaillimhe","Bohoona East, Spiddal, Co. Galway, Ireland",53.2437593,-9.3074602
+225,"St. Brigid's School, Convent Of Mercy, Tuam","Dublin Rd, Townparks (3rd Division), Tuam, Co. Galway, H54 F202, Ireland",53.5128392,-8.8478484
+226,"Presentation College, Currylea, Tuam","Currylea, Tuam, Co. Galway, H54 V260, Ireland",53.5179802,-8.8490486
+227,"Mercy College, Woodford, Loughrea","Woodford, Bolag, Woodford, Co. Galway, Ireland",53.0488882,-8.3971015
+228,"Marist College, Retreat Road, Athlone","Retreat Rd, Cannonsfield, Athlone, Co. Westmeath, Ireland",53.4250057,-7.925893899999998
+229,"Our Lady's Bower, Retreat Rd., Athlone","Retreat Rd, Aghacocara, Athlone, Co. Westmeath, Ireland",53.4225836,-7.9220011
+230,"Meán Scoil an Chlochair, Kilbeggan, Co. Westmeath","Kilbeggan, Co. Westmeath, Ireland",53.3675844,-7.4931893
+231,"Colaiste Mhuire,, Mullingar, Co. Westmeath","College St, Commons, Mullingar, Co. Westmeath, N91 AT04, Ireland",53.527257,-7.3468931
+232,"St Finian's College, Mullingar, Co. Westmeath","Longford Rd, Ballyglass, Mullingar, Co. Westmeath, Ireland",53.5391773,-7.3554597
+233,"Loreto College, Mullingar, Co Westmeath","Harbour Rd, Commons, Mullingar, Co. Westmeath, N91 PX98, Ireland",53.5297874,-7.346506000000001
+234,"Wilson's Hospital School, Multyfarnham, Co Westmeath","Heathland, Co. Westmeath, N91 AX97, Ireland",53.61261529999999,-7.418688400000001
+235,"St Joseph's Secondary School, Rochfortbridge, Co. Westmeath","Castlelost Road, Castlelost, Rochfortbridge, Co. Westmeath, Ireland",53.41407179999999,-7.302465300000001
+236,"St. Mary's C.B.S., Borris Road, Portlaoise","Borris Rd, Ratheven, Portlaoise, Co. Laois, Ireland",53.0499161,-7.279241
+237,"Scoil Chriost Ri, Presentation Secondary School, Borris Road","Borris Rd, Ratheven, Portlaoise, Co. Laois, Ireland",53.0487946,-7.2801655
+238,"F.C.J. Secondary School, Bunclody, Enniscorthy","Bunclody, Ballinapark, Enniscorthy, Co. Wexford, Ireland",52.6565276,-6.646004
+239,"St. Mary's C.B.S., Mill Park Road, Enniscorthy","Mill Park Rd, Enniscorthy, Co. Wexford, Ireland",52.49736040000001,-6.5690937
+240,"Coláiste Bríde, Enniscorthy, Co Wexford","The Shannon, Templeshannon, Enniscorthy, Co. Wexford, Ireland",52.50187159999999,-6.5612254
+241,"Christian Brothers Secondary School, Mountgarrett, New Ross","Mountgarrett Ln, Craywell, New Ross, Co. Wexford, Ireland",52.3989956,-6.9390784
+242,"Good Counsel College, New Ross, Co Wexford","Bosheen St, Reddysland, New Ross, Co. Wexford, Ireland",52.3960173,-6.9313993
+243,"St. Mary's Secondary School, Irishtown, New Ross","Irishtown, Morrissysland, New Ross, Co. Wexford, Ireland",52.3995627,-6.9307021
+244,"Our Lady of Lourdes Secondary School, Rosbercon, New Ross","Co. Wexford7, 7 Upper, Upper Rosbercon, Thomastown Rd, Rosbercon, New Ross, Co. Wexford, Y34 FT82, Ireland",52.3985154,-6.9530036
+245,"Christian Brothers Secondary School, Thomas St, Wexford","Thomas St, Slippery Green, Wexford, Ireland",52.333357,-6.4650908
+246,"St Peter's College, Secondary School, Summerhill","2641 John F. Kennedy Blvd, Jersey City, NJ 07306, USA",40.7272231,-74.0715029
+247,"Loreto Secondary School, Pembroke Hill, Ballynagee","Pembroke Hill, Ballynagee, Wexford, Co. Wexford, Ireland",52.3226218,-6.4854942
+248,"Presentation Secondary School, Grogan's Road, Co. Wexford","Grogan's Rd, Slippery Green, Wexford, Co. Wexford, Y35 XV70, Ireland",52.3358143,-6.4644837
+249,"Mercy Secondary School, Ballymahon, Co Longford","Ballymahon, Co. Longford, Ireland",53.56599300000001,-7.767396199999999
+250,"Cnoc Mhuire, Granard, Co. Longford","Rathcronan, Granard, Co. Longford, Ireland",53.780259,-7.488388
+251,"St. Mel's College, Longford, Co. Longford","St Mel's Rd, Deanscurragh, Longford, Ireland",53.7289198,-7.7937244
+252,"Meán Scoil Muire, 5 St. Joseph's Road, Longford Town","5 St Joseph's Rd, Deanscurragh, Longford, Ireland",53.7254726,-7.7956046
+253,"St. Joseph's C.B.S., Newfoundwell Rd, Drogheda","Newfoundwell Rd, Greenbatter, Drogheda, Co. Louth, Ireland",53.7242161,-6.331204899999999
+254,"St Mary's Diocesan School, Beamore Road, Drogheda","Beamore Rd, Lagavooren, Drogheda, Co. Louth, Ireland",53.70851070000001,-6.3473845
+255,"Our Lady's College, Greenhills, Drogheda","Greenhills, Drogheda, Co. Louth, Ireland",53.7202731,-6.3269481
+256,"Sacred Heart Secondary School, Sunnyside, Drogheda","Sunnyside, Drogheda, Co. Louth, Ireland",53.7112734,-6.343114
+257,"Drogheda Grammar School, Mornington Road, Drogheda","Mornington Rd, Stameen, Drogheda, Co. Meath, Ireland",53.7185462,-6.303513400000001
+258,"Colaiste Rís, Sraid an tSéipéil, Dún Dealgan","46 Clanbrassil St, Townparks, Dundalk, Co. Louth, A91 F882, Ireland",54.0074434,-6.401475599999999
+259,"St Mary's College, St.Marys College,, St. Marys Road,","1928 St Marys Rd, Moraga, CA 94575, USA",37.8413472,-122.1101354
+260,"De La Salle College, Castleblayney Road, Dundalk","Castleblayney Road, Castletown, Dundalk, Co. Louth, Ireland",54.0164969,-6.4277799
+261,"St Vincent's Secondary School, Seatown Place, Dundalk","Seatown Pl, Marshes Lower, Dundalk, Co. Louth, Ireland",54.005274,-6.391833999999999
+262,"St Louis Secondary School, Dun Lughaidh, Dundalk","Castletown Rd, Castletown, Dundalk, Co. Louth, Ireland",54.0170012,-6.426256400000001
+263,"Dundalk Grammar School, The Crescent, Dundalk","The Crescent, Cambrickville, Dundalk, Co. Louth, Ireland",53.9986444,-6.4088736
+264,"Scoil Pól, Kilfinane, Co. Limerick","Kilfinnane, Kilfinane, Co. Limerick, Ireland",52.3616468,-8.472034899999999
+265,"Glenstal Abbey School, Murroe, Co Limerick","Glenstal Abbey, Murroe, Co. Limerick, V94 HC84, Ireland",52.6606116,-8.388956499999999
+266,"Scoil Mhuire & Íde, Newcastle West, Co Limerick","Green Ln, Carlow, Ireland",52.8381735,-6.9229213
+267,"Salesian Secondary College, Don Bosco Road, Pallaskenry","Don Bosco Road, Ballydoole, Pallaskenry, Co. Limerick, V94 WP86, Ireland",52.6475376,-8.8577807
+268,"Colaiste Mhichil, Sexton Street, Limerick","Sexton St, Limerick, V94 NF25, Ireland",52.6588659,-8.6223226
+269,"Ardscoil Ris, North Circular Rd, Limerick","Ardscoil Rís, N Circular Rd, Limerick, Co. Limerick, V94 V602, Ireland",52.665479,-8.6408913
+270,"St Clements College, Laurel Hill Avenue, South Circular Road","Laurel Hill Avenue, South Circular Road, Limerick, Ireland",52.65570940000001,-8.6382446
+271,"St Munchin's College, Corbally, Limerick","Corbally Rd, Limerick, Ireland",52.6820057,-8.614065799999999
+272,"Coláiste Nano Nagle, Sexton Street, Limerick","20 Sexton St, Limerick, V94 R5P8, Ireland",52.6601486,-8.6218387
+273,"Laurel Hill Secondary School FCJ, Laurel Hill Secondary School FCJ, South Circular Road","S Circular Rd, Laurel Hill Ave, Limerick, Ireland",52.6549898,-8.6363918
+274,"Laurel Hill Coláiste FCJ, Cnoc Na Labhras, Luimneach","Laurel Hill Ave, S Circular Rd, Limerick, V94 CR26, Ireland",52.6549898,-8.6363918
+275,"Ardscoil Mhuire, Corbally, Limerick","Corbally, Limerick, Co. Limerick, V94 X2TW, Ireland",52.6702789,-8.614584899999999
+276,"Villiers Secondary School, North Circular Road, Limerick","N Circular Rd, Limerick, Ireland",52.66159829999999,-8.6584185
+277,"St Patrick's Classical School, Moatlands, Navan","Moatlands, Navan, Co. Meath, Ireland",53.6521339,-6.6980264
+278,"St. Joseph's Secondary School, Navan,, Brew's Hill, Navan","Convent of Mercy, Brews Hill, Dillonsland, Navan, Co. Meath, C15 HW32, Ireland",53.6502756,-6.688175299999999
+279,"Loreto Secondary School, St Michaels, Navan","Saint Michael's, Athlumney, Navan, Co. Meath, C15 YF83, Ireland",53.6520087,-6.676240099999999
+280,"Eureka Secondary School, Cavan Rd, Kells","Cavan Rd, Townparks, Kells, Co. Meath, A82 R6C4, Ireland",53.7304775,-6.886061499999999
+281,"Franciscan College, Franciscan College, Gormanston","Gormanston, Co. Meath, Ireland",53.6344819,-6.2358322
+282,"Scoil Mhuire, Patrick Street, Trim","Patrick St, Trim, Co. Meath, Ireland",53.5524517,-6.790107
+283,"Balla Secondary School, Balla, Castlebar","Balla, Moat, Castlebar, Co. Mayo, Ireland",53.8071689,-9.1375791
+284,"St Muredachs College, Sligo Road, Ballina","Sligo Rd, Abbeyhalfquarter, Ballina, Co. Mayo, Ireland",54.1151634,-9.1430837
+285,"St. Mary's Secondary School, Convent Hill, Ballina","Convent Hill, Ballina, Co. Mayo, Ireland",54.11580439999999,-9.1628981
+286,"Our Lady's Secondary School, Belmullet via Ballina, Co Mayo","Belmullet, Co. Mayo, Ireland",54.2135644,-9.9824053
+287,"St. Geralds College, Newport Road, Castlebar","Newport Rd, Garryduff, Castlebar, Co. Mayo, Ireland",53.8574365,-9.3080468
+288,"St Joseph's Secondary School, Castlebar, Co Mayo","Gorteendrunagh, Castlebar, Co. Mayo, Ireland",53.85583829999999,-9.2908054
+289,"Coláiste Cholmáin, Claremorris, Co Mayo","Knock Rd, Castlegar, Claremorris, Co. Mayo, Ireland",53.73513149999999,-8.9808415
+290,"Mount St Michael, Claremorris, Co. Mayo","Convent of Mercy, Claremount, Claremorris, Co. Mayo, Ireland",53.732416,-9.0014401
+291,"Jesus & Mary Secondary School, Gortnor Abbey, Crossmolina","507 Mulberry St, Independence, KS 67301, USA",37.2467307,-95.7122751
+292,"St Joseph's Secondary School, Foxford, Co Mayo","Providence Rd, Foxford, Co. Mayo, Ireland",53.9817013,-9.111371499999999
+293,"Sancta Maria College, Louisburgh, Co Mayo","Louisburgh, Clooncarrabaun, Louisburgh, Co. Mayo, Ireland",53.76468999999999,-9.8057109
+294,"Scoil Muire Agus Padraig, Swinford, Co Mayo","1 Church View, Swineford, Swinford, Co. Mayo, F12 K729, Ireland",53.9419276,-8.9522376
+295,"Coláiste Mhuire, Tuar Mhic Éadaigh, Clar Cloinne Mhuiris","Carheen, Tourmakeady, Co. Mayo, Ireland",53.6654081,-9.350634
+296,"Rice College, Westport, Co Mayo","Castlebar Rd, Carrowbeg, Westport, Co. Mayo, Ireland",53.80121339999999,-9.5125995
+297,"Sacred Heart School, Westport, Co Mayo","Castlebar Rd, Carrowbeg, Westport, Co. Mayo, Ireland",53.8012648,-9.517559499999999
+298,"Patrician High School, Carrickmacross, Co. Monaghan","Cloghvally Upper, Carrickmacross, Co. Monaghan, Ireland",53.98273349999999,-6.716467
+299,"St Louis Secondary School, Carrickmacross, Co. Monaghan","1 R179, Drummond Etra, Co. Monaghan, Ireland",53.9733154,-6.7184699
+300,"Our Lady's Secondary School, Castleblayney, Co. Monaghan","Castleblayney, Moraghy, Castleblayney, Co. Monaghan, Ireland",54.1192092,-6.7432266
+301,"St. Macartan's College, Monaghan, Co. Monaghan","Mullamurphy, Co. Monaghan, Ireland",54.2639066,-6.9562484
+302,"St. Louis Secondary School, Monaghan, Co. Monaghan","Mullaghmonaghan, Monaghan, Ireland",54.2449085,-6.972751199999999
+303,"Monaghan Collegiate School, Corlatt, Monaghan","Corlatt, Corlat, Monaghan, Ireland",54.2412459,-6.9395153
+304,"Scoil na mBraithre, Mitchell Street, Dungarvan","Mitchell St, Dungarvan, Co. Waterford, Ireland",52.0878205,-7.6227649
+305,"St Augustines College, Abbeyside, Dungarvan","Abbeyside, Dungarvan, Co. Waterford, Ireland",52.100178,-7.591895999999998
+306,"Ard Scoil na nDeise, Convent Rd., Dungarvan","Sli Na Mara, Convent Row, Dungarvan, Co. Waterford, Ireland",52.0873907,-7.618377799999999
+307,"C.B.S. Mount Sion, Waterford, Barrack Street, Waterford City","Barrack St, Waterford, Ireland",52.2562428,-7.1167978
+308,"Waterpark College, Park Road, Newtown Road","Swiss Cottage Newtown Rd, Waterford, X91 D40P, Ireland",52.2559279,-7.1015948
+309,"De La Salle College, Newtown, Waterford","Newtown Road Lower, Waterford, Ireland",52.253541,-7.102575
+310,"Presentation Secondary School, Cannon Street, Waterford","Cannon St, Waterford, X91 V23C, Ireland",52.2523649,-7.1266147
+311,"Our Lady of Mercy Secondary School, Ozanam St., Waterford","Ozanam St, Waterford, Ireland",52.260354,-7.1273478
+312,"St Angela's Secondary School, Ursuline Convent, Waterford","Ballytruckle Rd, Waterford, Ireland",52.24594949999999,-7.113759099999999
+313,"Newtown School, Newtown Road, Waterford City","Newtown Rd, Waterford, Ireland",52.2517964,-7.100313
+314,"C.B.S. Roscommon, Abbeytown, Galway Rd.","Abbeytown, Ballypheasan, Roscommon, Co. Roscommon, Ireland",53.62656699999999,-8.19538
+315,"Scoil Muire gan Smal, Convent of Mercy, Roscommon Town","Convent of Mercy, Convent Rd, Ardnanagh, Roscommon, Ireland",53.6273661,-8.197550099999999
+316,"Scoil Mhuire, Strokestown, Co Roscommon","Strokestown, Lisroyne, Strokestown, Co. Roscommon, Ireland",53.7774271,-8.1123617
+317,"St Marys College, Ballysadare, Co Sligo","Ballysadare, Knockmuldoney, Ballisodare, Co. Sligo, Ireland",54.2100573,-8.5115243
+318,"Coláiste Muire, Ballymote, Co Sligo","Convent of Mercy, Carrowcauly, Ballymote, Co. Sligo, Ireland",54.0939456,-8.5138488
+319,"Jesus & Mary Secondary School, Enniscrone, Co Sligo","507 Mulberry St, Independence, KS 67301, USA",37.2467307,-95.7122751
+320,"Summerhill College, College Road, Sligo","College Road, Knocknaganny, Sligo, Ireland",54.2660018,-8.4795059
+321,"Ursuline College, Finisklin, Sligo","F91 FW54 Ursuline Convent, Finisklin Rd, Cartron, Sligo, Ireland",54.276066,-8.4876003
+322,"Mercy College, Chapel Hill, Sligo","Chapel Hill, Abbeyquarter South, Sligo, Ireland",54.26728300000001,-8.4670677
+323,"Sligo Grammar School, The Mall, Sligo","The Mall, Rathquarter, Sligo, Ireland",54.27296519999999,-8.463732
+324,"Presentation Secondary School, Ballingarry, Thurles","Ballingarry, Ballingarry Lower, Ballingarry, Co. Tipperary, Ireland",52.5897416,-7.565555399999999
+325,"St Josephs College, Pallas Street, Borrisoleigh","1 Pallas St, Borrisland South, Borrisoleigh, Co. Tipperary, E41 X228, Ireland",52.748946,-7.9599165
+326,"Edmund Rice Secondary School, Mount St. Nicholas, Carrick-on-Suir","Unnamed Road, Ballylynch, Carrick-On-Suir, Co. Tipperary, Ireland",52.3485447,-7.3993788
+327,"Scoil Mhuire, Greenhill, Carrick-On-Suir","Greenhill, Carrick-On-Suir, Co. Tipperary, E32 WN66, Ireland",52.3504642,-7.4014202
+328,"Rockwell College, Cashel, Co Tipperary","Carrigeen, Rockwell College, Co. Tipperary, Ireland",52.45782939999999,-7.892742800000001
+329,"Árdscoil na mBráithre, Kickham Street, Clonmel","35 Kickham St, Burgagery-Lands East, Clonmel, Co. Tipperary, Ireland",52.35692330000001,-7.6985544
+330,"Loreto Secondary School, Coleville Rd,, Clonmel,","Loreto Secondary School, Coleville Rd, Raheen, Clonmel, Co. Tipperary, Ireland",52.3503221,-7.694129599999999
+331,"Presentation Secondary School, Clonmel, Co Tipperary","Dungarvan Rd, Greenan, Clonmel, Co. Tipperary, Ireland",52.3487105,-7.717249
+332,"Patrician Presentation, Rocklow Rd., Fethard","Rocklow Rd, Fethard, Co. Tipperary, Ireland",52.4684524,-7.698131999999999
+333,"St. Joseph's C.B.S, Summerhill, Nenagh","Summerhill, Nenagh North, Nenagh, Co. Tipperary, Ireland",52.8665478,-8.193019399999999
+334,"St Mary's Secondary School, Nenagh, Co Tipperary","Nenagh, Nenagh North, Nenagh, Co. Tipperary, Ireland",52.8650613,-8.2017081
+335,"St. Mary's Secondary School, Church Road, Newport","Queen's Hill, Newport NP20 5HJ, UK",51.592019,-3.0011204
+336,"Cistercian College, Roscrea, Co. Tipperary","Mount St Joseph Abbey, Mountheaton, Roscrea, Co. Tipperary, Ireland",52.9626356,-7.8548206
+337,"Our Ladys Secondary School, Templemore, Co. Tipperary","Sisters of Mercy Convent, Church Ave, Kiltillane, Templemore, Co. Tipperary, Ireland",52.7971606,-7.829430700000001
+338,"C.B.S. Thurles, Rossa St, Thurles","O'Donovan Rossa St, Thurles Townparks, Thurles, Co. Tipperary, Ireland",52.6811987,-7.8142163
+339,"Presentation Secondary School, Thurles, Co Tipperary","Monacocka, Thurles, Co. Tipperary, Ireland",52.6813991,-7.807271699999999
+340,"Ursuline Secondary School, Thurles, Co. Tipperary","Ursuline Secondary School, Smith O'Brien St, Monacocka, Thurles, Co. Tipperary, Ireland",52.6810604,-7.812008499999999
+341,"The Abbey School, Station Road, Tipperary Town","Station Road, Town Lot, Tipperary, Ireland",52.4713498,-8.1592793
+342,"St. Anne's Secondary School, St. Anne's Secondary School, Rosanna Road","Rosanna Rd, Carrownreddy, Tipperary, Ireland",52.47842,-8.162647
+343,"St Mary's Secondary School, Edenderry, Co Offaly","Edenderry, Co. Offaly, Ireland",53.3398252,-7.0598529
+344,"Colaiste Choilm, O'Moore Street, Tulach Mhor","Tullamore, Co. Offaly, Ireland",53.27043519999999,-7.4904158
+345,"Sacred Heart Secondary School, Daingean Road, Tullamore","Daingean Rd, Tullamore, Co. Offaly, Ireland",53.27666019999999,-7.485135099999999
+346,"Killina Presentation Secondary School, Rahan, Tullamore","Rahan Rd, Killina, Tullamore, Co. Offaly, Ireland",53.2708404,-7.5961768
+347,"St Nathy's College, Ballaghaderreen, Co Roscommon","Chapel Street, Ballaghadereen, Co. Roscommon, Ireland, Co. Roscommon, Ireland",53.90419,-8.581287999999999
+348,"Coláiste Íosagáin, Portarlington, Co. Laois","Kilmalogue, Portarlington, Co. Offaly, Ireland",53.1620053,-7.2038984
+349,"Mercy Secondary School Mounthawk, Mounthawk,, Tralee,","R551, Mounthawk, Tralee, Co. Kerry, Ireland",52.28358619999999,-9.724129
+350,"John Scottus Secondary School, Old Conna, Ferndale Road","Old Conna House, Ferndale Rd, Oldconnaught, Rathmichael, Co. Dublin, Ireland",53.217562,-6.1379512
+351,"Gael-Choláiste Chill Dara, Seanbhóthar Luimnigh, Nás na Ríogh","R445, Naas West, Naas, Co. Kildare, Ireland",53.21580460000001,-6.669170100000001
+352,"St. Jarlaths College, TUAM, CO GALWAY","Bishop St, Townparks (4th Division), Tuam, Co. Galway, Ireland",53.5153514,-8.8478015
+353,"MEAN SCOIL NUA AN LEITH TRIUIGH, CAISLEAN GHRIAIRE, CO CHIARRAI","Mean Scoil Nua an Leith Triuigh, Castlegregory, Co. Kerry, Ireland",52.2550173,-10.0179768
+354,"Árdscoil na Trionóide, Rathstewart, Athy","1 Lower St Joseph's Terrace, Athy, Co. Kildare, Ireland",52.9946645,-6.984125499999999
+355,"Gaelcholáiste Phort Láirge, Cúirt An Easpaig, Baile Gunnair","Bishopscourt, Ballygunner, Waterford, Ireland",52.2285219,-7.0683436
+356,"Meanscoil Gharman, Teach Choill an Bhrúnaigh, Coill an Bhrúnaigh","Brownswood House, Brownswood, Enniscorthy, Co. Wexford, Ireland",52.4733379,-6.5580411
+357,"Temple Carrig Secondary School, Temple Carrig, Greystones","Greystones, Co. Wicklow, Ireland",53.1527901,-6.0851705
+358,"Coláiste Ghlór na Mara, Bóthar na hAille, Baile Brigín","Naul Rd, Clogheder, Balbriggan, Co. Dublin, Ireland",53.607046,-6.2076958
+359,"Le Cheile Secondary School, Hollystown Road, Tyrrelstown","Hollystown Rd, Hollystown, Dublin, D15 HC2P, Ireland",53.4244577,-6.3860471
+360,"Hansfield ETSS, Barnwell Road, Hansfield","Barnwell Rd, Hansfield, Dublin, Ireland",53.39061659999999,-6.4446052
+361,"Scoil na Tríonóide Naofa, Doon, Co Limerick","Lisgaugh, Doon, Co. Limerick, Ireland",52.6008025,-8.2444812
+362,"Ard Scoil na Mara, Tramore, Tramore","Summerhill, Tramore West, Tramore, Co. Waterford, X91 Y981, Ireland",52.1617916,-7.1599201
+363,"Gaelcholáiste an Phiarsaigh, An Mhainistir, Bóthar na Gráinsí","Rathfarnham, Dublin, Ireland",53.2924281,-6.2800525
+364,"New Cross College, Cappagh Road, Finglas","Cappagh Rd, Finglas West, Dublin 11, Ireland",53.3920357,-6.3231647
+365,"Stepaside Educate Together Secondary School, Belarmine Vale, Belarmine","Belarmine Vale, Kilgobbin, Stepaside, Co. Dublin, D18 H7W6, Ireland",53.2602635,-6.2166299
+366,"North Wicklow Educate Together Secondary School, Putland Road, Bray","Putland Rd, Newcourt, Bray, Co. Wicklow, A98 CK73, Ireland",53.192844,-6.101418
+367,"Bremore Educate Together Secondary School, Stephenstown Campus, Naul Road","Stephenstown Campus, Clogheder, Balbriggan, Co. Dublin, K32 AD90, Ireland",53.6048944,-6.2037184
+368,"Cork Educate Together Secondary School, c/o Griffith College, Wellington Road","c/o Griffith College, Wellington Rd, Cork, Ireland",51.9042981,-8.4601351
+369,"Edmund Rice College, Carrigaline, Co. Cork","Kilnaglery, Co. Cork, Ireland",51.8083828,-8.3818967
+370,"Our Lady's College, Newtownsmith, Galway","Newtownsmith, Galway, Ireland",53.2747947,-9.0540383
+371,"Sandymount Park Educate Together Secondary School, The Sandymount Building, 16 Simmonscourt Road","Sandymount Buildings, The, 16 Simmonscourt Rd, Dublin 4, Ireland",53.3259998,-6.225888899999999
+372,"Edmund Rice College, Mill Road, Blanchardstown","Mill Rd, Blanchardstown, Dublin, Ireland",53.3895364,-6.3720367
+373,"Firhouse Educate Together Secondary School, Firhouse, Dublin 24","South Dublin, Tallaght, Dublin, Ireland",53.2764338,-6.338069700000001
+374,"Malahide & Portmarnock Secondary School, Swords Enterprise Park, Feltrim Road","Malahide, Co. Dublin, Ireland",53.4509236,-6.1501378
+375,"Limerick City East Secondary School, Limerick City East, Limerick","R859, Moneteen, Limerick, Ireland",52.63256029999999,-8.6843176
+376,"Coláiste Chiaráin, Summerhill, Athlone","Summerhill, Crannagh, Athlone, Co. Roscommon, Ireland",53.40924589999999,-7.9876231
+377,"Wicklow Educate Together Secondary School, Crinion Park, Wicklow Town","Crinion Park, Corporation Lands, Wicklow, Ireland",52.9778922,-6.0367947
+378,"Donaghmede Howth Educate Together Secondary School, Grange Abbey Road, Dublin 13","Belmayne North, Donaghmede, Dublin 13, Ireland",53.4048048,-6.168488300000001
+379,"Galway City & Oranmore Educate Together Secondary School, Grianach House, Murrough","Galway, Ireland",53.270668,-9.0567905
+380,"Laytown & Drogheda Educate Together Secondary School, c/o Laytown Bettystown Youtreach, Coast Road","Laytown, Co. Meath, Ireland",53.68063009999999,-6.2374498
+381,"Balbriggan Community College, Pine Ridge, Chapel St.","Pine Ridge, Chapel St, Tankardstown, Balbriggan, Co. Dublin, K32 HE19, Ireland",53.61044279999999,-6.1901239
+382,"Grange Community College, Grange Abbey Road, Donaghmede","Grange Abbey Rd, Donaghmede, Dublin 13, D13 RW28, Ireland",53.3993106,-6.1558248
+383,"Coláiste de hÍde, Br Chaisleáin Thigh Mótháin, Tamhlacht","Bóthar Chaisleáin Thigh Mothain, Tamhlacht, Tymon North, Dublin, Ireland",53.3012174,-6.348457000000001
+384,"Deansrath Community College, Westbourne Rise, Clondalkin","Westbourne Rise, Deansrath, Dublin 22, Ireland",53.3241682,-6.4203392
+385,"Collinstown Park Community College, Neilstown Rd., Rowlagh","Neilstown Rd, Neillstown, Dublin 22, Ireland",53.34123599999999,-6.396114
+386,"St. Kevin's Community College, Fonthill Road, Clondalkin","Fonthill Rd, Clondalkin, Dublin 22, Co. Dublin, Ireland",53.35264530000001,-6.4052757
+387,"Lucan Community College, Esker Drive, Lucan","Lucan Community College, Esker Dr, Lucan, Co. Dublin, Ireland",53.3476706,-6.4497507
+388,"Colaiste Ghleann na hAbhann, Riversdale Community College, Blanchardstown Road North","Blanchardstown Rd N, Blanchardstown, Dublin 15, Ireland",53.4019114,-6.379454
+389,"Coláiste Chilliain, Bóthar Nangor, Cluain Dolcáin","22 Nangor Cres, Bawnoges, Clondalkin, Co. Dublin, Ireland",53.3213719,-6.4089829
+390,"St Finians Community College, Castlefarm, Swords","Castlefarm, Swords, Co. Dublin, Ireland",53.4654457,-6.224143700000001
+391,"Fingal Community College, Seatown Road, Swords","Fingal Community College, Seatown Rd, Townparks, Swords, Co. Dublin, Ireland",53.460698,-6.216774
+392,"Greenhills College, Limekiln Avenue, Greenhills","Limekiln Ave, Walkinstown, Dublin 12, D12 DP8W, Ireland",53.30722,-6.3351279
+393,"Firhouse Community College, Firhouse Road, Dublin 24","Firhouse Rd, Tallaght, Dublin 24, Ireland",53.2762325,-6.3484937
+394,"Mount Seskin Community College, Jobstown, Tallaght","Fortunestown Road, Jobstown, Dublin 24, D24 R267, Ireland",53.2788424,-6.410148299999999
+395,"Cabra Community College, Kilkieran Road, Cabra","Kilkieran Rd, Cabra West, Dublin, Ireland",53.3687218,-6.2943072
+396,"Clogher Road Community College, Clogher Road, Crumlin","113 Clogher Rd, Crumlin, Dublin, D12 X8E2, Ireland",53.3265124,-6.293414599999999
+397,"Coláiste Eoin, Cappagh Road, Finglas West","Cappagh Rd, Finglas, Dublin 11, D11 AY65, Ireland",53.3876613,-6.309822400000001
+398,"Ringsend College, Cambridge Road, Ringsend","Cambridge Rd, Dublin 4, Ireland",53.3437546,-6.2245095
+399,"Kylemore College, Kylemore Road, Ballyfermot","Kylemore Road, Ballyfermot, Dublin 10, Ireland",53.34509749999999,-6.3516238
+400,"Marino College, 14-20 Marino Mart, Fairview","Ballybough, Dublin, Co. Dublin, Ireland",53.3643758,-6.2314903
+401,"St Mac Dara's Community College, St. Mac Dara's Community College, Wellington Lane","Wellington Ln, Templeogue, Dublin 6W, Co. Dublin, Ireland",53.2970834,-6.3268266
+402,"Rathmines College, Town Hall, Rathmines","Townhall, Rathmines, Dublin 6, Ireland",53.3240796,-6.2652375
+403,"Pearse College - Colaiste an Phiarsaigh, Clogher Road, Crumlin","Clogher Rd, Crumlin, Dublin, Ireland",53.3265403,-6.2934106
+404,"Plunket College, Swords Road, Whitehall","Swords Rd, Whitehall, Dublin 9, D09 C94K, Ireland",53.3794304,-6.248254699999999
+405,"Margaret Aylward Community College, The Thatch Road, Whitehall","The Thatch Rd, Whitehall, Dublin 9, Ireland",53.3838442,-6.2400965
+406,"Coláiste Dhúlaigh, Barryscourt Road, Coolock","17 Barryscourt Rd, Coolock, Dublin 17, Ireland",53.3966321,-6.211757
+407,"St Bricin's College, Belturbet, Co Cavan","Saint Bricin's College, Railway Rd, Corporation Lands, Belturbet, Co. Cavan, Ireland",54.099416,-7.4434722
+408,"St. Mogue's College, Bawnboy, Co Cavan","Bawnboy, Co. Cavan, Ireland",54.122559,-7.677543699999998
+409,"Breifne College, Cootehill Rd, Cavan","12 Cootehill Rd, Curragho, Co. Cavan, H12 PX51, Ireland",54.0095501,-7.346259400000001
+410,"Virginia College, Virginia, Co Cavan","Virginia, Rahardrum, Virginia, Co. Cavan, Ireland",53.8317736,-7.0845831
+411,"Borris Vocational School, Borris, Co Carlow","Borris, Knocknagundarragh, Borris, Co. Carlow, Ireland",52.5972716,-6.9178413
+412,"Coláiste Eoin, Hacketstown, Co Carlow","Hacketstown Upper, Co. Carlow, Ireland",52.8611781,-6.5530601
+413,"Tyndall College, Mortarstown, Kilkenny Road","Kilkenny Rd, Mortarstown Upper, Carlow, Ireland",52.8185242,-6.9446829
+414,"Coláiste Aindriú, Muine Bheag, Co Carlow","Kilcarrig, Bagenalstown, Co. Carlow, Ireland",52.7021103,-6.9506057
+415,"Gaelcholáiste Cheatharlach, Easca, Ceatharlach","Gaelcholáiste Ceatharlach, Askea, Carlow, Ireland",52.8368409,-6.910886499999999
+416,"Killarney Community College, New Road, Killarney","New Rd, Inch, Killarney, Co. Kerry, Ireland",52.06248979999999,-9.5195383
+417,"Community College Killorglin, Killorglin, Co Kerry","Community College Killorglin, Langford St, Ardmoneel, Killorglin, Co. Kerry, Ireland",52.0999548,-9.7841122
+418,"Coláiste na Ríochta, Upper Church St.,, Listowel","Upper Church St, Ballygowloge, Listowel, Co. Kerry, Ireland",52.44837930000001,-9.4791246
+419,"Castleisland Community College, Tonbwee, Castleisland","Tonbwee, Castleisland, Co. Kerry, Ireland",52.2272523,-9.456630299999999
+420,"Causeway Comprehensive School, Causeway, Tralee","1 Tóchar View, Dromkeen West, Causeway, Co. Kerry, V92 EP46, Ireland",52.4118438,-9.7360539
+421,"Coláiste Gleann Lí Post Primary School, Clash Road, Tralee","Clash Road, Clash West, Tralee, Co. Kerry, Ireland",52.2724915,-9.6865223
+422,"Gaelcholáiste Chiarraí, Tobar Mhaigh Dor, Trá Lí","Cloon Beg, Tralee, Co. Kerry, Ireland",52.2667396,-9.6989362
+423,"Scoil Aireagail, Ballyhale, Co. Kilkenny","Ballyhale, Knocktopher Manor, Ballyhale, Co. Kilkenny, Ireland",52.478758,-7.212555900000001
+424,"Duiske College, Graignamanagh, Co Kilkenny","High St, Brandondale, Graiguenamanagh, Co. Kilkenny, Ireland",52.5400938,-6.9573525
+425,"Coláiste Mhuire, Johnstown, Co Kilkenny","Urlingford Rd, Glebe, Johnstown, Co. Kilkenny, Ireland",52.7443664,-7.5596697
+426,"City Vocational School, New Street,, Kilkenny","Lower New St, Kilkenny, Ireland",52.6478498,-7.254449799999999
+427,"Coláiste Cois Siúire, Mooncoin, Co Kilkenny","Filbuckstown, Mooncoin, Co. Kilkenny, X91 Y168, Ireland",52.2903323,-7.246716800000001
+428,"Grennan College, Ladywell St, Thomastown","Lady's Well St, Thomastown, Co. Kilkenny, Ireland",52.5284997,-7.1433941
+429,"Coláiste Pobail Osraí, Bóthar Urmhumhan, Cill Chainnigh","6-7 Ormonde Rd, Kilkenny, Co. Kilkenny, Ireland",52.648616,-7.251819999999999
+430,"Athy Community College, Tomard, Athy","Rathstewart, Athy, Co. Kildare, R14 KT50, Ireland",53.001559,-6.986398299999999
+431,"Curragh Post-Primary School, McSwiney Road, Curragh","McSwiney Road, Curragh, Co. Kildare, Ireland",53.1473624,-6.8323535
+432,"Colaiste Lorcain, Castledermot, Co. Kildare","Castledermot, Mullarney, Athy, Co. Kildare, Ireland",52.90921909999999,-6.8388259
+433,"St Conleth's Community College, Station Road, Newbridge","Station Rd, Piercetown, Newbridge, Co. Kildare, Ireland",53.1828618,-6.8019049
+434,"Confey Community College, Confey, Leixlip","River Forest, Newtown, Leixlip, Co. Kildare, Ireland",53.3728402,-6.4983019
+435,"Maynooth Post Primary School, Moyglare Rd, Maynooth","Maynooth, Co. Kildare, Ireland",53.3847093,-6.5957705
+436,"Piper's Hill College, Killashee, Naas","Killashee, Piper's Hill Campus, Naas, Co. Kildare, Ireland",53.1954453,-6.669875999999999
+437,"St Farnan's Post Primary School, Prosperous, Co. Kildare","Curryhills, Prosperous, Co. Kildare, Ireland",53.28669559999999,-6.7516438
+438,"Ardscoil Rath Iomgháin, Rathangan, Co Kildare","Rathangan, Rathangan Demesne, Rathangan, Co. Kildare, Ireland",53.2183382,-6.9941143
+439,"Glenart College, Coolgreaney Rd, Arklow","Coolgreaney Rd, Sheephouse, Arklow, Co. Wicklow, Ireland",52.7964072,-6.1729309
+440,"Scoil Chonglais, Baltinglass, Co Wicklow","Carsrock, Baltinglass, Co. Wicklow, Ireland",52.9378838,-6.7013089
+441,"Blessington Community College, Naas Rd, Blessington","Naas Rd, Blessington, Co. Wicklow, Ireland",53.1695369,-6.5391134
+442,"St Thomas' Community College, Novara Avenue, Bray","Novara Ave, Bray, Co. Wicklow, Ireland",53.2007951,-6.106713999999999
+443,"Coláiste Bhríde Carnew, Carnew, Arklow","Main St, Carnew, Co. Wicklow, Ireland",52.710198,-6.502342
+444,"St Kevin's Community College, Dunlavin, Co Wicklow","Saint Kevin's Community College, Pound Rd, Dunlavin Upper, Dunlavin, Co. Wicklow, Ireland",53.0543708,-6.6967596
+445,"Avondale Community College, Rathdrum, Co Wicklow","Rathdrum, Co. Wicklow, Ireland",52.9343558,-6.236100800000001
+446,"Coláiste Raithín, Bóthar Bhaile Átha Cliath, Bré","Bóthar Bhaile Átha Cliath, Ravenswell, Bré, Co. Chill Mhantáin, A98 X3A3, Ireland",53.2096484,-6.109433
+447,"Ennis Community College, Harmony Row, Ennis","Harmony Row, Lifford, Ennis, Co. Clare, Ireland",52.84702069999999,-8.9878814
+448,"Ennistymon Vocational School, Ennistymon, Ennis","Ennistimon, Co. Clare, V95 P991, Ireland",52.94012069999999,-9.294971499999999
+449,"St Michael's Community College, Kilmihil, Co Clare","Saint Michael's Community College, Newtown, Kilmihil, Co. Clare, Ireland",52.7248033,-9.3211622
+450,"St Joseph's Community College, Carrigaholt Road, Kilkee","7 Church Rd, Dough, Kilkee, Co. Clare, Ireland",52.6744206,-9.6502933
+451,"Scariff Community College, Scariff Community College, Drewsborough","Drewsborough, Scarriff, Co. Clare, V94 Y9W2, Ireland",52.9027336,-8.5359141
+452,"St Anne's Community College, Killaloe, Co Clare","Clarisford, Shantraud, Killaloe, Co. Clare, Ireland",52.80307269999999,-8.4402273
+453,"St. Brogan's College, Bandon, Kilbrogan, Bandon","St Brogan's College, Kilbrogan, Bandon, Co. Cork, Ireland",51.7565561,-8.7422537
+454,"Colaiste Ghobnatan, Baile Mhic Ire, Machromtha","Flats, Ballymakeery, Co. Cork, P12 X239, Ireland",51.9392118,-9.1558049
+455,"Scoil Mhuire, Béal Atha'n Ghaorthaidh, Co Chorcaí","Illauninagh West, Ballingeary, Co. Cork, P12 YP62, Ireland",51.8479875,-9.235342000000001
+456,"Clonakilty Community College, Clonakilty, Co Cork","Scartagh, Clonakilty, Co. Cork, P85 E099, Ireland",51.62481080000001,-8.887062199999999
+457,"Coachford College, Coachford, Co Cork","Glebe, Coachford, Co. Cork, Ireland",51.9121113,-8.793301699999999
+458,"Carrignafoy Community College, Carrignafoy, Cobh","Carrignafoy, Cobh, Co. Cork, P24 WR29, Ireland",51.8552312,-8.2861028
+459,"Coláiste an Chraoibhin, Duntaheen Road, Fermoy","Coláiste an Chraoibhin, Duntaheen Rd, Duntahane, Fermoy, Co. Cork, Ireland",52.13523319999999,-8.2855797
+460,"Colaiste Treasa, Kanturk, Co Cork","Greenane Street Upper, Bluepool, Co. Cork, Ireland",52.1779891,-8.9009388
+461,"Davis College, Summerhill, Mallow",.,.,.
+462,"McEgan College, Macroom, Co Cork","Macroom, Maghereen, Macroom, Co. Cork, Ireland",51.9049181,-8.9615551
+463,"Coláiste Fionnchua, Mitchelstown, Mallow","Brigown, Mitchelstown, Co. Cork, Ireland",52.2652171,-8.2623316
+464,"St Colman's Community College, Youghal Road, Midleton","Youghal Rd, Park South, Midleton, Co. Cork, Ireland",51.910309,-8.167486000000002
+465,"St Aidan's Community College, Dublin Hill, Cork","Dublin Hill, Cork, Co. Cork, T23 YE02, Ireland",51.92084500000001,-8.4626465
+466,"Schull Community College, Colla Road, Schull","Colla Road, Skull, Schull, Co. Cork, Ireland",51.5224824,-9.546703899999999
+467,"Coláiste Choilm, Ballincollig, Co. Cork","Ballincollig, Carrigrohane, Ballincollig, Co. Cork, Ireland",51.8897506,-8.580173
+468,"Nagle Community College, Mahon, Blackrock","Nagle Community College, Ave de Rennes, Mahon, Cork, T12 WT21, Ireland",51.89136269999999,-8.4027383
+469,"Cork College Of Commerce, Morrison's Island, Cork","Morrison's Quay, Centre, Cork, Ireland",51.89564319999999,-8.4694212
+470,"Terence Mac Swiney Community College, Hollyhill, Knocknaheeny","Harbour View Rd, Knocknaheeney, Cork, Ireland",51.9046339,-8.503776
+471,"Coláiste Daibhéid, Teach Buckingham, Sráid Mhuilinn na Sábhadóireachta","Sawmill St, Ballintemple, Cork, Co. Cork, T12 VP03, Ireland",51.8937418,-8.4668286
+472,"Crana College, Crana Road, Buncrana","Crana Rd, Ardaravan, Inishowen, Co. Donegal, Ireland",55.1350212,-7.4589171
+473,"Coláiste na Carraige, Carrick, Co. Donegal","Carrick, Roxborough Glebe, Carrick, Co. Donegal, Ireland",54.6555012,-8.632718299999999
+474,"Abbey Vocational School, The Glebe, Donegal Town","Glebe, Co. Donegal, Ireland",54.64865899999999,-8.112553
+475,"Errigal College, Windyhall, Letterkenny","Windyhall, Letterkenny, Co. Donegal, F92 FC82, Ireland",54.9634831,-7.733002599999999
+476,"Mulroy College, Milford, Letterkenny","Rossgarrow, Milford, Co. Donegal, F92 FX36, Ireland",55.0926904,-7.7042511
+477,"Deele College, Raphoe, Lifford","Lifford Rd, Raphoe Townparks, Lifford, Co. Donegal, Ireland",54.8742429,-7.6034088
+478,"Finn Valley College, Drumboe Lower, Stranorlar","Drumboe Lower, Greenhills, Stranorlar, Co. Donegal, F93 AE27, Ireland",54.8070477,-7.7748944
+479,"St. Catherine's Vocational School, Donegal Road, Killybegs","Donegal Rd, Drumbeagh, Killybegs, Co. Donegal, F94 A004, Ireland",54.63944309999999,-8.4373691
+480,"Gairm Scoil Chú Uladh, Béal an Átha Móir, An Clochán","Ballinamore Vocational School, Meenagolan, Cloghan, Co. Donegal, Ireland",54.8658162,-8.044247
+481,"Gairmscoil Mhic Diarmada, An Leadhbgarbh, Árainn Mhór","Fallagowan, Arranmore, Co. Donegal, Ireland",54.98528719999999,-8.4930261
+482,"Colaiste Cholmcille, Indreabhán, Co na Gaillimhe","Aille, Inverin, Co. Galway, Ireland",53.2446698,-9.3904651
+483,"Clárin College, Caheroyn Road,, Athenry","Newford, Athenry, Co. Galway, H65 KC65, Ireland",53.29328539999999,-8.754201799999999
+484,"St Brigids College, St. Brigid's College,, Loughrea","Mt Pleasant, Baunoge, Loughrea, Co. Galway, Ireland",53.1952867,-8.55951
+485,"Coláiste an Chreagáin, Mountbellew, Ballinasloe","Mountbellew, Bovinion, Ballinasloe, Co. Galway, Ireland",53.460975,-8.4838472
+486,"COLÁISTE NAOMH ÉINNE, Cill Rónain, Inis Mór","Cottage Rd, Oghil, Kilronan, Co. Galway, Ireland",53.12581849999999,-9.672385199999999
+487,"St Killian's College (Coláiste Chilleáin Naofa), New Inn, Ballinasloe","R348, Knockbrack, Co. Galway, Ireland",53.3009438,-8.488189499999999
+488,"Coláiste Naomh Feichín, Corr na Mona, Co na Gaillimhe","Cornamona, Co. Galway, Ireland",53.5133372,-9.451209
+489,"Coláiste na Coiribe, Bothar Bhaile na mBúrcach, Cnoc na Cathrach","Knocknacarra, Ballymoneen Rd, Ballyburke, Galway, H91 RC97, Ireland",53.26951589999999,-9.1236778
+490,"Coláiste Ghobnait, Inis Oírr, Oileáin Árann","Inisheer, Co. Galway, Ireland",53.063474,-9.522560499999999
+491,"Gairmscoil na bPiarsach, Ros Muc, Co na Gaillimhe","An Gort Mór, Rosmuck, Co. Condae na Gaillimhe, Ireland",53.3870817,-9.6107108
+492,"Archbishop McHale College, Dublin Road, Tuam, Tuam","Dublin Rd, Parkmore, Tuam, Co. Galway, Ireland",53.5105127,-8.8454473
+493,"Galway Community College, Moneenageisha, Wellpark","Wellpark, Galway, H91 K642, Ireland",53.2829121,-9.0326741
+494,"Athlone Community College, Retreat Road, Athlone","Retreat Rd, Retreat, Athlone, Co. Westmeath, N37 Y985, Ireland",53.4246831,-7.9211828
+495,"Castlepollard Community College, Castlepollard, Mullingar","Castlepollard, Kinturk Demesne, Castlepollard, Co. Westmeath, Ireland",53.6748789,-7.3050636
+496,"Columba College, Killucan, Co Westmeath","Columba College, Killucan, Co. Westmeath, Ireland",53.5165218,-7.1400535
+497,"Mullingar Community College, Millmount Road, Mullingar","Millmount Rd, Bellview, Mullingar, Co. Westmeath, Ireland",53.52445,-7.334517199999999
+498,"Clonaslee College, Clonaslee, Co. Laois","Corbally, Co. Laois, Ireland",53.1455966,-7.5139869
+499,"Portlaoise College, Mountrath Road, Portlaoise","Mountrath Rd, Clonroosk Little, Portlaoise, Co. Laois, R32 N795, Ireland",53.03569479999999,-7.3137246
+500,"St Fergal's College, Rathdowney, Co Laois","Saint Fergal's College, Church St, Rathdowney, Co. Laois, Ireland",52.854399,-7.577092500000001
+501,"Carrigallen Vocational School, Carrigallen, Co. Leitrim","Carrigallen, Clooncorick, Carrigallen, Co. Leitrim, Ireland",53.9795381,-7.647757999999999
+502,"Lough Allen College, Drumkeerin, County Leitrim","Lugmeen, Drumkeeran, Co. Leitrim, Ireland",54.1692834,-8.137009899999999
+503,"Drumshanbo Vocational School, Drumshanbo Vocational School, Drumshanbo","Drumshanbo Vocational School, Carricknabrack, Drumshanbo, Co. Leitrim, Ireland",54.04853379999999,-8.046401399999999
+504,"Coláiste Abbáin, Adamstown, Enniscorthy","Adamstown, Glenour, Enniscorthy, Co. Wexford, Ireland",52.3920602,-6.7192782
+505,"Bridgetown College, Bridgetown, Co Wexford","co Y35 R 628, Bridgetown, Lake, Bridgetown, Co. Wexford, Ireland",52.2289421,-6.5499745
+506,"Bunclody Vocational College, Irish Street, Bunclody","Irish St, Ballinapark, Bunclody, Co. Wexford, Ireland",52.6530531,-6.6513905
+507,"Enniscorthy Vocational College, Milehouse Rd, Enniscorthy","Milehouse Rd, Bellefield, Enniscorthy, Co. Wexford, Ireland",52.50985910000001,-6.585142500000001
+508,"Coláiste an Átha, Kilmuckridge, Gorey","Kilmuckridge, Gorey, Co. Wexford, Ireland",52.5117753,-6.285971399999999
+509,"Kennedy College, New Ross, Co Wexford","Bosheen St, Trianglepark, New Ross, Co. Wexford, Ireland",52.3912839,-6.9329681
+510,"Selskar College (Coláiste Sheilscire), Westgate, Wexford","Y35 RY27, Westgate, Townparks, Wexford, Ireland",52.3414349,-6.4678387
+511,"Ballymahon Vocational School, Ballymahon, Co Longford","Ballymahon, Co. Longford, Ireland",53.5682901,-7.772113699999998
+512,"Colaiste Mhuire, Askeaton, Co Limerick","Church St, Askeaton, Co. Limerick, Ireland",52.60019279999999,-8.969714
+513,"Ardscoil Phadraig, Granard, Co Longford","Granard, Churchquarter, Granard, Co. Longford, Ireland",53.7772429,-7.504488799999999
+514,"Lanesboro Community College, Lanesboro, Co Longford","Knock, Lanesborough, Co. Longford, N39 NN52, Ireland",53.6692632,-7.9839016
+515,"Templemichael College, Templemichael, Longford","Templemichael, Longford, N39 DA02, Ireland",53.731941,-7.7863535
+516,"Bush Post Primary School, Riverstown, Dundalk","Dundalk Rd, Seecrin, Dundalk, Co. Louth, Ireland",53.9985629,-6.18871
+517,"St Oliver's Community College, Rathmullen Road, Drogheda","Rathmullan Rd, Rathmullan, Drogheda, Co. Louth, Ireland",53.71422570000001,-6.3780914
+518,"Ó Fiaich College, Dublin Road, Dundalk","Dublin Rd, Marshes Upper, Dundalk, Co. Louth, Ireland",53.9861037,-6.392202999999999
+519,"Scoil Ui Mhuiri, Barn Road, Dunleer","Barn Rd, Skibbolmore, Dunleer, Co. Louth, Ireland",53.8263672,-6.3820163
+520,"Desmond College, Station Road, Newcastle West","Station Rd, Gortboy, Newcastle West, Co. Limerick, Ireland",52.4559271,-9.052272799999999
+521,"Colaiste Chiarain, Croom, Co. Limerick","High St, Tooreen, Croom, Co. Limerick, Ireland",52.5208434,-8.713801199999999
+522,"Hazelwood College, Dromcollogher, Co. Limerick","Hazelwood College, Kells, Dromcolliher, Co. Limerick, Ireland",52.3433302,-8.9033912
+523,"St Peter's College, Dunboyne, Co. Meath","Station Rd, Bracetown, Dunboyne, Co. Meath, Ireland",53.4185002,-6.468379
+524,"Community College Dunshaughlin, Dunshaughlin, Co Meath","Drumree Rd, Knocks, Dunshaughlin, Co. Meath, A85 TY22, Ireland",53.5138304,-6.5497252
+525,"Coláiste Clavin, Enfield Road, Longwood","Enfield Road, Clonguiffin, Meath, Ireland",53.45237530000001,-6.916161600000001
+526,"O'Carolan College, Nobber, Co Meath","O'Carolan College, Nobber, Co. Meath, Ireland",53.8173128,-6.7419012
+527,"St Oliver Post Primary, Oldcastle, Co. Meath","4-2 Cavan St, Oldcastle, Co. Meath, Ireland",53.7719608,-7.1625026
+528,"Coláiste Pobail Rath Cairn, Ráth Chairn, Áth Buí,","Rathcarran, Clifton, Co. Meath, C15 FK26, Ireland",53.6200683,-6.860761999999999
+529,"Beaufort College, Trim Rd, Navan","Trim Rd, Limekilnhill, Navan, Co. Meath, C15 PY53, Ireland",53.6435793,-6.6828793
+530,"Moyne College, Ballina, County Mayo","Abbeyhalfquarter, Ballina, Co. Mayo, Ireland",54.113022,-9.148288599999999
+531,"St. Brendan's College, Belmullet, Co. Mayo","Saint Brendan's College, Belmullet, Co. Mayo, Ireland",54.2148735,-9.9789984
+532,"St. Tiernan's College, Mullinmore Street, Crossmolina","Mullenmore St., Knockalegan, Crossmolina, Co. Mayo, Ireland",54.0974732,-9.3158409
+533,"St. Patrick's College, Lacken Cross, Killala","Lacken Cross, Doonamona, Killala, Co. Mayo, Ireland",54.2294299,-9.2879252
+534,"Colaiste Chomain, Rossport, Ballina","Rosdoagh, Ross Port, Co. Mayo, F26 YR99, Ireland",54.2860887,-9.802543199999999
+535,"Ballybay Community College, Ballybay, Co Monaghan","R180, Corrybrannan, Co. Monaghan, Ireland",54.123694,-6.901818
+536,"Largy College, Analore Rd, Clones","1 Analore Rd, Legarhill, Monaghan, Co. Monaghan, Ireland",54.1791884,-7.224726500000001
+537,"Inver College, Carrickmacross, Co Monaghan","Inver College, Castleblaney Rd, Cloghvally Upper, Carrickmacross, Co. Monaghan, Ireland",53.9835693,-6.716102299999999
+538,"Castleblayney College, Dublin Road, Castleblayney","Castleblayney College, Dublin Rd, Onomy, Castleblayney, Co. Monaghan, Ireland",54.1145498,-6.7325176
+539,"Beech Hill College, Tirkeenan, Monaghan","Dublin Rd, Tirkeenan, Monaghan, H18 P997, Ireland",54.2445023,-6.962661
+540,"Dungarvan College-Coláiste Dhun Garbhán, Youghal Road, Dungarvan","Youghal Rd, Cloneety, Dungarvan, Co. Waterford, X35 PV34, Ireland",52.0871838,-7.628351700000001
+541,"St Declan's Community College, Kilmacthomas, Co Waterford","Kilmacthomas, Co. Waterford, Ireland",52.2047906,-7.4212633
+542,"St Paul's Community College, Browne's Road, Waterford City","Paddy Browne's Rd, Lisduggan, Waterford, Ireland",52.2517223,-7.1377099
+543,"Elphin Community College, Elphin, Castlerea","Elphin Community College, Chanterland, Elphin, Co. Roscommon, Ireland",53.84493450000001,-8.2028541
+544,"Roscommon Community School, Lisnamult, Roscommon","20 St Theresa's Rd, Ardnanagh, Roscommon, Ireland",53.6249985,-8.2000222
+545,"Corran College, Ballymote, Co Sligo","Marren Park, Rathnakelliga, Ballymote, Co. Sligo, Ireland",54.0910233,-8.515093
+546,"Coola Post Primary School, Riverstown, Via Boyle","Riverstown, Carrickcoola, Via Boyle, Co. Sligo, F52 XE71, Ireland",54.1538951,-8.375937799999999
+547,"Coláiste Iascaigh, Easkey, Co Sligo","Easky, Aderavoher, Easkey, Co. Sligo, Ireland",54.2857405,-8.956193899999999
+548,"Grange Post Primary School, Grange, Co Sligo","Grange, Co. Sligo, F91 F722, Ireland",54.3916225,-8.5224947
+549,"Ballinode College, Clarion Rd, Ballinode","Clarion Road, Bellanode, Ballinode, Co. Sligo, F91 DY66, Ireland",54.2790053,-8.4591399
+550,"Borrisokane Community College, Borrisokane, Co Tipperary","Borrisokane Church of Ireland, Fairgreen, Ballyhaden, Borrisokane, Co. Tipperary, Ireland",53.00106650000001,-8.1181204
+551,"Comeragh College, Tinvane, Carrick-On-Suir","Tinvane, Carrick-On-Suir, Co. Tipperary, Ireland",52.3520793,-7.3890996
+552,"Raheen College, Clonmel, Co Tipperary","The Mall, Raheen, Clonmel, Co. Tipperary, Ireland",52.3537524,-7.695879
+553,"Scoil Ruain, Killenaule, Thurles","Killenaule, Thurles, Co. Tipperary, Ireland",52.5719305,-7.676740699999999
+554,"Nenagh College, Dromin Road, Nenagh","Dromin Rd, Nenagh North, Nenagh, Co. Tipperary, Ireland",52.8706725,-8.2011437
+555,"Newport College, Black Road, Newport","Black Rd, Newport, Co. Tipperary, Ireland",52.7150905,-8.4064467
+556,"St. Ailbe's School, Rosanna Road, Tipperary Town","Roselawn, Carrownreddy, Tipperary, Ireland",52.4784701,-8.1565153
+557,"Coláiste Mhuire Co-Ed, Castlemeadows, Thurles","Castlemeadows, Gortataggart, Thurles, Co. Tipperary, Ireland",52.6840722,-7.8256982
+558,"Coláiste Naomh Cormac, Kilcormac, Co Offaly","Coláiste Naomh Cormac, Park, Kilcormac, Co. Offaly, Ireland",53.1793772,-7.7202134
+559,"Ard Scoil Chiaráin Naofa, Frederick St., Clara","Frederick St, Kilcoursey, Clara, Co. Offaly, Ireland",53.34049719999999,-7.6126786
+560,"Oaklands Community College, Sr. Senan Avenue, Edenderry","Sr Senan Avenue, Edenderry, Co. Offaly, Ireland",53.33684539999999,-7.063478399999999
+561,"Tullamore College, Riverside, Tullamore","Riverside, Tullamore, Co. Offaly, R35 XC66, Ireland",53.2756368,-7.487299999999999
+562,"Davitt College, Springfield, Castlebar","Springfield, Castlebar, Co. Mayo, F23 VY15, Ireland",53.8571589,-9.2903781
+563,"Colaiste na Trocaire (Mercy Community College), Rathkeale, Co. Limerick","Ballywilliam, Abbeylands, Rathkeale, Co. Limerick, Ireland",52.520051,-8.934068
+564,"Castleknock Community College, Carpenterstown Road, Castleknock","Carpenterstown Road, Diswellstown, Dublin, Ireland",53.371686,-6.390483
+565,"Colaiste Dun Iascaigh, Cashel Road, Cahir","Cashel Rd, Farranlahassery, Cahir, Co. Tipperary, Ireland",52.3812565,-7.9175064
+566,"Glanmire Community College, Brooklodge, Glanmire","Brooklodge, Co. Cork, Ireland",51.9310997,-8.3842679
+567,"Coláiste Cois Life, Gleann an Ghrífín, Leamhcán","Coláiste Cois Life, Castle Rd, Glebe, Lucan, Co. Dublin, Ireland",53.3496817,-6.435645699999999
+568,"Meánscoil San Nioclás, Rinn O gCuanach, Dún Garbhán","Headquarters D Company, Youghal Rd, Ringaphuca, Dungarvan, Co. Waterford, X35 RF24, Ireland",52.0477152,-7.5755797
+569,"Colaiste Pobail Naomh Mhuire, CREGGANE, STATION ROAD","Station Rd, Creggane, Co. Cork, Ireland",52.2362182,-8.6772107
+570,"Coláiste na Sceilge, Caherciveen, Co. Kerry","Cahersiveen, Garranebane, Cahirciveen, Co. Kerry, Ireland",51.9401427,-10.2408435
+571,"Colaiste Phobáil Ros Cré, Corville Road, Roscrea","Corville Rd, Demesne, Roscrea, Co. Tipperary, Ireland",52.9538002,-7.7907329
+572,"Coláiste Iósaef, Abbeyfarm, Kilmallock","Sheares St, Abbeyfarm, Kilmallock, Co. Limerick, Ireland",52.4043212,-8.5781852
+573,"Abbey Community College, Boyle, Co Roscommon","Abbey Community College, Upper Marian Rd, Termon, Boyle, Co. Roscommon, Ireland",53.969034,-8.29916
+574,"Castletroy College, Newtown, Castletroy","Newtown, Castletroy, Co. Limerick, V94 6D85, Ireland",52.66313359999999,-8.5408984
+575,"St John Bosco Community College, Kildysart, Ennis","Cahiracon, Kildysart, Co. Clare, Ireland",52.6726705,-9.104600300000001
+576,"Colaiste Chraobh Abhann, Creowen, Kilcoole","Creowen, Kilcoole, Co. Wicklow, Ireland",53.10024379999999,-6.0653897
+577,"Larkin Community College, Champions Avenue, Dublin 1","Champions Ave, North City, Dublin, Ireland",53.3522063,-6.2570492
+578,"Skerries Community College, Skerries, Co. Dublin","Townparks, Skerries, Co. Dublin, Ireland",53.5792175,-6.115860899999999
+579,"Coláiste Phobail Cholmcille, Baile Úr, Oileán Thoraí","Coláiste Phobail Cholmcille, Tory Island, Co. Donegal, Ireland",55.2647334,-8.2212443
+580,"Coláiste Ailigh, Cnoc na Móna, Leitir Ceanainn","Knocknamona, Letterkenny, Co. Donegal, Ireland",54.9627237,-7.724127199999999
+581,"Abbey Community College, Abbey Rd, Ferrybank","Abbey Rd, Ferrybank, Abbeylands, Co. Waterford, Ireland",52.26423699999999,-7.101846
+582,"Magh Ene College, Church Road, Bundoran","Bundoran, Drumacrin, Bundoran, Co. Donegal, Ireland",54.4755152,-8.277896199999999
+583,"Moville Community College, Carrownaff, Moville","Carrownaff, Moville, Co. Donegal, Ireland",55.1872073,-7.0519345
+584,"Gaelcholáiste Reachrann, Bóthar Mhainistir na Gráinsí, Domhnach Míde","Grange Abbey Rd, Grange Abbey, Dublin 13, D13 RW28, Ireland",53.3993137,-6.1561837
+585,"MARIA IMMACULATA COMMUNITY COLLEGE, Dunmanway, Co Cork","Maria Immaculata Community College, Bantry Rd, Underhill, Dunmanway, Co. Cork, Ireland",51.7146221,-9.115335499999999
+586,"Ratoath College, Jamestown, Ratoath","Jamestown, Ratoath, Co. Meath, Ireland",53.499422,-6.4575933
+587,"MOHILL COMMUNITY COLLEGE, MOHILL, CO LEITRIM","Mohill, Shannagh, Mohill, Co. Leitrim, Ireland",53.9228706,-7.871506300000001
+588,"Coláiste Pobail Bheanntraí, SESKIN, BANTRY","Carrignagat, Bantry, Co. Cork, Ireland",51.6739835,-9.4463403
+589,"Coláiste Oiriall, Cnoc an Chonnaidh, Br. Ard Mhacha","Knockaconny, Monaghan, Ireland",54.26257950000001,-6.9504065
+590,"PRESENTATION COMMUNITY COLLEGE, TERENURE, DUBLIN 6W","Terenure Park, Terenure, Dublin, D6W CP28, Ireland",53.3108882,-6.286360699999999
+591,"COLÁISTE ÍDE AGUS IOSAEF, ABBEYFEALE, CO LIMERICK","Convent St, Abbeyfeale West, Abbeyfeale, Co. Limerick, Ireland",52.3863935,-9.296148299999999
+592,"Coláiste Mhuirlinne/Merlin College, c/o Galway-Roscommon ETB, Doughiska Road","Doughiska Rd, Galway, Ireland",53.28245039999999,-8.984837299999999
+593,"ADAMSTOWN COMMUNITY COLLEGE, Station Rd, Adamstown","Station Rd, Adamstown, Lucan, Co. Dublin, Ireland",53.3367995,-6.4620533
+594,"Coláiste Pobail Setanta, Colaiste Pobail Setanta, Phibblestown","Phibblestown Wood, Clonsilla, Dublin 15, Ireland",53.39775729999999,-6.4348173
+595,"Coláiste Chill Mhantáin, Burkeen, Wicklow Town","Burkeen, Co. Wicklow, Ireland",52.9856,-6.0665151
+596,"GAELCHOLÁISTE LUIMNIGH, MEAL SIOR ANRAÍ, LUIMNEACH","Sir Harry's Mall, Limerick, Ireland",52.6665912,-8.620134199999999
+597,"Coláiste an Eachréidh, An Coiléar Bán, Baile Átha an Rí","Tuam Rd, Gorteenacra, Athenry, Co. Galway, Ireland",53.3011203,-8.7467822
+598,"Colaiste na hInse, Bettystown, Co Meath","Bettystown, Ninch, Bettystown, Co. Meath, Ireland",53.6928674,-6.2455013
+599,"Donabate Community College, Portrane Road,, Donabate","Ballisk Common, Donabate, Co. Dublin, Ireland",53.4899919,-6.145870899999999
+600,"Banagher College, Banagher, Co. Offaly","Kylebeg, Banagher, Co. Offaly, Ireland",53.1868093,-7.9863692
+601,"Gaelcholáiste na Mara, Pairc Na bPiarsach, Bothar an Ghleanntain","Pearse Park, Yardland, Arklow, Co. Wicklow, Ireland",52.8013701,-6.166967199999999
+602,"Gaelcholáiste Chineál Eoghain, Muileann Thulaigh Gharbháin, Bun Cranncha","Mill Ln, Tullyarvan, Buncrana, Co. Donegal, Ireland",55.1440137,-7.452755799999999
+603,"Creagh College, Carnew Road, Gorey","Creagh, Gorey, Co. Wexford, Ireland",52.6755231,-6.3143657
+604,"Ardgillan Community College, Castlelands, Balbriggan","Castleland, Balbriggan, Co. Dublin, K32 KK33, Ireland",53.6006598,-6.1805202
+605,"Luttrellstown Community College, Luttrellstown Community College, Porterstown Road","Porterstown Road, Clonsilla, Annfield, Dublin 15, Co. Dublin, Ireland",53.3753316,-6.4088352
+606,"Coláiste Pobail Acla, Achill Sound, Westport","Polranny, Achill, Co. Mayo, Ireland",53.932702,-9.913690599999999
+607,"Kishoge Community College, Thomas Omer Way, Lucan","Thomas Omer Way, Kishoge, Lucan, Co. Dublin, Ireland",53.3362276,-6.4245941
+608,"Colaiste na Mí, Navan, Co. Meath, Johnstown Educational Campus, Johnstown","Johnstown Educational Campus, Johnstown, Navan, Co. Meath, CO15 T028, Ireland",53.6432835,-6.6491566
+609,"Maynooth Community College, Maynooth Education Campus, Moyglare Road","Maynooth Education Campus, Moyglare Road, Maynooth, Co. Kildare, Ireland",53.3843289,-6.5954684
+610,"Naas Community College, Craddockstown Road, Naas","Craddockstown Rd, Cradockstown North, Naas, Co. Kildare, Ireland",53.207033,-6.651251999999999
+611,"Coláiste Chú Chulainn, Lower Marshes, Dundalk","Marshes Lower, Dundalk, Co. Louth, Ireland",54.0005944,-6.3956471
+612,"DE LACY COLLEGE, Education Campus, Killegland","Ashbourne Education Campus, Killegland, Ashbourne, Co. Meath, A84 VF79, Ireland",53.5114491,-6.4155032
+613,"Lusk Community College, Raheny Lane, Rathmore Road","Raheny Cl, Rathmore Rd, Raheny, Lusk, Co. Dublin, Ireland",53.5297103,-6.156544299999999
+614,"Coláiste Bhaile Chláir, Claregalway, Co. Galway","Lakeview, Claregalway, Co. Galway, Ireland",53.3351311,-8.9365793
+615,"Gaelcholáiste Charraig Ui Leighin, Gaelcholáiste Charraig Uí Leighin, Tigh Pháirc an Uisce","Carrigaline Middle, Carrigaline, Co. Cork, Ireland",51.8163846,-8.3863567
+616,"Kingswood Community College, Ballymount Road, Kingswood Heights","Kingswood Ave, Kingswood Heights, Dublin 24, Ireland",53.3066255,-6.372162299999999
+617,"Coláiste Dún an Rí, Kingscourt, Co Cavan","Lower Main St Lower Main St, Lisasturrin, Kingscourt, Co. Cavan, A82 C3Y9, Ireland",53.9097387,-6.8058147
+618,"Carrigtwohill Post Primary, Unit A2, Fota Business Park","Killacloyne, Carrigtohill, Co. Cork, Ireland",51.9100964,-8.2937738
+619,"St Joseph's Community College, St. Joseph's Community College, Charlestown","Lowpark Ave, Lowpark, Charlestown, Co. Mayo, Ireland",53.960325,-8.801421999999999
+620,"Clonturk College, Swords Road, Whitehall","Plunket College, 9, Ireland, Swords Rd, Whitehall, Dublin, Co. Dublin, Ireland",53.37945449999999,-6.2482653
+621,"Thomond Community College, Moylish Park, Moylish","Dooneen Rd, Woodview Park, Limerick, Ireland",52.6784932,-8.6489581
+622,"Griffeen Community College, c/o Kishogue Community College, Thomas Omar Way","Care of, Kishoge Community College, Ninth Lock Rd, Kishoge, Lucan, Co. Dublin, Ireland",53.3360403,-6.4267664
+623,"Dunamase College (Colaiste Dhun Masc), Railway Street, Portlaoise","Railway St, Moneyballytyrrell, Portlaoise, Co. Laois, Ireland",53.03487519999999,-7.298974100000001
+624,"Swords Community College, Jugback Lane, Swords","Jugback Ln, Castlefarm, Swords, Co. Dublin, Ireland",53.4655394,-6.2258002
+625,"Mungret Community College, Old Stables Mungret College, Dromdarrig","Dromdarrig, Mungret Woods, Co. Limerick, Ireland",52.6311513,-8.681267499999999
+626,"Coláiste Naomh Eoin, Inis Meáin, Oileáin Árann","Carrownlisheen, Co. Galway, Ireland",53.0871596,-9.5890719
+627,"Newpark Comprehensive School, Newtown Park Avenue, Blackrock","Newtownpark Ave, Newtown Castlebyrn, Blackrock, Co. Dublin, Ireland",53.28988760000001,-6.173119
+628,"Mount Temple Comprehensive School, Malahide Road, Dublin 3","128 Malahide Road, Malahide Road, Clontarf, Dublin 3, D03 DX79, Ireland",53.3689601,-6.2225975
+629,"St Aidans Comprehensive School, Cootehill, Co Cavan","Station Rd, Lisnasaran, Cootehill, Co. Cavan, Ireland",54.066793,-7.062664
+630,"Tarbert Comprehensive School, Tarbert, Listowel","Tarbert, Kilpadogue, Tarbert, Co. Kerry, V31 WD66, Ireland",52.5739636,-9.3837619
+631,"Shannon Comprehensive School, Shannon, Co Clare","Tullyglass, Tullyvarraga, Shannon, Co. Clare, Ireland",52.7049505,-8.879698399999999
+632,"Ashton School, Blackrock Road, Cork","27 Boreenmanna Rd, Belfield Abbey, Ballintemple, Cork, Ireland",51.8925892,-8.4518135
+633,"Boherbue Comprehensive School, Boherbue, Mallow","Boherbue, Derrynatubbrid, Mallow, Co. Cork, Ireland",52.1595794,-9.0622809
+634,"St Columba's Comprehensive School, Glenties, Co Donegal","Glenties, Gortnamucklagh, Glenties, Co. Donegal, Ireland",54.7994626,-8.2861285
+635,"The Royal and Prior School, RAPHOE, Lifford","Raphoe Demesne, Co. Donegal, Ireland",54.87607440000001,-7.5898148
+636,"Scoil Chuimsitheach Chiaráin, An Cheathrú Rua, Co na Gaillimhe","Barraderry, Carraroe, Co. Galway, Ireland",53.2622391,-9.597817899999999
+637,"St. Clare's Comprehensive School, Manorhamilton, Co. Leitrim","Manorhamilton, Co. Leitrim, F91 FY82, Ireland",54.30192090000001,-8.1769719
+638,"Crescent College Comprehensive, Dooradoyle Rd, Dooradoyle","Dooradoyle Rd, Dooradoyle, Co. Limerick, Ireland",52.63662859999999,-8.640789
+639,"East Glendalough School, Station Road, Wicklow Town","Station Rd, Glebe, Wicklow, A67 PC52, Ireland",52.98731919999999,-6.054447499999999
+640,"TRINITY COMPREHENSIVE SCHOOL, BALLYMUN ROAD, DUBLIN 9","Ballymun Rd, Santry, Dublin 9, Ireland",53.3935792,-6.2634717
+641,"Holy Family Community School, Kilteel Road, Rathcoole","Kilteel Rd, Rathcoole, Co. Dublin, Ireland",53.27763909999999,-6.4794318
+642,"Phobailscoil Iosolde, Palmerstown, Dublin 20","Kennelsfort Rd Upper, Johnstown, Dublin, Ireland",53.3488913,-6.3768632
+643,"Ballinteer Community School, Broadford Road, Ballinteer","Broadford Rd, Ballinteer, Dublin, Ireland",53.280917,-6.260267499999999
+644,"Cabinteely Community School, Johnstown Road, Cabinteely","Johnstown Rd, Kilbogget, Cabinteely, Co. Dublin, D18 VH73, Ireland",53.26188699999999,-6.146344000000001
+645,"Scoil Phobail Chuil Mhin, Cluain Saileach, Baile Atha Cliath 15","Coolmine Cl, Clonsilla, Blanchardstown, Dublin 15, D15 PRX8, Ireland",53.3886899,-6.39567
+646,"Blakestown Community School, Sheepmoor Avenue, Blanchardstown","Sheepmoor Ave, Blakestown, Dublin, D15 F978, Ireland",53.3960209,-6.4027919
+647,"The Donahies Community School, Streamville Road, Dublin 13","Streamville Rd, Grange, Dublin 13, Ireland",53.3929374,-6.1732944
+648,"Portmarnock Community School, Carrickhill Road, Portmarnock","Carrickhill Rd Upper, Carrickhill, Portmarnock, Co. Dublin, Ireland",53.431772,-6.137490000000001
+649,"Malahide Community School, Broomfield, Malahide","Broomfield, Malahide, Co. Dublin, Ireland",53.43826499999999,-6.1526534
+650,"Holy Child Community School, Pearse St, Sallynoggin","Pearse Street Sallynoggin, Thomastown, Dublin, A96 E0C9, Ireland",53.2758792,-6.1372059
+651,"St Marks Community School, Cookstown Rd, Tallaght","Cookstown Rd, Tallaght, Dublin 24, Ireland",53.2921814,-6.3884213
+652,"Tallaght Community School, Balrothery, Tallaght","Balrothery, Dublin 24, D24 X759, Ireland",53.2938464,-6.3378926
+653,"Old Bawn Community School, Old Bawn, Tallaght","Oldbawn, Tallaght, Dublin 24, Ireland",53.2832867,-6.3711983
+654,"Killinarden Community School, Killinarden, Tallaght","Killinarden, Tallaght, Dublin, Ireland",53.2761232,-6.397042099999999
+655,"St Aidan's Community School, Brookfield, Tallaght","Brookview Ave, Jobstown, Dublin 24, Ireland",53.2866014,-6.412533
+656,"Hartstown Community School, Hartstown, Clonsilla","Hartstown Rd, Blakestown, Dublin 15, D15 X049, Ireland",53.39669079999999,-6.416326499999999
+657,"Pobalscoil Neasáin, Baldoyle, Dublin 13","School Ln, Baldoyle, Dublin 13, D13 F6N3, Ireland",53.3920796,-6.1310121
+658,"St. Tiernan's Community School, Parkvale, Balally","Parkvale, Balally, Dublin, Co. Dublin, D16 KW26, Ireland",53.28167910000001,-6.2387565
+659,"Rosmini Community School, All Hallows College Campus DCU, Gracepark Road","9 Grace Park Rd, Drumcondra, Dublin 9, Ireland",53.3710821,-6.245012099999999
+660,"Bailieborough Community School, Bailieborough, Co Cavan","Virginia Rd, Tanderagee, Bailieborough, Co. Cavan, Ireland",53.9135139,-6.9735109
+661,"Tullow Community School, The Mullawn, Tullow","Templeowen, The Mullawn, Co. Carlow, R93 DT20, Ireland",52.7994902,-6.732312599999999
+662,"Community School, Castlecomer, Co Kilkenny","Castlecomer, Co. Kilkenny, Ireland",52.8037899,-7.215698199999999
+663,"Leixlip Community School, Celbridge Road, Leixlip","Celbridge Rd, Leixlip, Co. Kildare, Ireland",53.3641176,-6.4989427
+664,"Scoil Mhuire Community School, Clane, Naas","Prosperous Rd, Crockaun Commons, Clane, Co. Kildare, W91 PD79, Ireland",53.29182249999999,-6.698033799999999
+665,"St. Kilian's Community School, Ballywaltrim, Bray","School's Road, Ballywaltrim, Bray, Co. Wicklow, Ireland",53.1854668,-6.126797799999999
+666,"Ballincollig Community School, Innishmore, Ballincollig","Innishmore, Ballincollig, Co. Cork, Ireland, Ballincollig, Co. Cork, Ireland",51.890044,-8.6023365
+667,"Beara Community School, Castletownbere, Beara","Beara Community School, Cametringane, Castletown-Bearhaven, Co. Cork, Ireland",51.6476511,-9.9135981
+668,"Carrigaline Community School, Waterpark, Carrigaline","Waterpark, Carrigaline Middle, Carrigaline, Co. Cork, P43 TX65, Ireland",51.8180177,-8.3865783
+669,"Millstreet Community School, Millstreet Town, Co Cork","Coomlogane, Millstreet, Co. Cork, Ireland",52.06227699999999,-9.0690189
+670,"St Peter's Community School, Passage West, Co Cork","Passage West, Maulbaun, Passage West, Co. Cork, Ireland",51.8662938,-8.3402873
+671,"Douglas Community School, Clermont Avenue, Douglas","Clermont Ave, Douglas, Cork, T12 HF77, Ireland",51.8788253,-8.4430259
+672,"Bishopstown Community School, Westgate Road, Bishopstown","Westgate Rd, Bishopstown, Cork, Ireland",51.883534,-8.5247678
+673,"Mayfield Community School, Old Youghal Road, Mayfield","Old Youghal Rd, Mayfield, Cork, T23 DP95, Ireland",51.9125599,-8.4436422
+674,"Carndonagh Community School, Carndonagh Community School, P.O. Box 4","Church Rd, Gort Glebe, Carndonagh, Co. Donegal, Ireland",55.24996119999999,-7.2698014
+675,"Rosses Community School, Chapel Rd, Dungloe","Dunglow, Dungloe, Co. Donegal, Ireland",54.9495334,-8.3516908
+676,"Pobalscoil Chloich Cheannfhaola, An Fálcarrach, Leitir Ceanainn","Ballyconnell, Falcarragh, Co. Donegal, F92 KR25, Ireland",55.1418815,-8.099637
+677,"Pobalscoil Ghaoth Dobhair, Na Doirí Beaga, Leitir Ceannain","6 Port Arthur View, Lunniagh, Derrybeg, Co. Donegal, Ireland",55.0966183,-8.2786306
+678,"Scoil Phobail Mhic Dara, Carna, Co na Gaillimhe","Carna, Co. Galway, Ireland",53.323963,-9.818425999999999
+679,"Scoil Phobail, Ardbear, Clifden","Ballyconneely Road, Ardbear, Clifden, Co. Galway, Ireland",53.4784073,-10.0218079
+680,"Portumna Community School, St. Brigid's Road, Portumna","St Brigids Rd, Fairyhill, Portumna, Co. Galway, Ireland",53.0940952,-8.2200886
+681,"Dunmore Community School, Dunmore, Co Galway","Barrack St, Abbeyland South, Dunmore, Co. Galway, Ireland",53.61665499999999,-8.740063899999999
+682,"Mountmellick Community School, Mountmellick, Co Laois","Market St, Townparks, Mountmellick, Co. Laois, Ireland",53.1176082,-7.3271745
+683,"Heywood Community School, Ballinakill, Portlaoise","Haywood Demesne, Ballinakill, Co. Laois, Ireland",52.8854295,-7.3003724
+684,"Ramsgrange Community School, Ramsgrange, New Ross","Unnamed Road, Ramsgrange, Co. Wexford, Ireland",52.2456153,-6.915785899999999
+685,"Moyne Community School, Moyne, Co Longford","Moyne, Farmullagh, Moyne, Co. Longford, Ireland",53.9087849,-7.647365499999999
+686,"Ardee Community School, Ardee, Co Louth","Stonylane, Ardee, Co. Louth, Ireland",53.8515668,-6.5463663
+687,"St Caimin's Community School, Tullyvarraga, Shannon","Tullyvarraga, Shannon, Co. Clare, Ireland",52.70536509999999,-8.8627477
+688,"Kilrush Community School, Kilrush, Co. Clare","Kilrush, Co. Clare, Ireland",52.6423229,-9.4836843
+689,"St Ciaran's Community School, Navan Rd, Kells","Gardenrath, Kells, Co. Meath, Ireland",53.724565,-6.871833
+690,"Ballyhaunis Community School, Knock Road, Ballyhaunis","Knock Rd, Tooraree, Ballyhaunis, Co. Mayo, Ireland",53.7652628,-8.780729
+691,"Ballinrobe Community School, Convent Road, Ballinrobe","Convent Rd, Friarsquarter West, Ballinrobe, Co. Mayo, Ireland",53.62317960000001,-9.2123198
+692,"St.Brendan's Community School, Birr, Co Offaly","Birr, Townparks, Birr, Co. Offaly, Ireland",53.1050072,-7.916319700000001
+693,"Gorey Community School, Esmonde Street, Gorey","Esmonde St, Mill Lands, Gorey, Co. Wexford, Ireland",52.6731779,-6.2876501
+694,"Castlerea Community School, Castlerea, Co. Roscommon","Castlerea, Knockroe, Castlerea, Co. Roscommon, Ireland",53.7656374,-8.4837213
+695,"St Louis Community School, Chapel Street, Kiltimagh","Kiltimagh, Cordarragh, Kiltimagh, Co. Mayo, Ireland",53.8484098,-9.0020908
+696,"Ashbourne Community School, Deerpark, Ashbourne","Dublin Road, 1 Deerpark, Archerstown, Ashbourne, Co. Meath, Ireland",53.5041275,-6.388115200000001
+697,"Community School, Carrick-On-Shannon, Leitrim","2-12 Glen Carrick, Summerhill, Carrick-On-Shannon, Co. Leitrim, N41 XE09, Ireland",53.94903799999999,-8.085044
+698,"Cashel Community School, Dualla Road,, Cashel,","3a Bishop's Ave, St. Francisabbey, Co. Tipperary, Ireland",52.5190242,-7.880995700000001
+699,"Gort Community School, Gort, Co. Galway","Gortstuckanagh, Gort, Co. Galway, H91 C9K1, Ireland",53.0619121,-8.8121714
+700,"Kinsale Community School, Kinsale, Co Cork","kinsale community school, Ballynacubby, Kinsale, Co. Cork, Ireland",51.70442809999999,-8.530442899999999
+701,"Loreto Community School, Milford, Co Donegal","Loreto Community School, Convent Rd, Millford, Milford, Co. Donegal, Ireland",55.0889377,-7.709008700000001
+702,"Moate Community School, Church Street, Moate","Church St, Aghanargit, Moate, Co. Westmeath, N37 DY70, Ireland",53.3967393,-7.7260493
+703,"John The Baptist Community School, Hospital, Co Limerick","Hospital, Barrysfarm, Hospital, Co. Limerick, Ireland",52.4735323,-8.434838
+704,"Pobalscoil Inbhear Scéine, Kenmare, Co. Kerry","Railway Rd, Kenmare, Co. Kerry, V93 K580, Ireland",51.8821731,-9.583001699999999
+705,"Scoil Phobail Sliabh Luachra, Rathmore, Co. Kerry","Rath More, Rathmore, Co. Kerry, Ireland",52.0797199,-9.246451799999999
+706,"St Wolstan's Community School, Ballymakealy, Clane Rd","Shackleton Rd, Ballymakealy Lower, Celbridge, Co. Kildare, Ireland",53.3339478,-6.561220199999999
+707,"Coláiste Cholmcille, College St, Ballyshannon","College St, Camp, Co. Donegal, Ireland",54.5035032,-8.1840946
+708,"Boyne Community School, Trim, Co. Meath","Dublin Rd, Trim, Co. Meath, Ireland",53.550757,-6.784501
+709,"BLACKWATER COMMUNITY SCHOOL, Ballyanchor Road, Lismore","Lismore, Ballyanchor Road, Co. Waterford, P51 N472, Ireland",52.1351178,-7.940269900000001
+710,"St. Colmcille's Community School, Scholarstown Rd, Knocklyon","Scholarstown Rd, Knocklyon, Dublin, Co. Dublin, D16 H298, Ireland",53.2786269,-6.315072
+711,"Pobalscoil Chorca Dhuibhne, An Gróbh, Daingean Uí Chúis","Pobalscoil Chorca Dhuibhne, Spa Rd, Grove, Dingle, Co. Kerry, Ireland",52.143275,-10.2672394
+712,"St Attracta's Community School, Tubbercurry, Co. Sligo","Ballyara, Tubbercurry, Co. Sligo, Ireland",54.05341130000001,-8.7604927
+713,"Pobalscoil na Tríonóide, Frogmore, Youghal","Parkmountain, Youghal, Co. Cork, P36 Y763, Ireland",51.95128,-7.873863099999999
+714,"GLENAMADDY COMMUNITY SCHOOL, Church Street, Glenamaddy","Glenamaddy, Co. Galway, Ireland",53.6078395,-8.5653948
+715,"GALLEN COMMUNITY SCHOOL, Main Street, Ferbane","Lower Main St, Ferbane, Co. Offaly, R42 N8P8, Ireland",53.269388,-7.8285363
+716,"SKIBBEREEN COMMUNITY SCHOOL, Skibbereen, Co Cork","Gortnaclohy, Co. Cork, Ireland",51.55046600000001,-9.2570479
+717,"ATHBOY COMMUNITY SCHOOL, ATHBOY, CO MEATH","Mullaghstones, Athboy, Co. Meath, Ireland",53.6260616,-6.9134088
+718,"BALLINAMORE COMMUNITY SCHOOL, BALLINAMORE, CO LEITRIM","R202, Kildorragh, Co. Leitrim, Ireland",54.0582796,-7.7926755
+719,"KILDARE TOWN COMMUNITY SCHOOL, Dunmurry Road, Kildare Town","Dunmurry Rd, Crockanure Glebe, Co. Kildare, R51 D288, Ireland",53.169971,-6.9140788
+720,"MOUNTRATH COMMUNITY SCHOOL, Dysartbeigh, Mountrath","Dysartbeigh, Dysartbeagh, Mountrath, Co. Laois, Ireland",52.995324,-7.4812815
+721,"Ballymakenny College, Ballymakenny Road, Drogheda","Ballymakenny Rd, Greenbatter, Drogheda, Co. Louth, Ireland",53.73114580000001,-6.3446586
+722,"Celbridge Community School, Moortown, Maynooth Road","R405, Crodaun, Celbridge, Co. Kildare, Ireland",53.35911729999999,-6.5504321
